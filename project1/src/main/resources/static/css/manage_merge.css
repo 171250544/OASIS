@@ -1,0 +1,12 @@
+#searchDiv{
+	padding: 2rem;
+	border-bottom: 1px rgba(0,0,0,0.1) solid;
+}
+
+#ansDiv{
+	padding: 2rem;
+}
+
+#mergeSubmitBtn{
+	margin-top: 1rem;
+}

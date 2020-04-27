@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.wordmapper">
+
+
+    <insert id="insert_similarwords" parameterType="com.example.demo.po.similar_word">
+        insert into similarwords(originword,similarword) values (#{originword},#{similarword})
+    </insert>
+
+    <insert id="insert_similarwords_root" parameterType="com.example.demo.po.similar_word">
+        insert into similarwords_root(originword,similarword) values (#{originword},#{similarword})
+    </insert>
+
+    <!--<delete id="clear_similarwords">-->
+        <!--delete * from similarword-->
+    <!--</delete>-->
+
+    <select id="findSynByRoot" resultType="string">
+        select similarword from similarwords_root where originword = #{originword}
+    </select>
+
+    <!--<select id="findSynByUser" resultType="string">-->
+        <!--select similarword from similarwords where originword = #{originword}-->
+    <!--</select>-->
+
+    <select id="selectAllAff" resultType="string">
+        select name from affiliation_simple
+    </select>
+
+    <select id="selectAff" resultType="string">
+        select name from affiliation_simple where name like #{name};
+    </select>
+
+    <!--<select id="selectRootSyns" resultType="string">-->
+         <!--select similarword form similarwords_root where originword = #{name}-->
+    <!--</select>-->
+
+</mapper>

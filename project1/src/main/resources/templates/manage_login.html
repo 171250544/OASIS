@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<link rel="stylesheet" type="text/css" href="css/manage_login.css"/>
+	</head>
+	<body>
+		<div id="app">
+			<el-container id="container">
+			  <el-header id="header">
+				<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" 
+					id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+					<h1 id="titleOASIS">OASIS</h1>
+					<el-menu-item index="1">搜索中心</el-menu-item>
+					<el-menu-item index="2">关系图谱</el-menu-item>
+					<el-menu-item index="3">管理数据</el-menu-item>
+				</el-menu>
+			  </el-header>
+			  <el-main id="main">
+				  <div id="loginTable">
+					<h1>管理员登录</h1>
+					<el-divider></el-divider>
+					<el-form label-position="left" label-width="80px" :model="formLabelAlign">
+						<el-form-item label="用户名">
+							<el-input v-model="formLabelAlign.username"></el-input>
+						</el-form-item>
+						<el-divider></el-divider>
+						<el-form-item label="密码">
+							<el-input type="password" v-model="formLabelAlign.password" @keyup.enter.native = 'submit()' autocomplete="off"></el-input>
+						</el-form-item>
+						<el-divider></el-divider>
+						<el-form-item>
+							<el-button type="primary" @click="submit" id="submitBtn">提交</el-button>
+						</el-form-item>
+					</el-form>
+				  </div>
+			  </el-main>
+			</el-container>
+		</div>
+		<!-- import Vue before Element -->
+		<!-- <script src="https://unpkg.com/vue/dist/vue.js"></script> -->
+		<script src="js/vue.js"></script>
+		<!-- import JavaScript -->
+		<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+		<script src="js/manage_login.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

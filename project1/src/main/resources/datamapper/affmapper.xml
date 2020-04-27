@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.affmapper">
+
+    <select id="getAuthorsByAffname" resultType="java.lang.Integer">
+  select id from author_simple inner join(
+  select distinct author_name,author_affname from paperinformation where
+  author_affname = #{name} )t
+  on author_simple.name=t.author_name and author_simple.affiliation=t.author_affname;
+   </select>
+
+    <select id="getAffNameByPart" resultType="java.lang.String">
+      select name from affiliation_simple where name like #{name};
+   </select>
+
+    <select id="getAffIdByName" resultType="java.lang.Integer">
+      select id from affiliation_simple where name = #{affname} limit 1;
+   </select>
+
+    <select id="getSyn" resultType="string">
+        select similarword from similarwords_root where originword = #{originword}
+    </select>
+</mapper>

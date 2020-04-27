@@ -1,0 +1,1297 @@
+Statistical Errors in Software Engineering Experiments: A Preliminary Literature Review,R. P. Reyes Ch.; O. Dieste; E. R. Fonseca C.; N. Juristo,2018
+3rd FME Workshop on Formal Methods in Software Engineering (FormaliSE 2015),S. Gnesi; N. Plat,2015
+A Novel Neural Source Code Representation Based on Abstract Syntax Tree,J. Zhang; X. Wang; H. Zhang; H. Sun; K. Wang; X. Liu,2019
+Balancing Soundness and Efficiency for Practical Testing of Configurable Systems,S. Souto; M. D'Amorim; R. Gheyi,2017
+Stochastic Optimization of Program Obfuscation,H. Liu; C. Sun; Z. Su; Y. Jiang; M. Gu; J. Sun,2017
+Search-Based Energy Testing of Android,R. Jabbarvand; J. Lin; S. Malek,2019
+Syntactic and Semantic Differencing for Combinatorial Models of Test Designs,R. Tzoref-Brill; S. Maoz,2017
+A Test-Suite Diagnosability Metric for Spectrum-Based Fault Localization Approaches,A. Perez; R. Abreu; A. van Deursen,2017
+Statically Checking Web API Requests in JavaScript,E. Wittern; A. T. T. Ying; Y. Zheng; J. Dolby; J. A. Laredo,2017
+Repairing Event Race Errors by Controlling Nondeterminism,C. Q. Adamsen; A. M?ller; R. Karim; M. Sridharan; F. Tip; K. Sen,2017
+Automatically Generating Precise Oracles from Structured Natural Language Specifications,M. Motwani; Y. Brun,2019
+Code Defenders: Crowdsourcing Effective Tests and Subtle Mutants with a Mutation Testing Game,J. M. Rojas; T. D. White; B. S. Clegg; G. Fraser,2017
+Leveraging Artifact Trees to Evolve and Reuse Safety Cases,A. Agrawal; S. Khoshmanesh; M. Vierhauser; M. Rahimi; J. Cleland-Huang; R. Lutz,2019
+BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes,D. A. Tomassi; N. Dmeiri; Y. Wang; A. Bhowmick; Y. Liu; P. T. Devanbu; B. Vasilescu; C. Rubio-Gonz¨¢lez,2019
+Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests,A. Choudhary; S. Lu; M. Pradel,2017
+A SEALANT for Inter-App Security Holes in Android,Y. K. Lee; J. Y. Bang; G. Safi; A. Shahbazian; Y. Zhao; N. Medvidovic,2017
+Mining Software Defects: Should We Consider Affected Releases?,S. Yatish; J. Jiarpakdee; P. Thongtanunam; C. Tantithamthavorn,2019
+LEOPARD: Identifying Vulnerable Code for Vulnerability Assessment Through Program Metrics,X. Du; B. Chen; Y. Li; J. Guo; Y. Zhou; Y. Liu; Y. Jiang,2019
+On Learning Meaningful Code Changes Via Neural Machine Translation,M. Tufano; J. Pantiuchina; C. Watson; G. Bavota; D. Poshyvanyk,2019
+FastLane: Test Minimization for Rapidly Deployed Large-Scale Online Services,A. A. Philip; R. Bhagwan; R. Kumar; C. S. Maddila; N. Nagppan,2019
+DLFinder: Characterizing and Detecting Duplicate Logging Code Smells,Z. Li; T. Chen; J. Yang; W. Shang,2019
+FLOSS Participants' Perceptions About Gender and Inclusiveness: A Survey,A. Lee; J. C. Carver,2019
+Class Imbalance Evolution and Verification Latency in Just-in-Time Software Defect Prediction,G. G. Cabral; L. L. Minku; E. Shihab; S. Mujahid,2019
+Learning to Prioritize Test Programs for Compiler Testing,J. Chen; Y. Bai; D. Hao; Y. Xiong; H. Zhang; B. Xie,2017
+Fuzzy Fine-Grained Code-History Analysis,F. Servant; J. A. Jones,2017
+Resource-Aware Program Analysis Via Online Abstraction Coarsening,K. Heo; H. Oh; H. Yang,2019
+LibD: Scalable and Precise Third-Party Library Detection in Android Markets,M. Li; W. Wang; P. Wang; S. Wang; D. Wu; J. Liu; R. Xue; W. Huo,2017
+Zero-Overhead Path Prediction with Progressive Symbolic Execution,R. Rutledge; S. Park; H. Khan; A. Orso; M. Prvulovic; A. Zajic,2019
+Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects,D. Kavaler; A. Trockman; B. Vasilescu; V. Filkov,2019
+Investigating the Effects of Gender Bias on GitHub,N. Imtiaz; J. Middleton; J. Chakraborty; N. Robson; G. Bai; E. Murphy-Hill,2019
+Training Binary Classifiers as Data Structure Invariants,F. Molina; R. Degiovanni; P. Ponzio; G. Regis; N. Aguirre; M. Frias,2019
+Symbolic Model Extraction for Web Application Verification,I. Bocic; T. Bultan,2017
+The Evolution of Continuous Experimentation in Software Product Development: From Data to a Data-Driven Organization at Scale,A. Fabijan; P. Dmitriev; H. H. Olsson; J. Bosch,2017
+Adaptive Unpacking of Android Apps,L. Xue; X. Luo; L. Yu; S. Wang; D. Wu,2017
+Latent Patterns in Activities: A Field Study of How Developers Manage Context,S. Chattopadhyay; N. Nelson; Y. Ramirez Gonzalez; A. Amelia Leon; R. Pandita; A. Sarma,2019
+Learning Syntactic Program Transformations from Examples,R. Rolim; G. Soares; L. D'Antoni; O. Polozov; S. Gulwani; R. Gheyi; R. Suzuki; B. Hartmann,2017
+Why Does Code Review Work for Open Source Software Communities?,A. Alami; M. Leavitt Cohn; A. W?sowski,2019
+The Seven Sins: Security Smells in Infrastructure as Code Scripts,A. Rahman; C. Parnin; L. Williams,2019
+IconIntent: Automatic Identification of Sensitive UI Widgets Based on Icon Classification for Android Apps,X. Xiao; X. Wang; Z. Cao; H. Wang; P. Gao,2019
+Detecting Atomicity Violations for Event-Driven Node.js Applications,X. Chang; W. Dou; Y. Gao; J. Wang; J. Wei; T. Huang,2019
+Dynamic Slicing for Android,T. Azim; A. Alavi; I. Neamtiu; R. Gupta,2019
+The Product Backlog,T. Sedano; P. Ralph; C. P¨¦raire,2019
+How Do Developers Fix Cross-Project Correlated Bugs? A Case Study on the GitHub Scientific Python Ecosystem,W. Ma; L. Chen; X. Zhang; Y. Zhou; B. Xu,2017
+DeepPerf: Performance Prediction for Configurable Software with Deep Sparse Neural Network,H. Ha; H. Zhang,2019
+Heuristically Matching Solution Spaces of Arithmetic Formulas to Efficiently Reuse Solutions,A. Aquino; G. Denaro; M. Pezz¨¨,2017
+Developer Reading Behavior While Summarizing Java Methods: Size and Context Matters,N. J. Abid; B. Sharif; N. Dragan; H. Alrasheed; J. I. Maletic,2019
+SafeCheck: Safety Enhancement of Java Unsafe API,S. Huang; J. Guo; S. Li; X. Li; Y. Qi; K. Chow; J. Huang,2019
+StoryDroid: Automated Generation of Storyboard for Android Apps,S. Chen; L. Fan; C. Chen; T. Su; W. Li; Y. Liu; L. Xu,2019
+Exposing Library API Misuses Via Mutation Analysis,M. Wen; Y. Liu; R. Wu; X. Xie; S. Cheung; Z. Su,2019
+Semantically Enhanced Software Traceability Using Deep Learning Techniques,J. Guo; J. Cheng; J. Cleland-Huang,2017
+A System Identification Based Oracle for Control-CPS Software Fault Localization,Z. He; Y. Chen; E. Huang; Q. Wang; Y. Pei; H. Yuan,2019
+Detecting Incorrect Build Rules,N. Licker; A. Rice,2019
+Unsupervised Software-Specific Morphological Forms Inference from Informal Discussions,C. Chen; Z. Xing; X. Wang,2017
+ActionNet: Vision-Based Workflow Action Recognition From Programming Screencasts,D. Zhao; Z. Xing; C. Chen; X. Xia; G. Li,2019
+Hunting for Bugs in Code Coverage Tools via Randomized Differential Testing,Y. Yang; Y. Zhou; H. Sun; Z. Su; Z. Zuo; L. Xu; B. Xu,2019
+When Code Completion Fails: A Case Study on Real-World Completions,V. J. Hellendoorn; S. Proksch; H. C. Gall; A. Bacchelli,2019
+Analyzing APIs Documentation and Code to Detect Directive Defects,Y. Zhou; R. Gu; T. Chen; Z. Huang; S. Panichella; H. Gall,2017
+Deep Differential Testing of JVM Implementations,Y. Chen; T. Su; Z. Su,2019
+Characterizing and Detecting Anti-Patterns in the Logging Code,B. Chen; Z. M. Jiang,2017
+RESTler: Stateful REST API Fuzzing,V. Atlidakis; P. Godefroid; M. Polishchuk,2019
+Supporting Analysts by Dynamic Extraction and Classification of Requirements-Related Knowledge,Z. Shakeri Hossein Abad; V. Gervasi; D. Zowghi; B. H. Far,2019
+Travioli: A Dynamic Analysis for Detecting Data-Structure Traversals,R. Padhye; K. Sen,2017
+Machine-Learning-Guided Selectively Unsound Static Analysis,K. Heo; H. Oh; K. Yi,2017
+Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing,J. Wang; G. Dong; J. Sun; X. Wang; P. Zhang,2019
+FOCUS: A Recommender System for Mining API Function Calls and Usage Patterns,P. T. Nguyen; J. Di Rocco; D. Di Ruscio; L. Ochoa; T. Degueule; M. Di Penta,2019
+Why Do Episodic Volunteers Stay in FLOSS Communities?,A. Barcomb; K. Stol; D. Riehle; B. Fitzgerald,2019
+Detecting User Story Information in Developer-Client Conversations to Generate Extractive Summaries,P. Rodeghero; S. Jiang; A. Armaly; C. McMillan,2017
+Supporting Software Developers with a Holistic Recommender System,L. Ponzanelli; S. Scalabrino; G. Bavota; A. Mocci; R. Oliveto; M. Di Penta; M. Lanza,2017
+Distilling Neural Representations of Data Structure Manipulation using fMRI and fNIRS,Y. Huang; X. Liu; R. Krueger; T. Santander; X. Hu; K. Leach; W. Weimer,2019
+Glacier: Transitive Class Immutability for Java,M. Coblenz; W. Nelson; J. Aldrich; B. Myers; J. Sunshine,2017
+Adaptive Coverage and Operational Profile-Based Testing for Reliability Improvement,A. Bertolino; B. Miranda; R. Pietrantuono; S. Russo,2017
+Distance-Based Sampling of Software Configuration Spaces,C. Kaltenecker; A. Grebhahn; N. Siegmund; J. Guo; S. Apel,2019
+DifFuzz: Differential Fuzzing for Side-Channel Analysis,S. Nilizadeh; Y. Noller; C. S. Pasareanu,2019
+Machine Learning-Based Detection of Open Source License Exceptions,C. Vendome; M. Linares-V¨¢squez; G. Bavota; M. Di Penta; D. German; D. Poshyvanyk,2017
+Investigating the Impact of Multiple Dependency Structures on Software Defects,D. Cui; T. Liu; Y. Cai; Q. Zheng; Q. Feng; W. Jin; J. Guo; Y. Qu,2019
+PEoPL: Projectional Editing of Product Lines,B. Behringer; J. Palz; T. Berger,2017
+Interactive Production Performance Feedback in the IDE,J. Cito; P. Leitner; M. Rinard; H. C. Gall,2019
+A Neural Model for Generating Natural Language Summaries of Program Subroutines,A. LeClair; S. Jiang; C. McMillan,2019
+Becoming Agile: A Grounded Theory of Agile Transitions in Practice,R. Hoda; J. Noble,2017
+"Understanding the Impressions, Motivations, and Barriers of One Time Code Contributors to FLOSS Projects: A Survey",A. Lee; J. C. Carver; A. Bosu,2017
+Statistical Algorithmic Profiling for Randomized Approximate Programs,K. Joshi; V. Fernando; S. Misailovic,2019
+A General Framework for Dynamic Stub Injection,M. Christakis; P. Emmisberger; P. Godefroid; P. M¨¹ller,2017
+Multifaceted Automated Analyses for Variability-Intensive Embedded Systems,S. Lazreg; M. Cordy; P. Collet; P. Heymans; S. Mosser,2019
+Type Migration in Ultra-Large-Scale Codebases,A. Ketkar; A. Mesbah; D. Mazinanian; D. Dig; E. Aftandilian,2019
+PIVOT: Learning API-Device Correlations to Facilitate Android Compatibility Issue Detection,L. Wei; Y. Liu; S. Cheung,2019
+Could I Have a Stack Trace to Examine the Dependency Conflict Issue?,Y. Wang; M. Wen; R. Wu; Z. Liu; S. H. Tan; Z. Zhu; H. Yu; S. Cheung,2019
+Practical GUI Testing of Android Applications Via Model Abstraction and Refinement,T. Gu; C. Sun; X. Ma; C. Cao; C. Xu; Y. Yao; Q. Zhang; J. Lu; Z. Su,2019
+Classifying Developers into Core and Peripheral: An Empirical Study on Count and Network Metrics,M. Joblin; S. Apel; C. Hunsen; W. Mauerer,2017
+A Guided Genetic Algorithm for Automated Crash Reproduction,M. Soltani; A. Panichella; A. van Deursen,2017
+Evaluating and Improving Fault Localization,S. Pearson; J. Campos; R. Just; G. Fraser; R. Abreu; M. D. Ernst; D. Pang; B. Keller,2017
+Analysis and Detection of Information Types of Open Source Software Issue Discussions,D. Arya; W. Wang; J. L. C. Guo; J. Cheng,2019
+Natural Software Revisited,M. Rahman; D. Palani; P. C. Rigby,2019
+Automatic Text Input Generation for Mobile Testing,P. Liu; X. Zhang; M. Pistoia; Y. Zheng; M. Marques; L. Zeng,2017
+Learning to Spot and Refactor Inconsistent Method Names,K. Liu; D. Kim; T. F. Bissyand¨¦; T. Kim; K. Kim; A. Koyuncu; S. Kim; Y. Le Traon,2019
+ZenIDS: Introspective Intrusion Detection for PHP Applications,B. Hawkins; B. Demsky,2017
+VFix: Value-Flow-Guided Precise Program Repair for Null Pointer Dereferences,X. Xu; Y. Sui; H. Yan; J. Xue,2019
+View-Centric Performance Optimization for Database-Backed Web Applications,J. Yang; C. Yan; C. Wan; S. Lu; A. Cheung,2019
+ReCDroid: Automatically Reproducing Android Application Crashes from Bug Reports,Y. Zhao; T. Yu; T. Su; Y. Liu; W. Zheng; J. Zhang; W. G.J. Halfond,2019
+Automated Transplantation and Differential Testing for Clones,T. Zhang; M. Kim,2017
+Parallel Refinement for Multi-Threaded Program Verification,L. Yin; W. Dong; W. Liu; J. Wang,2019
+On Cross-Stack Configuration Errors,M. Sayagh; N. Kerzazi; B. Adams,2017
+Supporting the Statistical Analysis of Variability Models,R. Heradio; D. Fernandez-Amoros; C. Mayr-Dorn; A. Egyed,2019
+Making Malory Behave Maliciously: Targeted Fuzzing of Android Execution Environments,S. Rasthofer; S. Arzt; S. Triller; M. Pradel,2017
+"Gigahorse: Thorough, Declarative Decompilation of Smart Contracts",N. Grech; L. Brent; B. Scholz; Y. Smaragdakis,2019
+Analyzing and Supporting Adaptation of Online Code Examples,T. Zhang; D. Yang; C. Lopes; M. Kim,2019
+"Graph-Based Mining of In-the-Wild, Fine-Grained, Semantic Code Change Patterns",H. A. Nguyen; T. N. Nguyen; D. Dig; S. Nguyen; H. Tran; M. Hilton,2019
+Optimizing Test Placement for Module-Level Regression Testing,A. Shi; S. Thummalapenta; S. K. Lahiri; N. Bjorner; J. Czerwonka,2017
+RClassify: Classifying Race Conditions in Web Applications via Deterministic Replay,L. Zhang; C. Wang,2017
+"An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps",Y. Tsutano; S. Bachala; W. Srisa-An; G. Rothermel; J. Dinh,2017
+Mimic: UI Compatibility Testing System for Android Apps,T. Ki; C. M. Park; K. Dantu; S. Y. Ko; L. Ziarek,2019
+Test-Driven Code Review: An Empirical Study,D. Spadini; F. Palomba; T. Baum; S. Hanenberg; M. Bruntink; A. Bacchelli,2019
+Recovering Variable Names for Minified Code with Usage Contexts,H. Tran; N. Tran; S. Nguyen; H. Nguyen; T. N. Nguyen,2019
+SLF: Fuzzing without Valid Seed Inputs,W. You; X. Liu; S. Ma; D. Perry; X. Zhang; B. Liang,2019
+Guiding Deep Learning System Testing Using Surprise Adequacy,J. Kim; R. Feldt; S. Yoo,2019
+Grey-Box Concolic Testing on Binary Code,J. Choi; J. Jang; C. Han; S. K. Cha,2019
+A Framework for Checking Regression Test Selection Tools,C. Zhu; O. Legunsen; A. Shi; M. Gligoric,2019
+What Causes My Test Alarm? Automatic Cause Analysis for Test Alarms in System and Integration Testing,H. Jiang; X. Li; Z. Yang; J. Xuan,2017
+To Type or Not to Type: Quantifying Detectable Bugs in JavaScript,Z. Gao; C. Bird; E. T. Barr,2017
+Analysis and Testing of Notifications in Android Wear Applications,H. Zhang; A. Rountev,2017
+Intention-Based Integration of Software Variants,M. Lillack; S. Stanciulescu; W. Hedman; T. Berger; A. W?sowski,2019
+Rotten Green Tests,J. Delplanque; S. Ducasse; G. Polito; A. P. Black; A. Etien,2019
+Reasonably-Most-General Clients for JavaScript Library Analysis,E. K. Kristensen; A. M?ller,2019
+SMOKE: Scalable Path-Sensitive Memory Leak Detection for Millions of Lines of Code,G. Fan; R. Wu; Q. Shi; X. Xiao; J. Zhou; C. Zhang,2019
+UML Diagram Refinement (Focusing on Class-and Use Case Diagrams),D. Faitelson; S. Tyszberowicz,2017
+Performance Diagnosis for Inefficient Loops,L. Song; S. Lu,2017
+CTRAS: Crowdsourced Test Report Aggregation and Summarization,R. Hao; Y. Feng; J. A. Jones; Y. Li; Z. Chen,2019
+Precise Condition Synthesis for Program Repair,Y. Xiong; J. Wang; R. Yan; J. Zhang; S. Han; G. Huang; L. Zhang,2017
+Probabilistic Disassembly,K. Miller; Y. Kwon; Y. Sun; Z. Zhang; X. Zhang; Z. Lin,2019
+How Reliable is the Crowdsourced Knowledge of Security Implementation?,M. Chen; F. Fischer; N. Meng; X. Wang; J. Grossklags,2019
+iSENSE: Completion-Aware Crowdtesting Management,J. Wang; Y. Yang; R. Krishna; T. Menzies; Q. Wang,2019
+Mining Historical Test Logs to Predict Bugs and Localize Faults in the Test Logs,A. Amar; P. C. Rigby,2019
+Feedback-Based Debugging,Y. Lin; J. Sun; Y. Xue; Y. Liu; J. Dong,2017
+Exploring API Embedding for API Usages and Applications,T. D. Nguyen; A. T. Nguyen; H. D. Phan; T. N. Nguyen,2017
+Automated Reporting of Anti-Patterns and Decay in Continuous Integration,C. Vassallo; S. Proksch; H. C. Gall; M. Di Penta,2019
+Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source,H. S. Qiu; A. Nolte; A. Brown; A. Serebrenik; B. Vasilescu,2019
+Can Latent Topics in Source Code Predict Missing Architectural Tactics?,R. Gopalakrishnan; P. Sharma; M. Mirakhorli; M. Galster,2017
+GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing,S. A. Chowdhury; A. Hindle; R. Kazman; T. Shuto; K. Matsui; Y. Kamei,2019
+Clone Refactoring with Lambda Expressions,N. Tsantalis; D. Mazinanian; S. Rostami,2017
+Detection and Repair of Architectural Inconsistencies in Java,N. Ghorbani; J. Garcia; S. Malek,2019
+Pattern-Based Mining of Opinions in Q&A Websites,B. Lin; F. Zampetti; G. Bavota; M. Di Penta; M. Lanza,2019
+Graph Embedding Based Familial Analysis of Android Malware using Unsupervised Learning,M. Fan; X. Luo; J. Liu; M. Wang; C. Nong; Q. Zheng; T. Liu,2019
+SPAIN: Security Patch Analysis for Binaries towards Understanding the Pain and Pills,Z. Xu; B. Chen; M. Chandramohan; Y. Liu; F. Song,2017
+Superion: Grammar-Aware Greybox Fuzzing,J. Wang; B. Chen; L. Wei; Y. Liu,2019
+Do Developers Discover New Tools On The Toilet?,E. Murphy-Hill; E. K. Smith; C. Sadowski; C. Jaspan; C. Winter; M. Jorde; A. Knight; A. Trenk; S. Gross,2019
+How Practitioners Perceive Coding Proficiency,X. Xia; Z. Wan; P. S. Kochhar; D. Lo,2019
+An Unsupervised Approach for Discovering Relevant Tutorial Fragments for APIs,H. Jiang; J. Zhang; Z. Ren; T. Zhang,2017
+Automated Refactoring of Legacy Java Software to Default Methods,R. Khatchadourian; H. Masuhara,2017
+Easy Modelling and Verification of Unpredictable and Preemptive Interrupt-Driven Systems,M. Pan; S. Chen; Y. Pei; T. Zhang; X. Li,2019
+ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains,G. Su; T. Chen; Y. Feng; D. S. Rosenblum,2017
+How Good Is a Security Policy against Real Breaches? A HIPAA Case Study,?. Kafali; J. Jones; M. Petruso; L. Williams; M. P. Singh,2017
+Safe Automated Refactoring for Intelligent Parallelization of Java 8 Streams,R. Khatchadourian; Y. Tang; M. Bagherzadeh; S. Ahmed,2019
+Scalable Approaches for Test Suite Reduction,E. Cruciani; B. Miranda; R. Verdecchia; A. Bertolino,2019
+NL2Type: Inferring JavaScript Function Types from Natural Language Information,R. S. Malik; J. Patra; M. Pradel,2019
+Recommending and Localizing Change Requests for Mobile Apps Based on User Reviews,F. Palomba; P. Salza; A. Ciurumelea; S. Panichella; H. Gall; F. Ferrucci; A. De Lucia,2017
+Active Inductive Logic Programming for Code Search,A. Sivaraman; T. Zhang; G. Van den Broeck; M. Kim,2019
+Challenges for Static Analysis of Java Reflection - Literature Review and Empirical Study,D. Landman; A. Serebrenik; J. J. Vinju,2017
+RADAR: A Lightweight Tool for Requirements and Architecture Decision Analysis,S. A. Busari; E. Letier,2017
+Towards Understanding and Reasoning About Android Interoperations,S. Bae; S. Lee; S. Ryu,2019
+Software Documentation Issues Unveiled,E. Aghajani; C. Nagy; O. L. Vega-M¨¢rquez; M. Linares-V¨¢squez; L. Moreno; G. Bavota; M. Lanza,2019
+On Reliability of Patch Correctness Assessment,X. D. Le; L. Bao; D. Lo; X. Xia; S. Li; C. Pasareanu,2019
+How C++ Developers Use Immutability Declarations: An Empirical Study,J. Eyolfson; P. Lam,2019
+Software Development Waste,T. Sedano; P. Ralph; C. P¨¦raire,2017
+Decoding the Representation of Code in the Brain: An fMRI Study of Code Review and Expertise,B. Floyd; T. Santander; W. Weimer,2017
+Redundant Loads: A Software Inefficiency Indicator,P. Su; S. Wen; H. Yang; M. Chabbi; X. Liu,2019
+Global Optimization of Numerical Programs Via Prioritized Stochastic Algebraic Transformations,X. Wang; H. Wang; Z. Su; E. Tang; X. Chen; W. Shen; Z. Chen; L. Wang; X. Zhang; X. Li,2019
+Do Developers Read Compiler Error Messages?,T. Barik; J. Smith; K. Lubick; E. Holmes; J. Feng; E. Murphy-Hill; C. Parnin,2017
+AdJust: Runtime Mitigation of Resource Abusing Third-Party Online Ads,W. Wang; I. L. Kim; Y. Zheng,2019
+"9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay",H. Hata; C. Treude; R. G. Kula; T. Ishio,2019
+Symbolic Repairs for GR(1) Specifications,S. Maoz; J. O. Ringert; R. Shalom,2019
+The List is the Process: Reliable Pre-Integration Tracking of Commits on Mailing Lists,R. Ramsauer; D. Lohmann; W. Mauerer,2019
+DockerizeMe: Automatic Inference of Environment Dependencies for Python Code Snippets,E. Horton; C. Parnin,2019
+Harnessing Evolution for Multi-Hunk Program Repair,S. Saha; R. k. Saha; M. r. Prasad,2019
+From Diversity by Numbers to Diversity as Process: Supporting Inclusiveness in Software Development Teams with Brainstorming,A. Filippova; E. Trainer; J. D. Herbsleb,2017
+Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects,F. Sarker; B. Vasilescu; K. Blincoe; V. Filkov,2019
+Search-Driven String Constraint Solving for Vulnerability Detection,J. Thom¨¦; L. K. Shar; D. Bianculli; L. Briand,2017
+Towards Automating Precision Studies of Clone Detectors,V. Saini; F. Farmahinifarahani; Y. Lu; D. Yang; P. Martins; H. Sajnani; P. Baldi; C. V. Lopes,2019
+CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries,H. V. Pham; T. Lutellier; W. Qi; L. Tan,2019
+AutoTap: Synthesizing and Repairing Trigger-Action Programs Using LTL Properties,L. Zhang; W. He; J. Martinez; N. Brackenbury; S. Lu; B. Ur,2019
+"An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation That Avoids the Unreliable Clean Program Assumption",T. T. Chekam; M. Papadakis; Y. Le Traon; M. Harman,2017
+2nd International Workshop on Rapid Continuous Software Engineering (RCoSE 2015),M. Tichy; J. Bosch; M. Goedicke; B. Fitzgerald,2015
+8th International Workshop on Search-Based Software Testing (SBST 2015),G. Gay; G. Antoniol,2015
+1st International Workshop on Software Protection (SPRO 2015),P. Falcarin; B. Wyseur,2015
+5th International Workshop on the Twin Peaks of Requirements and Architecture (TwinPeaks 2015),M. Galster; M. Mirakhorli,2015
+10th International Workshop on Automation of Software Test (AST 2015),R. Subramanyan; L. Mariani; D. Hao,2015
+4th International Workshop on Games and Software Engineering (GAS 2015),J. Bishop; K. M. L. Cooper; W. Scacchi; J. Whitehead,2015
+4th International Workshop on Realizing AI Synergies in Software Engineering (RAISE 2015),B. Turhan; A. Bener; R. Harrison; A. Miransky; C. Mericli; L. Minku,2015
+3rd International Workshop on Software Engineering for Systems-of-Systems (SESoS 2015),F. Oquendo; P. Avgeriou; C. E. Cuesta; K. Drira; E. Y. Nakagawa; J. C. Maldonado; A. Zisman,2015
+1st International Workshop on TEchnical and LEgal aspects of data pRIvacy and Security (TELERISE 2015),I. Matteucci; P. Mori; M. Petrocchi,2015
+[Journal First] Model Comprehension for Security Risk Assessment: An Empirical Comparison of Tabular vs. Graphical Representations,K. Labunets; F. Massacci; F. Paci; S. Marczak; F. M. de Oliveira,2018
+Global-Aware Recommendations for Repairing Violations in Exception Handling,E. A. Barbosa; A. Garcia,2018
+Poster: Static Analysis of Concurrent Higher-Order Programs,Q. Stievenart; J. Nicolay; W. De Meuter; C. De Roover,2015
+Poster: Model-based Run-time Variability Resolution for Robotic Applications,L. Gherardi; N. Hochgeschwender,2015
+Workshop on Applications of Human Error Research to Improve Software Engineering (WAHESE 2015),G. S. Walia; J. C. Caver; G. Bradshaw,2015
+Analysis of Android Inter-App Security Vulnerabilities Using COVERT,A. Sadeghi; H. Bagheri; S. Malek,2015
+"Exploration, Analysis, and Manipulation of??Source Code Using srcML",J. I. Maletic; M. L. Collard,2015
+Poster: MAPP: The Berkeley Model and Algorithm Prototyping Platform,T. Wang; K. Aadithya; B. Wu; J. Roychowdhury,2015
+Poster: Software Development Risk Management: Using Machine Learning for Generating Risk Prompts,H. R. Joseph,2015
+Correctness and Relative Correctness,N. Diallo; W. Ghardallou; A. Mili,2015
+Load Testing Large-Scale Software Systems,Z. M. J. Jiang,2015
+1st International Workshop on Big Data Software Engineering (BIGDSE 2015),L. Baresi; T. Menzies; A. Metzger; T. Zimmermann,2015
+Software Engineering in Ferrari F1,C. Silenzi,2015
+JRebel.Android: Runtime Class- and Resource Reloading for Android,R. Raudj?rv; A. R. Gregersen,2015
+Fast and Precise Statistical Code Completion,P. Roos,2015
+The Art and Science of Analyzing Software Data; Quantitative Methods,T. Menzies; L. Minku; F. Peters,2015
+8th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE 2015),A. Begel; R. Prikladnicki; Y. Dittrich; C. R. B. d. Souza; A. Sarma; S. Athavale,2015
+Smart Programming Playgrounds,R. Padhye; P. Dhoolia; S. Mani; V. S. Sinha,2015
+Mining Temporal Properties of Data Invariants,C. Lemieux,2015
+Enabling Testing of Android Apps,M. Linares-V¨¢squez,2015
+2nd International Workshop on Context for Software Development (CSD 2015),K. Blincoe; D. Damian; G. Valetto; J. D. Herbsleb,2015
+Code Repurposing as an Assessment Tool,J. Sant,2015
+Qualitative Analysis of Knowledge Transfer in Pair Programming,F. Zieris,2015
+Evolution-Aware Monitoring-Oriented Programming,O. Legunsen; D. Marinov; G. Rosu,2015
+Commit Bubbles,T. Barik; K. Lubick; E. Murphy-Hill,2015
+Towards Model Driven Architecture and Analysis of System of Systems Access Control,J. El Hachem,2015
+Textual Analysis for Code Smell Detection,F. Palomba,2015
+7th International Workshop on Modeling in Software Engineering (MiSE 2015),J. Gray; M. Chechik; V. Kulkarni; R. F. Paige,2015
+Optimising Energy Consumption of Design Patterns,A. Noureddine; A. Rajan,2015
+Safe Evolution Patterns for Software Product Lines,N. Dintzner,2015
+Understanding Conflicts Arising from Collaborative Development,P. Accioly,2015
+Post-Dominator Analysis for Precisely Handling Implicit Flows,A. Bichhawat,2015
+4th International Workshop on Green and Sustainable Software (GREENS 2015),M. Morisio; P. Lago; N. Meyer; H. A. M¨¹ller; G. Scanniello,2015
+5th International Workshop on Product LinE Approaches in Software Engineering PLE for a Sustainable Society (PLEASE 2015),J. Rubin; G. Botterweck; A. Pleuss; D. Weiss,2015
+Towards a Practical Security Analysis Methodology,A. v. d. Berghe,2015
+Code Reviews Do Not Find Bugs. How the Current Code Review Best Practice Slows Us Down,J. Czerwonka; M. Greiler; J. Tilford,2015
+Deep Representations for Software Engineering,M. White,2015
+Poster: Static Detection of Configuration-Dependent Bugs in Configurable Software,J. Al-Kofahi; L. Guo; H. V. Nguyen; H. A. Nguyen; T. N. Nguyen,2015
+Bootstrapping Mobile App Development,S. Barnett; R. Vasa; J. Grundy,2015
+scvRipper: Video Scraping Tool for Modeling Developers' Behavior Using Interaction Data,L. Bao; J. Li; Z. Xing; X. Wang; B. Zhou,2015
+Mining Patterns of Sensitive Data Usage,V. Avdiienko,2015
+A Declarative Foundation for Comprehensive History Querying,R. Stevens,2015
+Poster: Interactive and Collaborative Source Code Annotation,R. Suzuki,2015
+2nd International Workshop on Requirements Engineering and Testing (RET 2015),E. Bjarnason; M. Morandini; M. Borg; M. Unterkalmsteiner; M. Felderer; M. Staats,2015
+2nd International Workshop on Software Engineering Methods in Spreadsheets (SEMS 2015),F. Hermans; R. F. Paige; P. Sestoft,2015
+The ECCO Tool: Extraction and Composition for Clone-and-Own,S. Fischer; L. Linsbauer; R. E. Lopez-Herrejon; A. Egyed,2015
+Automated Program Repair in an Integrated Development Environment,Y. Pei; C. A. Furia; M. Nordio; B. Meyer,2015
+Towards Generation of Software Development Tasks,C. A. Thompson,2015
+Poster: Filtering Code Smells Detection Results,F. Arcelli Fontana; V. Ferme; M. Zanoni,2015
+Poster: Automatically Fixing Real-World JavaScript Performance Bugs,M. Selakovic; M. Pradel,2015
+1st International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS 2015),T. Bures; D. Weyns; M. Klein; R. E. Haber,2015
+Supporting Scientific SE Process Improvement,E. S. Mesh,2015
+Poster: Segmentation Based Online Performance Problem Diagnosis,J. Zhou; Z. Chen; J. Wang,2015
+Poster: Is Carmen Better than George? Testing the Exploratory Tester Using HCI Techniques,A. Borg; C. Porter; M. Micallef,2015
+Free Hugs -- Praising Developers for Their Actions,R. Minelli; A. Mocci; M. Lanza,2015
+MU-MMINT: An IDE for Model Uncertainty,M. Famelis; N. Ben-David; A. Di Sandro; R. Salay; M. Chechik,2015
+Ekstazi: Lightweight Test Selection,M. Gligoric; L. Eloussi; D. Marinov,2015
+Verification of Android Applications,H. v. d. Merwe,2015
+Agile Project Management: From Self-Managing Teams to Large-Scale Development,T. Dyb?; T. Dings?yr,2015
+Poster: ProNat: An Agent-Based System Design for Programming in Spoken Natural Language,S. Weigelt; W. F. Tichy,2015
+CACHECA: A Cache Language Model Based Code Suggestion Tool,C. Franks; Z. Tu; P. Devanbu; V. Hellendoorn,2015
+StressCloud: A Tool for Analysing Performance and Energy Consumption of Cloud Applications,F. Chen; J. Grundy; J. Schneider; Y. Yang; Q. He,2015
+The Green Lab: Experimentation in Software Energy Efficiency,G. Procaccianti; P. Lago; A. Vetr¨°; D. M. Fern¨¢ndez; R. Wieringa,2015
+The Use of Text Retrieval and Natural Language Processing in Software Engineering,V. Arnaoudova; S. Haiduc; A. Marcus; G. Antoniol,2015
+Poster: Conquering Uncertainty in Java Programming,T. Fukamachi; N. Ubayashi; S. Hosoai; Y. Kamei,2015
+Poster: Tierless Programming in JavaScript,L. Philips; W. De Meuter; C. De Roover,2015
+Incorporating Human Intention into Self-Adaptive Systems,S. Huang; P. Miranda,2015
+6th International Workshop on Emerging Trends in Software Metrics (WETSoM 2015),S. Counsell; A. Visaggio; R. Tonelli; E. Tempero,2015
+Ariadne: Topology Aware Adaptive Security for Cyber-Physical Systems,C. Tsigkanos; L. Pasquale; C. Ghezzi; B. Nuseibeh,2015
+Reactive Programming: A Walkthrough,G. Salvaneschi; A. Margara; G. Tamburrelli,2015
+Poster: An Efficient Equivalence Checking Method for Petri Net Based Models of Programs,S. Bandyopadhyay; D. Sarkar; C. Mandal,2015
+Poster: Reasoning Based on Imperfect Context Data in Adaptive Security,S. Sartoli; A. S. Namin,2015
+VERMEER: A Tool for Tracing and Explaining Faulty C Programs,D. Schwartz-Narbonne; C. Oh; M. Sch?f; T. Wies,2015
+Profiling Kernels Behavior to Improve CPU / GPU Interactions,R. Salgado,2015
+Big(ger) Data in Software Engineering,M. Nagappan; M. Mirakhorli,2015
+3rd International Workshop on Conducting Empirical Studies in Industry (CESI 2015),X. Franch; N. H. Madhavji; C. H. C. Duarte,2015
+How and When to Transfer Software Engineering Research via Extensions,D. Shepherd; K. Damevski; L. Pollock,2015
+Industry/University Collaboration in Software Engineering Education: Refreshing and Retuning Our Strategies,N. R. Mead,2015
+Understanding the Software Fault Introduction Process,L. Inozemtseva,2015
+Dynamic Safety Cases for Through-Life Safety Assurance,E. Denney; G. Pai; I. Habli,2015
+A Unified Framework for the Comprehension of Software's Time,O. Benomar; H. Sahraoui; P. Poulin,2015
+Mining the Metadata -- and Its Consequences,S. Landau,2015
+FormTester: Effective Integration of Model-Based and Manually Specified Test Cases,R. Dixit; C. Lutteroth; G. Weber,2015
+A Combined Technique of GUI Ripping and Input Perturbation Testing for Android Apps,G. Imparato,2015
+1st International Workshop on Complex faUlts and Failures in LargE Software Systems (COUFLESS 2015),M. Grechanik; J. Alonso; A. P. Nikora,2015
+Scalability Studies on Selective Mutation Testing,J. Zhang,2015
+Capsule-Oriented Programming,H. Rajan,2015
+Statistical Learning and Software Mining for Agent Based Simulation of Software Evolution,V. Honsel,2015
+An Approach to Detect Android Antipatterns,G. Hecht,2015
+2nd International Workshop on Crowd Sourcing in Software Engineering (CSI-SE 2015),G. Fraser; T. D. LaToza; L. Mariani,2015
+DIETs: Recommender Systems for Mobile API Developers,S. Beyer,2015
+Combining Mastery Learning with Project-Based Learning in a First Programming Course: An Experience Report,M. Jazayeri,2015
+A Unified Approach to Automatic Testing of Architectural Constraints,A. Caracciolo,2015
+The Future of Software Engineering (SEIP Keynote),G. Booch,2015
+A Large Scale Study of License Usage on GitHub,C. Vendome,2015
+Automatic Categorization of Software Libraries Using Bytecode,J. Escobar-Avila,2015
+7th International Workshop on Principles of Engineering Service-Oriented and Cloud Systems (PESOS 2015),M. A. Babar; H. Paik; M. Chetlur; M. Bauer; A. M. Sharifloo,2015
+Mining Software Repositories for Social Norms,H. K. Dam; B. T. R. Savarimuthu; D. Avery; A. Ghose,2015
+Bixie: Finding and Understanding Inconsistent Code,T. McCarthy; P. R¨¹mmer; M. Sch?f,2015
+Strategies for Prioritizing Test Cases Generated Through Model-Based Testing Approaches,J. F. S. Ouriques,2015
+Casper: Using Ghosts to Debug Null Deferences with Dynamic Causality Traces,B. Cornu,2015
+4th SEMAT Workshop on General Theory of Software Engineering (GTSE 2015),P. Ralph; G. Engels; I. Jacobson; M. Goedicke,2015
+ViDI: The Visual Design Inspector,Y. Tymchuk; A. Mocci; M. Lanza,2015
+Measuring Software Developers' Perceived Difficulty with Biometric Sensors,S. C. M¨¹ller,2015
+Poster: Improving Cloud-Based Continuous Integration Environments,A. Gambi; Z. Rostyslav; S. Dustdar,2015
+3rd International Workshop on Release Engineering (RELENG 2015),B. Adams; S. Bellomo; C. Bird; F. Khomh; K. Moir,2015
+Source Code Curation on StackOverflow: The Vesperin System,H. Sanchez; J. Whitehead,2015
+Search-Based Migration of Model Variants to Software Product Line Architectures,W. K. G. Assun??o,2015
+An Integrated Multi-Agent-Based Simulation Approach to Support Software Project Management,D. d. M. Baia,2015
+Poster: Discovering Code Dependencies by Harnessing Developer's Activity,M. Konopka; P. Navrat; M. Bielikova,2015
+Poster: Symbolic Execution of MPI Programs,X. Fu; Z. Chen; H. Yu; C. Huang; W. Dong; J. Wang,2015
+Second International Workshop on Software Architecture and Metrics (SAM 2015),I. Ozkaya; R. L. Nord; H. Koziolek; P. Avgeriou,2015
+2nd International Workshop on Software Engineering Research and Industrial Practice (SER&IP 2015),J. Bishop; R. Shukla; F. Shull; S. Sen,2015
+Extract Package Refactoring in ARIES,F. Palomba; M. Tufano; G. Bavota; R. Oliveto; A. Marcus; D. Poshyvanyk; A. De Lucia,2015
+FLEXISKETCH TEAM: Collaborative Sketching and Notation Creation on the Fly,D. W¨¹est; N. Seyff; M. Glinz,2015
+"Contributor's Performance, Participation Intentions, Its Influencers and Project Performance",A. Rastogi,2015
+Poster: Enhancing Partition Testing through Output Variation,H. Liu; P. Poon; T. Y. Chen,2015
+Poster: Dynamic Analysis Using JavaScript Proxies,L. Christophe; C. De Roover; W. De Meuter,2015
+SE4HPCS'15: The 2015 International Workshop on Software Engineering for High Performance Computing in Science,J. C. Carver; N. Chue Hong; P. Ciancarini,2015
+Varis: IDE Support for Embedded Client Code in PHP Web Applications,H. V. Nguyen; C. K?stner; T. N. Nguyen,2015
+Software Requirements Patterns - A State of the Art and the Practice,X. Franch,2015
+"Poster: VIBeS, Transition System Mutation Made Easy",X. Devroey; G. Perrouin; P. Schobbens; P. Heymans,2015
+StriSynth: Synthesis for Live Programming,S. Gulwani; M. Mayer; F. Niksic; R. Piskac,2015
+TesMa and CATG: Automated Test Generation Tools for Models of Enterprise Applications,H. Tanno; X. Zhang; T. Hoshino; K. Sen,2015
+A Security Practices Evaluation Framework,P. Morrison,2015
+Software Engineering for Privacy in-the-Large,P. Anthonysamy; A. Rashid,2015
+[Journal First] Augmenting and Structuring User Queries to Support Efficient Free-Form Code Search,R. Sirres; T. F. Bissyand¨¦; D. Kim; D. Lo; J. Klein; K. Kim; Y. Le Traon,2018
+[Journal First] Effect Sizes and their Variance for AB/BA Crossover Design Studies,L. Madeyski; B. Kitchenham,2018
+Enlightened Debugging,X. Li; S. Zhu; M. d¡¯Amorim; A. Orso,2018
+[Journal First] What Makes a Great Manager of Software Engineers?,E. Kalliamvakou; C. Bird; T. Zimmermann; A. Begel; R. DeLine; D. M. German,2018
+[Journal First] An Empirical Study on the Interplay Between Semantic Coupling and Co-change of Software Classes,N. Ajienka; A. Capiluppi; S. Counsell,2018
+[Journal First] MAHAKIL: Diversity Based Oversampling Approach to Alleviate the Class Imbalance Issue in Software Defect Prediction,K. E. Bennin; J. Keung; P. Phannachitta; A. Monden; S. Mensah,2018
+[Journal First] Does Syntax Highlighting Help Programming Novices?,C. Hannebauer; M. Hesenius; V. Gruhn,2018
+DetReduce: Minimizing Android GUI Test Suites for Regression Testing,W. Choi; K. Sen; G. Necul; W. Wang,2018
+Roles and Impacts of Hands-on Software Architects in Five Industrial Case Studies,I. Rehman; M. Mirakhorli; M. Nagappan; A. Aralbay Uulu; M. Thornton,2018
+"Open Source Barriers to Entry, Revisited: A Sociotechnical Perspective",C. Mendez; H. S. Padala; Z. Steine-Hanson; C. Hildebrand; A. Horvath; C. Hill; L. Simpson; N. Patil; A. Sarma; M. Burnett,2018
+Prioritizing Browser Environments for Web Application Test Execution,J. Kwon; I. Ko; G. Rothermel,2018
+[Journal First] Studying the Dialogue Between Users and Developers of Free Apps in the Google Play Store,S. Hassan; C. Tantithamthavorn; C. Bezemer; A. E. Hassan,2018
+[Journal First] The Scent of a Smell: An Extensive Comparison Between Textual and Structural Smells,F. Palomba; A. Panichella; A. Zaidman; R. Oliveto; A. De Lucia,2018
+Inferring Hierarchical Motifs from Execution Traces,S. Alimadadi; A. Mesbah; K. Pattabiraman,2018
+[Journal First] A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches,S. Herbold; A. Trautsch; J. Grabowski,2018
+[Journal First] Correctness Attraction: A Study of Stability of Software Behavior Under Runtime Perturbation,B. Danglot; P. Preux; B. Baudry; M. Monperrus,2018
+"The Good, the Bad and the Ugly: A Study of Security Decisions in a Cyber-Physical Systems Game",S. Frey; A. Rashid; P. Anthonysamy; M. Pinto-Albuquerque; S. A. Naqvi,2018
+Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications,Y. Zhao; M. Schmitt Laser; Y. Lyu; N. Medvidovic,2018
+[Journal First] Journal First Presentation of an Experience Report on Applying Software Testing Academic Results in Industry: We Need Usable Automated Test Generation,A. Arcuri,2018
+[Journal First] Are Vulnerabilities Discovered and Resolved Like Other Defects?,P. Morrison; R. Pandita; X. Xiao; R. Chillarege; L. Williams,2018
+Hybrid Regression Test Selection,L. Zhang,2018
+Inheritance Usage Patterns in Open-Source Systems,J. Stevenson; M. Wood,2018
+[Journal First] Analyzing a Decade of Linux System Calls,M. Bagherzadeh; N. Kahani; C. Bezemer; A. E. Hassan; J. Dingel; J. R. Cordy,2018
+The Evolution of Requirements Practices in Software Startups,C. Gralha; D. Damian; A. Wasserman; M. Goul?o; J. Ara¨²jo,2018
+Collaborative Model-Driven Software Engineering: A Classification Framework and a Research Map [Extended Abstract],D. Di Ruscio; M. Franzago; I. Malavolta; H. Muccini,2018
+[Journal First] Are Fix-Inducing Changes a Moving Target?: A Longitudinal Case Study of Just-in-Time Defect Prediction,S. McIntosh; Y. Kamei,2018
+Metamorphic Testing of RESTful Web APIs,S. Segura; J. A. Parejo; J. Troya; A. Ruiz-Cort¨¦s,2018
+On the Dichotomy of Debugging Behavior Among Programmers,M. Beller; N. Spruit; D. Spinellis; A. Zaidman,2018
+[Journal First] Challenges and Pitfalls on Surveying Evidence in the Software Engineering Technical Literature: An Exploratory Study with Novices,T. Vieira Ribeiro; J. Massollar; G. Horta Travassos,2018
+Understanding the Factors for Fast Answers in Technical Q&A Websites: An Empirical Study of Four Stack Exchange Websites,S. Wang; T. Chen; A. E. Hassan,2018
+Towards Practical Program Repair with On-demand Candidate Generation,J. Hua; M. Zhang; K. Wang; S. Khurshid,2018
+Reducer-Based Construction of Conditional Verifiers,D. Beyer; M. Jakobs; T. Lemberger; H. Wehrheim,2018
+Data Scientists in Software Teams: State of the Art and Challenges,M. Kim; T. Zimmermann; R. DeLine; A. Begel,2018
+Secure Coding Practices in Java: Challenges and Vulnerabilities,N. Meng; S. Nagy; D. Yao; W. Zhuang; G. Arango-Argoty,2018
+Identifying Design Problems in the Source Code: A Grounded Theory,L. Sousa; A. Oliveira; W. Oizumi; S. Barbosa; A. Garcia; J. Lee; M. Kalinowski; R. de Mello; B. Fonseca; R. Oliveira; C. Lucena; R. Paes,2018
+[Journal First] Do Automated Program Repair Techniques Repair Hard and Important Bugs?,M. Motwani; S. Sankaranarayanan; R. Just; Y. Brun,2018
+EARMO: An Energy-Aware Refactoring Approach for Mobile Apps,R. Morales; R. Saborido; F. Khomh; F. Chicano; G. Antoniol,2018
+When Not to Comment: Questions and Tradeoffs with API Documentation for C++ Projects,A. Head; C. Sadowski; E. Murphy-Hill; A. Knight,2018
+Search-Based Test Data Generation for SQL Queries,J. Castelein; M. Aniche; M. Soltani; A. Panichella; A. van Deursen,2018
+Large-Scale Analysis of Framework-Specific Exceptions in Android Apps,L. Fan; T. Su; S. Chen; G. Meng; Y. Liu; L. Xu; G. Pu; Z. Su,2018
+From UI Design Image to GUI Skeleton: A Neural Machine Translator to Bootstrap Mobile GUI Implementation,C. Chen; T. Su; G. Meng; Z. Xing; Y. Liu,2018
+Does the Propagation of Artifact Changes Across Tasks Reflect Work Dependencies?,C. Mayr-Dorn; A. Egyed,2018
+Automated Refactoring of OCL Constraints with Search,H. Lu; S. Wang; T. Yue; S. Ali; J. Nygard,2018
+[Journal First] Experiences and Challenges in Building a Data Intensive System for Data Migration,M. Scavuzzo; E. Di Nitto; D. Ardagna,2018
+[Journal First] Sentiment Polarity Detection for Software Development,F. Calefato; F. Lanubile; F. Maiorano; N. Novielli,2018
+Redefining Prioritization: Continuous Prioritization for Continuous Integration,J. Liang; S. Elbaum; G. Rothermel,2018
+[Journal First] Older Adults and Hackathons: A Qualitative Study,W. Kopec; B. Balcerzak; R. Nielek; G. Kowalik; A. Wierzbicki; F. Casati,2018
+DeFlaker: Automatically Detecting Flaky Tests,J. Bell; O. Legunsen; M. Hilton; L. Eloussi; T. Yung; D. Marinov,2018
+Identifying Features in Forks,S. Zhou; S. Stanciulescu; O. Le?enich; Y. Xiong; A. Wasowski; C. K?stner,2018
+Automated Repair of Mobile Friendly Problems in Web Pages,S. Mahajan; N. Abolhassani; P. McMinn; W. G. J. Halfond,2018
+[Journal First] On the Use of Hidden Markov Model to Predict the Time to Fix Bugs,M. Habayeb; S. S. Murtaza; A. Miranskyy; A. B. Bener,2018
+Do Programmers Work at Night or During the Weekend?,M. Claes; M. V. M?ntyl?; M. Kuutila; B. Adams,2018
+Context-Aware Conversational Developer Assistants,N. Bradley; T. Fritz; R. Holmes,2018
+[Journal First] On the Diffuseness and the Impact on Maintainability of Code Smells: A Large Scale Empirical Investigation,F. Palomba; G. Bavota; M. Di Penta; F. Fasano; R. Oliveto; A. De Lucia,2018
+[Journal First] Overfitting in Semantics-Based Automated Program Repair,X. D. Le; F. Thung; D. Lo; C. Le Goues,2018
+Self-Hiding Behavior in Android Apps: Detection and Characterization,Z. Shan; I. Neamtiu; R. Samuel,2018
+[Journal First] Analyzing the Effects of Test Driven Development in GitHub,N. Borle; M. Feghhi; E. Stroulia; R. Grenier; A. Hindle,2018
+[Journal First] An Empirical Study of Early Access Games on the Steam Platform,D. Lin; C. Bezemer; A. E. Hassan,2018
+ENTRUST: Engineering Trustworthy Self-Adaptive Software with Dynamic Assurance Cases,R. Calinescu; D. Weyns; S. Gerasimou; M. U. Iftikhar; I. Habli; T. Kelly,2018
+[Journal First] A Comparison of Program Comprehension Strategies by Blind and Sighted Programmers,A. Armaly; P. Rodeghero; C. McMillan,2018
+[Journal First] MSeer ¨C An Advanced Technique for Locating Multiple Bugs in Parallel,R. Gao; W. E. Wong,2018
+"[Journal First] Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware",J. Garcia; M. Hammad; S. Malek,2018
+Do You Remember This Source Code?,J. Kr¨¹ger; J. Wiemann; W. Fenske; G. Saake; T. Leich,2018
+How not to Structure Your Database-Backed Web Applications: A Study of Performance Bugs in the Wild,J. Yang; C. Yan; P. Subramaniam; S. Lu; A. Cheung,2018
+[Journal First] ChangeLocator: Locate Crash-Inducing Changes Based on Crash Reports,R. Wu; M. Wen; S. Cheung; H. Zhang,2018
+[Journal First] Empirical Study on the Discrepancy Between Performance Testing Results from Virtual and Physical Environments,M. M. Arif; W. Shang; E. Shihab,2018
+"A Posteriori Typing for Model-Driven Engineering: Concepts, Analysis, and Applications",J. de Lara; E. Guerra,2018
+Efficient Sampling of SAT Solutions for Testing,R. Dutra; K. Laeufer; J. Bachrach; K. Sen,2018
+Precise Concolic Unit Testing of C Programs Using Extended Units and Symbolic Alarm Filtering,Y. Kim; Y. Choi; M. Kim,2018
+Integrating Technical Debt Management and Software Quality Management Processes: A Framework and Field Tests,N. Ramasubbu; C. Kemerer,2018
+Debugging with Intelligence via Probabilistic Inference,Z. Xu; S. Ma; X. Zhang; S. Zhu; B. Xu,2018
+Measuring Program Comprehension: A Large-Scale Field Study with Professionals,X. Xia; L. Bao; D. Lo; Z. Xing; A. E. Hassan; S. Li,2018
+Towards Reusing Hints from Past Fixes: An Exploratory Study on Thousands of Real Samples,H. Zhong; N. Meng,2018
+[Journal First] A Correlation Study Between Automated Program Repair and Test-Suite Metrics,J. Yi; S. H. Tan; S. Mechtaev; M. B?hme; A. Roychoudhury,2018
+Online App Review Analysis for Identifying Emerging Issues,C. Gao; J. Zeng; M. R. Lyu; I. King,2018
+Automatic Software Repair: A Survey,L. Gazzola; L. Mariani; D. Micucci,2018
+[Journal First] Inference of Development Activities from Interaction with Uninstrumented Applications,L. Bao; Z. Xing; X. Xia; D. Lo; A. E. Hassan,2018
+Predicting Future Developer Behavior in the IDE Using Topic Models,K. Damevski; H. Chen; D. C. Shepherd; N. A. Kraft; L. Pollock,2018
+[Journal First] Privacy by Designers: Software Developers' Privacy Mindset,I. Hadar; T. Hasson; O. Ayalon; E. Toch; M. Birnhack; S. Sherman; A. Balissa,2018
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript,M. Pradel; P. Schuh; K. Sen,2015
+Performance Analysis Using Subsuming Methods: An Industrial Case Study,D. Maplesden; K. v. Randow; E. Tempero; J. Hosking; J. Grundy,2015
+Design and Evaluation of a Customizable Multi-Domain Reference Architecture on Top of Product Lines of Self-Driving Heavy Vehicles - An Industrial Case Study,J. Schroeder; D. Holzner; C. Berger; C. Hoel; L. Laine; A. Magnusson,2015
+When App Stores Listen to the Crowd to Fight Bugs in the Wild,M. Gomez; M. Martineza; M. Monperrus; R. Rouvoy,2015
+Interdisciplinary Design Patterns for Socially Aware Computing,H. Baraki; K. Geihs; C. Voigtmann; A. Hoffmann; R. Kniewel; B. Macek; J. Zirfas,2015
+ChangeScribe: A Tool for Automatically Generating Commit Messages,M. Linares-V¨¢squez; L. F. Cort¨¦s-Coy; J. Aponte; D. Poshyvanyk,2015
+What Makes a Great Software Engineer?,P. L. Li; A. J. Ko; J. Zhu,2015
+Coexecutability for Efficient Verification of Data Model Updates,I. Bocic; T. Bultan,2015
+AutoCSP: Automatically Retrofitting CSP to Web Applications,M. Fazzini; P. Saxena; A. Orso,2015
+Morpheus: Variability-Aware Refactoring in the Wild,J. Liebig; A. Janker; F. Garbe; S. Apel; C. Lengauer,2015
+Avoiding Security Pitfalls with Functional Programming: A Report on the Development of a Secure XML Validator,D. Doligez; C. Faure; T. Hardin; M. Maarek,2015
+An Initiative to Improve Reproducibility and Empirical Evaluation of Software Testing Techniques,F. G. d. Oliveira Neto; R. Torkar; P. D. L. Machado,2015
+Security Toolbox for Detecting Novel and Sophisticated Android Malware,B. Holland; T. Deering; S. Kothari; J. Mathews; N. Ranade,2015
+A Programming Model for Sustainable Software,H. S. Zhu; C. Lin; Y. D. Liu,2015
+Work Practices and Challenges in Pull-Based Development: The Integrator's Perspective,G. Gousios; A. Zaidman; M. Storey; A. v. Deursen,2015
+When and Why Your Code Starts to Smell Bad,M. Tufano; F. Palomba; G. Bavota; R. Oliveto; M. Di Penta; A. De Lucia; D. Poshyvanyk,2015
+A Field Study on Fostering Structural Navigation with Prodet,V. Augustine; P. Francis; X. Qu; D. Shepherd; W. Snipes; C. Braunlich; T. Fritz,2015
+Effectiveness of Persona with Personality Traits on Conceptual Design,F. Anvari; D. Richards; M. Hitchens; M. A. Babar,2015
+Automated Planning for Self-Adaptive Systems,R. Gil,2015
+Fast Feedback Cycles in Empirical Software Engineering Research,A. Vetr¨°; S. Ognawala; D. M. Fern¨¢ndez; S. Wagner,2015
+Information Transformation: An Underpinning Theory for Software Engineering,D. Clark; R. Feldt; S. Poulding; S. Yoo,2015
+Revisiting the Impact of Classification Techniques on the Performance of Defect Prediction Models,B. Ghotra; S. McIntosh; A. E. Hassan,2015
+Dynamic Generation of Likely Invariants for Multithreaded Programs,M. Kusano; A. Chattopadhyay; C. Wang,2015
+Mining Apps for Abnormal Usage of Sensitive Data,V. Avdiienko; K. Kuznetsov; A. Gorla; A. Zeller; S. Arzt; S. Rasthofer; E. Bodden,2015
+Evolution of Software Development Strategies,K. Falkner; C. Szabo; R. Vivian; N. Falkner,2015
+Novice Code Understanding Strategies during a Software Maintenance Assignment,C. Szabo,2015
+Scalable Formal Verification of UML Models,M. M. Pourhashem Kallehbasti,2015
+Views on Internal and External Validity in Empirical Software Engineering,J. Siegmund; N. Siegmund; S. Apel,2015
+Making System User Interactive Tests Repeatable: When and What Should We Control?,Z. Gao; Y. Liang; M. B. Cohen; A. M. Memon; Z. Wang,2015
+The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models,C. Tantithamthavorn; S. McIntosh; A. E. Hassan; A. Ihara; K. Matsumoto,2015
+Graph-Based Statistical Language Model for Code,A. T. Nguyen; T. N. Nguyen,2015
+DirectFix: Looking for Simple Program Repairs,S. Mechtaev; J. Yi; A. Roychoudhury,2015
+Automated Data Structure Generation: Refuting Common Wisdom,K. Dewey; L. Nichols; B. Hardekopf,2015
+Composite Constant Propagation: Application to Android Inter-Component Communication Analysis,D. Octeau; D. Luchaup; M. Dering; S. Jha; P. McDaniel,2015
+How Can I Use This Method?,L. Moreno; G. Bavota; M. Di Penta; R. Oliveto; A. Marcus,2015
+relifix: Automated Repair of Software Regressions,S. H. Tan; A. Roychoudhury,2015
+Improving Student Group Work with Collaboration Patterns: A Case Study,C. K?ppe; M. v. Eekelen; S. Hoppenbrouwers,2015
+Collaborative and Cooperative-Learning in Software Engineering Courses,N. Soundarajan; S. Joshi; R. Ramnath,2015
+Leveraging Informal Documentation to Summarize Classes and Methods in Context,L. Guerrouj; D. Bourque; P. C. Rigby,2015
+A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics,M. W. Whalen; S. Person; N. Rungta; M. Staats; D. Grijincu,2015
+Truth in Advertising: The Hidden Cost of Mobile Ads for Software Developers,J. Gui; S. Mcilroy; M. Nagappan; W. G. J. Halfond,2015
+Enron's Spreadsheets and Related Emails: A Dataset and Analysis,F. Hermans; E. Murphy-Hill,2015
+CARAMEL: Detecting and Fixing Performance Problems That Have Non-Intrusive Fixes,A. Nistor; P. Chang; C. Radoi; S. Lu,2015
+Dynamic Data Flow Testing of Object Oriented Systems,G. Denaro; A. Margara; M. Pezz¨¨; M. Vivanti,2015
+Masters-Level Software Engineering Education and the Enriched Student Context,J. G. Hall; L. Rapanotti,2015
+System Thinking: Educating T-Shaped Software Engineers,B. Boehm; S. K. Mobasser,2015
+TaskNav: Task-Based Navigation of Software Documentation,C. Treude; M. Sicard; M. Klocke; M. Robillard,2015
+A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies,D. Zou; R. Wang; Y. Xiong; L. Zhang; Z. Su; H. Mei,2015
+Automated Decomposition of Build Targets,M. Vakilian; R. Sauciuc; J. D. Morgenthaler; V. Mirrokni,2015
+Gray Computing: An Analysis of Computing with Background JavaScript Tasks,Y. Pan; J. White; Y. Sun; J. Gray,2015
+Automatic and Continuous Software Architecture Validation,M. Goldstein; I. Segall,2015
+Does the Failing Test Execute a Single or Multiple Faults? An Approach to Classifying Failing Tests,Z. Yu; C. Bai; K. Cai,2015
+Engineering Sustainability Through Language,R. Chitchyan; W. Cazzola; A. Rashid,2015
+Educating Software Engineering Managers - Revisited What Software Project Managers Need to Know Today,L. Peters; A. M. Moreno,2015
+Borrowing from the Crowd: A Study of Recombination in Software Design Competitions,T. D. LaToza; M. Chen; L. Jiang; M. Zhao; A. v. d. Hoek,2015
+Data-Delineation in Software Binaries and its Application to Buffer-Overrun Discovery,D. Gopan; E. Driscoll; D. Nguyen; D. Naydich; A. Loginov; D. Melski,2015
+Symbolic Model Checking of Product-Line Requirements Using SAT-Based Methods,S. Ben-David; B. Sterin; J. M. Atlee; S. Beidu,2015
+Empirically Detecting False Test Alarms Using Association Rules,K. Herzig; N. Nagappan,2015
+SPF: A Middleware for Social Interaction in Mobile Proximity Environments,L. Baresi; L. Goix; S. Guinea; V. Panzica La Manna; J. Aliprandi; D. Archetti,2015
+AppCivist - A Service-Oriented Software Platform for Socially Sustainable Activism,A. Pathak; V. Issarny; J. Holston,2015
+Concurrent Software Engineering and Robotics Education,J. Shin; A. Rusakov; B. Meyer,2015
+Does Outside-In Teaching Improve the Learning of Object-Oriented Programming?,E. Janke; P. Brune; S. Wagner,2015
+Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub,E. Kalliamvakou; D. Damian; K. Blincoe; L. Singer; D. M. German,2015
+DASE: Document-Assisted Symbolic Execution for Improving Automated Software Testing,E. Wong; L. Zhang; S. Wang; T. Liu; L. Tan,2015
+On the Architecture-Driven Development of Software-Intensive Systems-of-Systems,E. Cavalcante,2015
+Tempura: Temporal Dimension for IDEs,Y. Y. Lee; D. Marinov; R. E. Johnson,2015
+Online Defect Prediction for Imbalanced Data,M. Tan; L. Tan; S. Dara; C. Mayeux,2015
+Managing Emergent Ethical Concerns for Software Engineering in Society,A. Rashid; K. Moore; C. May-Chahal; R. Chitchyan,2015
+Software Design Studio: A Practical Example,J. Lee; G. Kotonya; J. Whittle; C. Bull,2015
+In Search of the Emotional Design Effect in Programming,L. Haaranen; P. Ihantola; J. Sorva; A. Vihavainen,2015
+Interactive Synthesis Using Free-Form Queries,T. Gvero; V. Kuncak,2015
+Tricorder: Building a Program Analysis Ecosystem,C. Sadowski; J. v. Gogh; C. Jaspan; E. S?derberg; C. Winter,2015
+Regular Property Guided Dynamic Symbolic Execution,Y. Zhang; Z. Chen; J. Wang; W. Dong; Z. Liu,2015
+Cascade: A Universal Programmer-Assisted Type Qualifier Inference Tool,M. Vakilian; A. Phaosawasdi; M. D. Ernst; R. E. Johnson,2015
+IccTA: Detecting Inter-Component Privacy Leaks in Android Apps,L. Li; A. Bartel; T. F. Bissyand¨¦; J. Klein; Y. Le Traon; S. Arzt; S. Rasthofer; E. Bodden; D. Octeau; P. McDaniel,2015
+A Large-Scale Technology Evaluation Study: Effects of Model-based Analysis and Testing,M. Kl?s; T. Bauer; A. Dereani; T. S?derqvist; P. Helle,2015
+An Industrial Case Study on the Automated Detection of Performance Regressions in Heterogeneous Environments,K. C. Foo; Z. M. Jiang; B. Adams; A. E. Hassan; Y. Zou; P. Flora,2015
+Cognitively Sustainable ICT with Ubiquitous Mobile Services - Challenges and Opportunities,M. J?gemar; G. Dodig-Crnkovic,2015
+Teaching Software Architecture to Undergraduate Students: An Experience Report,C. R. Rupakheti; S. V. Chenoweth,2015
+Are Students Representatives of Professionals in Software Engineering Experiments?,I. Salman; A. T. Misirli; N. Juristo,2015
+A Synergistic Analysis Method for Explaining Failed Regression Tests,Q. Yi; Z. Yang; J. Liu; C. Zhao; C. Wang,2015
+AppContext: Differentiating Malicious and Benign Mobile App Behaviors Using Context,W. Yang; X. Xiao; B. Andow; S. Li; T. Xie; W. Enck,2015
+"Improving Predictability, Efficiency and Trust of Model-Based Proof Activity",J. Etienne; M. Maarek; F. Anseaume; V. Delebarre,2015
+A Case Study in Locating the Architectural Roots of Technical Debt,R. Kazman; Y. Cai; R. Mo; Q. Feng; L. Xiao; S. Haziyev; V. Fedak; A. Shapochka,2015
+"Virtual Reality in Software Engineering: Affordances, Applications, and Challenges",A. Elliott; B. Peiris; C. Parnin,2015
+A Vision of Crowd Development,T. D. LaToza; A. v. d. Hoek,2015
+Sustainability Design and Software: The Karlskrona Manifesto,C. Becker; R. Chitchyan; L. Duboc; S. Easterbrook; B. Penzenstadler; N. Seyff; C. C. Venters,2015
+Stuck and Frustrated or in Flow and Happy: Sensing Developers' Emotions and Progress,S. C. M¨¹ller; T. Fritz,2015
+Specifying Event-Based Systems with a Counting Fluent Temporal Logic,G. Regis; R. Degiovanni; N. D'Ippolito; N. Aguirre,2015
+Detecting Inconsistencies in JavaScript MVC Applications,F. S. Ocariza; K. Pattabiraman; A. Mesbah,2015
+Approximating Attack Surfaces with Stack Traces,C. Theisen; K. Herzig; P. Morrison; B. Murphy; L. Williams,2015
+The Role of Design Thinking and Physical Prototyping in Social Software Engineering,P. Newman; M. A. Ferrario; W. Simm; S. Forshaw; A. Friday; J. Whittle,2015
+Efficient Scalable Verification of LTL Specifications,L. Baresi; M. M. Pourhashem Kallehbasti; M. Rossi,2015
+Assert Use in GitHub Projects,C. Casalnuovo; P. Devanbu; A. Oliveira; V. Filkov; B. Ray,2015
+How Much Up-Front? A Grounded theory of Agile Architecture,M. Waterman; J. Noble; G. Allan,2015
+Does Automated Refactoring Obviate Systematic Editing?,Na Meng; L. Hua; Miryung Kim; K. S. McKinley,2015
+"""Should We Move to Stack Overflow?"" Measuring the Utility of Social Media for Developer Support",M. Squire,2015
+Drawing Insight from Student Perceptions of Reflective Design Learning,T. V. Wilkins; J. C. Georgas,2015
+Inferring Behavioral Specifications from Large-scale Repositories by Leveraging Collective Intelligence,H. Rajan; T. N. Nguyen; G. T. Leavens; R. Dyer,2015
+On Architectural Diversity of Dynamic Adaptive Systems,H. Song; A. Elgammal; V. Nallur; F. Chauvel; F. Fleurey; S. Clarke,2015
+A Comparative Study of Programming Languages in Rosetta Code,S. Nanz; C. A. Furia,2015
+Build It Yourself! Homegrown Tools in a Large Software Company,E. K. Smith; C. Bird; T. Zimmermann,2015
+Learning to Log: Helping Developers Make Informed Logging Decisions,J. Zhu; P. He; Q. Fu; H. Zhang; M. R. Lyu; D. Zhang,2015
+Automated Modularization of GUI Test Cases,R. Yandrapally; G. Sridhara; S. Sinha,2015
+LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction,F. Peters; T. Menzies; L. Layman,2015
+GPredict: Generic Predictive Concurrency Analysis,J. Huang; Q. Luo; G. Rosu,2015
+Tracking Static Analysis Violations over Time to Capture Developer Characteristics,P. Avgustinov; A. I. Baars; A. S. Henriksen; G. Lavender; G. Menzel; O. d. Moor; M. Sch?fer; J. Tibble,2015
+Learning Global Agile Software Engineering Using Same-Site and Cross-Site Teams,M. Paasivaara; K. Blincoe; C. Lassenius; D. Damian; J. Sheoran; F. Harrison; P. Chhabra; A. Yussuf; V. Isotalo,2015
+Developing and Evaluating Software Engineering Process Theories,P. Ralph,2015
+ZoomIn: Discovering Failures by Detecting Wrong Assertions,F. Pastore; L. Mariani,2015
+ReCBuLC: Reproducing Concurrency Bugs Using Local Clocks,X. Yuan; C. Wu; Z. Wang; J. Li; P. Yew; J. Huang; X. Feng; Y. Lan; Y. Chen; Y. Guan,2015
+Discovering Information Explaining API Types Using Text Classification,G. Petrosyan; M. P. Robillard; R. De Mori,2015
+Safe Memory-Leak Fixing for C Programs,Q. Gao; Y. Xiong; Y. Mi; L. Zhang; W. Yang; Z. Zhou; B. Xie; H. Mei,2015
+Remote Development and Distance Delivery of Innovative Courses: Challenges and Opportunities,K. Marasovic; M. Lutz,2015
+Towards Explicitly Elastic Programming Frameworks,K. R. Jayaram,2015
+"Rapid Multi-Purpose, Multi-Commit Code Analysis",C. V. Alexandru; H. C. Gall,2015
+"No PAIN, No Gain? The Utility of PArallel Fault INjections",S. Winter; O. Schwahn; R. Natella; N. Suri; D. Cotroneo,2015
+Static Control-Flow Analysis of User-Driven Callbacks in Android Applications,S. Yang; D. Yan; H. Wu; Y. Wang; A. Rountev,2015
+Hercules: Reproducing Crashes in Real-World Application Binaries,V. Pham; W. B. Ng; K. Rubinov; A. Roychoudhury,2015
+The Art of Testing Less without Sacrificing Quality,K. Herzig; M. Greiler; J. Czerwonka; B. Murphy,2015
+Teaching Software Systems Thinking at The Open University,M. Wermelinger; J. G. Hall; L. Rapanotti; L. Barroca; M. Ramage; A. Bandara,2015
+Using GSwE2009 for the Evaluation of a Master Degree in Software Engineering in the Universidad de la Rep¨²blica,L. Camilloni; D. Vallespir; M. Ardis,2015
+Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines,C. Henard; M. Papadakis; M. Harman; Y. Le Traon,2015
+Interactive Code Review for Systematic Changes,T. Zhang; M. Song; J. Pinedo; M. Kim,2015
+Measuring Software Redundancy,A. Carzaniga; A. Mattavelli; M. Pezz¨¨,2015
+An Empirical Study on Quality Issues of Production Big Data Platform,H. Zhou; J. Lou; H. Zhang; H. Lin; H. Lin; T. Qin,2015
+An Empirical Study on Real Bug Fixes,H. Zhong; Z. Su,2015
+On the Role of Value Sensitive Concerns in Software Engineering Practice,B. Barn; R. Barn; F. Raimondi,2015
+Transparently Teaching in the Context of Game-based Learning: the Case of SimulES-W,E. S. Monsalve; J. C. S. d. P. Leite; V. M. B. Werneck,2015
+Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search,Y. Jia; M. B. Cohen; M. Harman; J. Petke,2015
+Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets,M. Barnett; C. Bird; J. Brunet; S. K. Lahiri,2015
+Automatic Documentation Generation via Source Code Summarization,P. W. McBurney,2015
+Presence-Condition Simplification in Highly Configurable Systems,A. v. Rhein; A. Grebhahn; S. Apel; N. Siegmund; D. Beyer; T. Berger,2015
+Systematic Testing of Reactive Software with Non-Deterministic Events: A Case Study on LG Electric Oven,Y. Park; S. Hong; M. Kim; D. Lee; J. Cho,2015
+Comparing Software Architecture Recovery Techniques Using Accurate Dependencies,T. Lutellier; D. Chollak; J. Garcia; L. Tan; D. Rayside; N. Medvidovic; R. Kroeger,2015
+"Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique",M. Papadakis; Y. Jia; M. Harman; Y. Le Traon,2015
+Enabling the Definition and Enforcement of Governance Rules in Open Source Systems,J. L. C¨¢novas Izquierdo; J. Cabot,2015
+Contest Based Learning with Blending Software Engineering and Business Management: For Students' High Motivation and High Practice Ability,N. Hanakawa,2015
+Code Hunt: Experience with Coding Contests at Scale,J. Bishop; R. N. Horspool; T. Xie; N. Tillmann; J. d. Halleux,2015
+Chiminey: Reliable Computing and Data Management Platform in the Cloud,I. I. Yusuf; I. E. Thomas; M. Spichkova; S. Androulakis; G. R. Meyer; D. W. Drumm; G. Opletal; S. P. Russo; A. M. Buckle; H. W. Schmidt,2015
+From Developer Networks to Verified Communities: A Fine-Grained Approach,M. Joblin; W. Mauerer; S. Apel; J. Siegmund; D. Riehle,2015
+Alloy*: A General-Purpose Higher-Order Relational Constraint Solver,A. Milicevic; J. P. Near; E. Kang; D. Jackson,2015
+Lightweight Adaptive Filtering for Efficient Learning and Updating of Probabilistic Models,A. Filieri; L. Grunske; A. Leva,2015
+Striving for Failure: An Industrial Case Study about Test Failure Prediction,J. Anderson; S. Salem; H. Do,2015
+Merits of Organizational Metrics in Defect Prediction: An Industrial Replication,B. Caglayan; B. Turhan; A. Bener; M. Habayeb; A. Miransky; E. Cialini,2015
+SOA4DM: Applying an SOA Paradigm to Coordination in Humanitarian Disaster Response,K. Lyons; C. Oh,2015
+The Development of a Dashboard Tool for Visualising Online Teamwork Discussions,R. Vivian; H. Tarmazdi; K. Falkner; N. Falkner; C. Szabo,2015
+Active and Inductive Learning in Software Engineering Education,Y. Sedelmaier; D. Landes,2015
+Database-Backed Program Analysis for Scalable Error Propagation,C. Weiss; C. Rubio-Gonz¨¢lez; B. Liblit,2015
+Compositional Symbolic Execution with Memoized Replay,R. Qiu; G. Yang; C. S. Pasareanu; S. Khurshid,2015
+Supporting Selective Undo in a Code Editor,Y. Yoon; B. A. Myers,2015
+An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes,R. K. Saha; L. Zhang; S. Khurshid; D. E. Perry,2015
+Measuring Dependency Freshness in Software Systems,J. Cox; E. Bouwers; M. v. Eekelen; J. Visser,2015
+Dementia and Social Sustainability: Challenges for Software Engineering,P. Sawyer; A. Sutcliffe; P. Rayson; C. Bull,2015
+CodeAware: Sensor-Based Fine-Grained Monitoring and Management of Software Artifacts,R. Abreu; H. Erdogmus; A. Perez,2015
+Experiences in Developing and Delivering a Programme of Part-Time Education in Software and Systems Security,A. Simpson; A. Martin; C. Cremers; I. Flechais; I. Martinovic; K. Rasmussen,2015
+Combining Symbolic Execution and Model Checking for Data Flow Testing,T. Su; Z. Fu; G. Pu; J. He; Z. Su,2015
+A Comprehensive Framework for the Development of Dynamic Smart Spaces,A. Shahzada,2015
+RECONTEST: Effective Regression Testing of Concurrent Programs,V. Terragni; S. Cheung; C. Zhang,2015
+Do Security Patterns Really Help Designers?,K. Yskout; R. Scandariato; W. Joosen,2015
+Metamorphic Model-Based Testing Applied on NASA DAT -- An Experience Report,M. Lindvall; D. Ganesan; R. ¨¢rdal; R. E. Wiegand,2015
+Industry Practices and Event Logging: Assessment of a Critical Software Development Process,A. Pecchia; M. Cinque; G. Carrozza; D. Cotroneo,2015
+New Initiative: The Naturalness of Software,P. Devanbu,2015
+How (Much) Do Developers Test?,M. Beller; G. Gousios; A. Zaidman,2015
+CS/SE Instructors Can Improve Student Writing without Reducing Class Time Devoted to Technical Content: Experimental Results,P. V. Anderson; S. Heckman; M. Vouk; D. Wright; M. Carter; J. E. Burge; G. C. Gannod,2015
+Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality,M. Lavall¨¦e; P. N. Robillard,2015
+Empirical Study Towards a Leading Indicator for Cost of Formal Software Verification,D. Matichuk; T. Murray; J. Andronick; R. Jeffery; G. Klein; M. Staples,2015
+Multi-objective Integer Programming Approaches for Solving Optimal Feature Selection Problem: A New Perspective on Multi-objective Optimization Problems in SBSE,Y. Xue; Y. Li,2018
+Nomen est Omen: Exploring and Exploiting Similarities between Argument and Parameter Names,H. Liu; Q. Liu; C. Staicu; M. Pradel; Y. Luo,2016
+Finding and Analyzing Compiler Warning Defects,C. Sun; V. Le; Z. Su,2016
+A Combinatorial Approach for Exposing Off-Nominal Behaviors,K. Madala; H. Do; D. Aceituna,2018
+Multi-objective Software Effort Estimation,F. Sarro; A. Petrozziello; M. Harman,2016
+Feature-Model Interfaces: The Highway to Compositional Analyses of Highly-Configurable Systems,R. Schr?ter; S. Krieter; T. Th¨¹m; F. Benduhn; G. Saake,2016
+When Testing Meets Code Review: Why and How Developers Review Tests,D. Spadini; M. Aniche; M. Storey; M. Bruntink; A. Bacchelli,2018
+Revisiting Code Ownership and Its Relationship with Software Quality in the Scope of Modern Code Review,P. Thongtanunam; S. McIntosh; A. E. Hassan; H. Iida,2016
+Automatically Generating Search Heuristics for Concolic Testing,S. Cha; S. Hong; J. Lee; H. Oh,2018
+Crowdsourcing Program Preconditions via a Classification Game,D. Fava; D. Shapiro; J. Osborn; M. Schaef; E. J. Whitehead,2016
+Energy Profiles of Java Collections Classes,S. Hasan; Z. King; M. Hafiz; M. Sayagh; B. Adams; A. Hindle,2016
+Overcoming Open Source Project Entry Barriers with a Portal for Newcomers,I. Steinmacher; T. U. Conte; C. Treude; M. A. Gerosa,2016
+Generalized Data Structure Synthesis,C. Loncaric; M. D. Ernst; E. Torlak,2018
+Sentiment Analysis for Software Engineering: How Far Can We Go?,B. Lin; F. Zampetti; G. Bavota; M. Di Penta; M. Lanza; R. Oliveto,2018
+Semantic Program Repair Using a Reference Implementation,S. Mechtaev; M. Nguyen; Y. Noller; L. Grunske; A. Roychoudhury,2018
+Angelix: Scalable Multiline Program Patch Synthesis via Symbolic Analysis,S. Mechtaev; J. Yi; A. Roychoudhury,2016
+Fixing Deadlocks via Lock Pre-Acquisitions,Y. Cai; L. Cao,2016
+Automated Energy Optimization of HTTP Requests for Mobile Applications,D. Li; Y. Lyu; J. Gui; W. G. J. Halfond,2016
+Automatically Learning Semantic Features for Defect Prediction,S. Wang; T. Liu; L. Tan,2016
+Automatically Finding Bugs in a Commercial Cyber-Physical System Development Tool Chain With SLforge,S. A. Chowdhury; S. Mohian; S. Mehra; S. Gawsane; T. T. Johnson; C. Csallner,2018
+To Preserve or Not to Preserve Invalid Solutions in Search-Based Software Engineering: A Case Study in Software Product Lines,J. Guo; K. Shi,2018
+Static Automated Program Repair for Heap Properties,R. van Tonder; C. Le Goues,2018
+PAC Learning-Based Verification and Model Synthesis,Y. Chen; C. Hsieh; O. Leng¨¢l; T. Lii; M. Tsai; B. Wang; F. Wang,2016
+Multi-granular Conflict and Dependency Analysis in Software Engineering Based on Graph Transformation,L. Lambers; D. Str¨¹ber; G. Taentzer; K. Born; J. Huebert,2018
+Locking Discipline Inference and Checking,M. D. Ernst; A. Lovato; D. Macedonio; F. Spoto; J. Thaine,2016
+Shadow of a Doubt: Testing for Divergences between Software Versions,H. Palikareva; T. Kuchta; C. Cadar,2016
+Automated Parameter Optimization of Classification Techniques for Defect Prediction Models,C. Tantithamthavorn; S. McIntosh; A. E. Hassan; K. Matsumoto,2016
+Is "Better Data" Better Than "Better Data Miners"?,A. Agrawal; T. Menzies,2018
+Accurate and Efficient Refactoring Detection in Commit History,N. Tsantalis; M. Mansouri; L. Eshkevari; D. Mazinanian; D. Dig,2018
+The Evolution of C Programming Practices: A Study of the Unix Operating System 1973-2015,D. Spinellis; P. Louridas; M. Kechagia,2016
+SourcererCC: Scaling Code Clone Detection to Big-Code,H. Sajnani; V. Saini; J. Svajlenko; C. K. Roy; C. V. Lopes,2016
+Program Synthesis Using Natural Language,A. Desai; S. Gulwani; V. Hingorani; N. Jain; A. Karkare; M. Marron; S. R.; S. Roy,2016
+Augmenting API Documentation with Insights from Stack Overflow,C. Treude; M. P. Robillard,2016
+FAST Approaches to Scalable Similarity-Based Test Case Prioritization,B. Miranda; E. Cruciani; R. Verdecchia; A. Bertolino,2018
+Understanding and Fixing Multiple Language Interoperability Issues: The C/Fortran Case,N. Sultana; J. Middleton; J. Overbey; M. Hafiz,2016
+Debugging Data Flows in Reactive Programs,H. Banken; E. Meijer; G. Gousios,2018
+Identifying Patch Correctness in Test-Based Program Repair,Y. Xiong; X. Liu; M. Zeng; L. Zhang; G. Huang,2018
+Cross-Supervised Synthesis of Web-Crawlers,A. Omari; S. Shoham; E. Yahav,2016
+Learning API Usages from Bytecode: A Statistical Approach,T. T. Nguyen; H. V. Pham; P. M. Vu; T. T. Nguyen,2016
+Assessing the Threat of Untracked Changes in Software Evolution,A. Hora; D. Silva; M. T. Valente; R. Robbes,2018
+Mining Sandboxes,K. Jamrozik; P. von Styp-Rekowsky; A. Zeller,2016
+Debugging for Reactive Programming,G. Salvaneschi; M. Mezini,2016
+Probing for Requirements Knowledge to Stimulate Architectural Thinking,P. R. Anish; B. Balasubramaniam; A. Sainani; J. Cleland-Huang; M. Daneva; R. J. Wieringa; S. Ghaisas,2016
+Speedoo: Prioritizing Performance Optimization Opportunities,Z. Chen; B. Chen; L. Xiao; X. Wang; L. Chen; Y. Liu; B. Xu,2018
+Code Anomalies Flock Together: Exploring Code Anomaly Agglomerations for Locating Design Problems,W. Oizumi; A. Garcia; L. d. S. Sousa; B. Cafeo; Y. Zhao,2016
+HireBuild: An Automatic Approach to History-Driven Repair of Build Scripts,F. Hassan; X. Wang,2018
+Release Planning of Mobile Apps Based on User Reviews,L. Villarroel; G. Bavota; B. Russo; R. Oliveto; M. Di Penta,2016
+Goal-Conflict Likelihood Assessment Based on Model Counting,R. Degiovanni; P. Castro; M. Arroyo; M. Ruiz; N. Aguirre; M. Frias,2018
+Adding Sparkle to Social Coding: An Empirical Study of Repository Badges in the npm Ecosystem,A. Trockman; S. Zhou; C. K?stner; B. Vasilescu,2018
+Performance Issues and Optimizations in JavaScript: An Empirical Study,M. Selakovic; M. Pradel,2016
+Are Mutation Scores Correlated with Real Fault Detection? A Large Scale Empirical Study on the Relationship Between Mutants and Real Faults,M. Papadakis; D. Shin; S. Yoo; D. Bae,2018
+RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps,W. Cui; M. Peinado; S. K. Cha; Y. Fratantonio; V. P. Kemerlis,2016
+Discovering "Unknown Known" Security Requirements,A. Rashid; S. A. A. Naqvi; R. Ramdhany; M. Edwards; R. Chitchyan; M. A. Babar,2016
+RFC-Directed Differential Testing of Certificate Validation in SSL/TLS Implementations,C. Chen; C. Tian; Z. Duan; L. Zhao,2018
+CUSTODES: Automatic Spreadsheet Cell Clustering and Smell Detection Using Strong and Weak Features,S. Cheung; W. Chen; Y. Liu; C. Xu,2016
+On The Limits of Mutation Reduction Strategies,R. Gopinath; M. A. Alipour; I. Ahmed; C. Jensen; A. Groce,2016
+A Static Verification Framework for Message Passing in Go Using Behavioural Types,J. Lange; N. Ng; B. Toninho; N. Yoshida,2018
+Optimizing Selection of Competing Services with Probabilistic Hierarchical Refinement,T. H. Tan; M. Chen; J. Sun; Y. Liu; ¨¦. Andr¨¦; Y. Xue; J. S. Dong,2016
+Augusto: Exploiting Popular Functionalities for the Generation of Semantic GUI Tests with Oracles,L. Mariani; M. Pezz¨¨; D. Zuddas,2018
+Spatio-Temporal Context Reduction: A Pointer-Analysis-Based Static Approach for Detecting Use-After-Free Vulnerabilities,H. Yan; Y. Sui; S. Chen; J. Xue,2018
+Efficient Large-Scale Trace Checking Using MapReduce,M. M. Bersani; D. Bianculli; C. Ghezzi; S. Krstic; P. San Pietro,2016
+A Temporal Permission Analysis and Enforcement Framework for Android,A. Sadeghi; R. Jabbarvand; N. Ghorbani; H. Bagheri; S. Malek,2018
+Identifying and Quantifying Architectural Debt,L. Xiao; Y. Cai; R. Kazman; R. Mo; Q. Feng,2016
+How Does Regression Test Prioritization Perform in Real-World Software Evolution?,Y. Lu; Y. Lou; S. Cheng; L. Zhang; D. Hao; Y. Zhou; L. Zhang,2016
+DroidStar: Callback Typestates for Android Classes,A. Radhakrishna; N. V. Lewchenko; S. Meier; S. Mover; K. C. Sripada; D. Zufferey; B. E. Chang; P. Cerny,2018
+Belief & Evidence in Empirical Software Engineering,P. Devanbu; T. Zimmermann; C. Bird,2016
+DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars,Y. Tian; K. Pei; S. Jana; B. Ray,2018
+Chopped Symbolic Execution,D. Trabish; A. Mattavelli; N. Rinetzky; C. Cadar,2018
+DoubleTake: Fast and Precise Error Detection via Evidence-Based Dynamic Analysis,T. Liu; C. Curtsinger; E. D. Berger,2016
+"Reference Hijacking: Patching, Protecting and Analyzing on Unmodified and Non-rooted Android Devices",W. You; B. Liang; W. Shi; S. Zhu; P. Wang; S. Xie; X. Zhang,2016
+GUILeak: Tracing Privacy Policy Claims on User Input Data for Android Applications,X. Wang; X. Qin; M. Bokaei Hosseini; R. Slavin; T. D. Breaux; J. Niu,2018
+Reducing Combinatorics in GUI Testing of Android Applications,N. Mirzaei; J. Garcia; H. Bagheri; A. Sadeghi; S. Malek,2016
+"On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE",E. F. Rizzi; S. Elbaum; M. B. Dwyer,2016
+Collective Program Analysis,G. Upadhyaya; H. Rajan,2018
+"""Jumping Through Hoops"": Why do Java Developers Struggle with Cryptography APIs?",S. Nadi; S. Kr¨¹ger; M. Mezini; E. Bodden,2016
+The Challenges of Staying Together While Moving Fast: An Exploratory Study,J. Rubin; M. Rinard,2016
+Synthesizing Qualitative Research in Software Engineering: A Critical Review,X. Huang; H. Zhang; X. Zhou; M. Ali Babar; S. Yang,2018
+Type-Aware Concolic Testing of JavaScript Programs,M. Dhok; M. K. Ramanathan; N. Sinha,2016
+Are Code Examples on an Online Q&A Forum Reliable?: A Study of API Misuse on Stack Overflow,T. Zhang; G. Upadhyaya; A. Reinhardt; H. Rajan; M. Kim,2018
+VDTest: An Automated Framework to Support Testing for Virtual Devices,T. Yu; X. Qu; M. B. Cohen,2016
+A Practical Guide to Select Quality Indicators for Assessing Pareto-Based Search Algorithms in Search-Based Software Engineering,S. Wang; S. Ali; T. Yue; Y. Li; M. Liaaen,2016
+Launch-Mode-Aware Context-Sensitive Activity Transition Analysis,Y. Zhang; Y. Sui; J. Xue,2018
+Exploring Language Support for Immutability,M. Coblenz; J. Sunshine; J. Aldrich; B. Myers; S. Weber; F. Shull,2016
+Quantifying and Mitigating Turnover-Induced Knowledge Loss: Case Studies of Chrome and a Project at Avaya,P. C. Rigby; Y. C. Zhu; S. M. Donadelli; A. Mockus,2016
+Termination-Checking for LLVM Peephole Optimizations,D. Menendez; S. Nagarakatte,2016
+Propagating Configuration Decisions with Modal Implication Graphs,S. Krieter; T. Th¨¹m; S. Schulze; R. Schr?ter; G. Saake,2018
+Deep Code Search,X. Gu; H. Zhang; S. Kim,2018
+Automated Localization for Unreproducible Builds,Z. Ren; H. Jiang; J. Xuan; Z. Yang,2018
+Missing Data Imputation Based on Low-Rank Recovery and Semi-Supervised Regression for Software Effort Estimation,X. Jing; F. Qi; F. Wu; B. Xu,2016
+Featured Model-Based Mutation Analysis,X. Devroey; G. Perrouin; M. Papadakis; A. Legay; P. Schobbens; P. Heymans,2016
+Code Review Quality: How Developers See It,O. Kononenko; O. Baysal; M. W. Godfrey,2016
+Floating-Point Precision Tuning Using Blame Analysis,C. Rubio-Gonz¨¢lez; C. Nguyen; B. Mehne; K. Sen; J. Demmel; W. Kahan; C. Iancu; W. Lavrijsen; D. H. Bailey; D. Hough,2016
+iDice: Problem Identification for Emerging Issues,Q. Lin; J. Lou; H. Zhang; D. Zhang,2016
+FaCoY ¨C A Code-to-Code Search Engine,K. Kim; D. Kim; T. F. Bissyand¨¦; E. Choi; L. Li; J. Klein; Y. Le Traon,2018
+A Large-Scale Empirical Study on the Effects of Code Obfuscations on Android Apps and Anti-Malware Products,M. Hammad; J. Garcia; S. Malek,2018
+How Does the Degree of Variability Affect Bug Finding?,J. Melo; C. Brabrand; A. Wasowski,2016
+IntEQ: Recognizing Benign Integer Overflows via Equivalence Checking across Multiple Precisions,H. Sun; X. Zhang; Y. Zheng; Q. Zeng,2016
+Scalable Thread Sharing Analysis,J. Huang,2016
+An Empirical Study of Practitioners' Perspectives on Green Software Engineering,I. Manotas; C. Bird; R. Zhang; D. Shepherd; C. Jaspan; C. Sadowski; L. Pollock; J. Clause,2016
+Work Practices and Challenges in Pull-Based Development: The Contributor's Perspective,G. Gousios; M. Storey; A. Bacchelli,2016
+A Graph Solver for the Automated Generation of Consistent Domain-Specific Models,O. Semer¨¢th; A. S. Nagy; D. Varr¨®,2018
+Testing Vision-Based Control Systems Using Learnable Evolutionary Algorithms,R. Ben Abdessalem; S. Nejati; L. C. Briand; T. Stifter,2018
+An Analysis of the Search Spaces for Generate and Validate Patch Generation Systems,F. Long; M. Rinard,2016
+Coverage-Driven Test Code Generation for Concurrent Classes,V. Terragni; S. Cheung,2016
+Too Long; Didn't Watch! Extracting Relevant Fragments from Software Development Video Tutorials,L. Ponzanelli; G. Bavota; A. Mocci; M. Di Penta; R. Oliveto; M. Hasan; B. Russo; S. Haiduc; M. Lanza,2016
+Cross-Project Defect Prediction Using a Connectivity-Based Unsupervised Classifier,F. Zhang; Q. Zheng; Y. Zou; A. E. Hassan,2016
+Nemo: Multi-criteria Test-Suite Minimization with Integer Nonlinear Programming,J. Lin; R. Jabbarvand; J. Garcia; S. Malek,2018
+Time to Clean Your Test Objectives,M. Marcozzi; S. Bardin; N. Kosmatov; M. Papadakis; V. Prevosto; L. Correnson,2018
+Improving Refactoring Speed by 10X,J. Kim; D. Batory; D. Dig; M. Azanza,2016
+AntMiner: Mining More Bugs by Reducing Noise Interference,B. Liang; P. Bian; Y. Zhang; W. Shi; W. You; Y. Cai,2016
+Automated Reporting of GUI Design Violations for Mobile Apps,K. Moran; B. Li; C. Bernal-C¨¢rdenas; D. Jelf; D. Poshyvanyk,2018
+Fine-Grained Test Minimization,A. Vahabzadeh; A. Stocco; A. Mesbah,2018
+An Empirical Study on the Impact of C++ Lambdas and Programmer Experience,P. M. Uesbeck; A. Stefik; S. Hanenberg; J. Pedersen; P. Daleiden,2016
+ConflictJS: Finding and Understanding Conflicts Between JavaScript Libraries,J. Patra; P. N. Dixit; M. Pradel,2018
+Understanding Asynchronous Interactions in Full-Stack JavaScript,S. Alimadadi; A. Mesbah; K. Pattabiraman,2016
+SWIM: Synthesizing What I Mean - Code Search and Idiomatic Snippet Synthesis,M. Raghothaman; Y. Wei; Y. Hamadi,2016
+From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering,X. Ye; H. Shen; X. Ma; R. Bunescu; C. Liu,2016
+The Road to Live Programming: Insights from the Practice,J. Kubelka; R. Robbes; A. Bergel,2018
+Repairing Crashes in Android Apps,S. H. Tan; Z. Dong; X. Gao; A. Roychoudhury,2018
+Towards Refactoring-Aware Regression Test Selection,K. Wang; C. Zhu; A. Celik; J. Kim; D. Batory; M. Gligoric,2018
+BigDebug: Debugging Primitives for Interactive Big Data Processing in Spark,M. A. Gulzar; M. Interlandi; S. Yoo; S. D. Tetali; T. Condie; T. Millstein; M. Kim,2016
+Are "Non-functional" Requirements really Non-functional? An Investigation of Non-functional Requirements in Practice,J. Eckhardt; A. Vogelsang; D. M. Fern¨¢ndez,2016
+Automatic Model Generation from Documentation for Java API Functions,J. Zhai; J. Huang; S. Ma; X. Zhang; L. Tan; J. Zhao; F. Qin,2016
+On the "Naturalness" of Buggy Code,B. Ray; V. Hellendoorn; S. Godhane; Z. Tu; A. Bacchelli; P. Devanbu,2016
+CCAligner: A Token Based Large-Gap Clone Detector,P. Wang; J. Svajlenko; Y. Wu; Y. Xu; C. K. Roy,2018
+PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data,X. Lu; X. Liu; H. Li; T. Xie; Q. Mei; D. Hao; G. Huang; F. Feng,2016
+Programming Not Only by Example,H. Peleg; S. Shoham; E. Yahav,2018
+How Modern News Aggregators Help Development Communities Shape and Share Knowledge,M. Aniche; C. Treude; I. Steinmacher; I. Wiese; G. Pinto; M. Storey; M. A. Gerosa,2018
+Generating Performance Distributions via Probabilistic Symbolic Execution,B. Chen; Y. Liu; W. Le,2016
+Almost There: A Study on Quasi-Contributors in Open-Source Software Projects,I. Steinmacher; G. Pinto; I. S. Wiese; M. A. Gerosa,2018
+Revisit of Automatic Debugging via Human Focus-Tracking Analysis,X. Xie; Z. Liu; S. Song; Z. Chen; J. Xuan; B. Xu,2016
+Risk-Driven Revision of Requirements Models,D. Alrajeh; A. van Lamsweerde; J. Kramer; A. Russo; S. Uchitel,2016
+Using (Bio)Metrics to Predict Code Quality Online,S. C. M¨¹ller; T. Fritz,2016
+Toward a Framework for Detecting Privacy Policy Violations in Android Application Code,R. Slavin; X. Wang; M. B. Hosseini; J. Hester; R. Krishnan; J. Bhatia; T. D. Breaux; J. Niu,2016
+"""Was My Contribution Fairly Reviewed?"" A Framework to Study the Perception of Fairness in Modern Code Reviews",D. M. German; G. Robles; G. Poo-Caama?o; X. Yang; H. Iida; K. Inoue,2018
+Reliability of Run-Time Quality-of-Service Evaluation Using Parametric Model Checking,G. Su; D. S. Rosenblum; G. Tamburrelli,2016
+To Distribute or Not to Distribute? Why Licensing Bugs Matter,C. Vendome; D. German; M. Di Penta; G. Bavota; M. Linares-V¨¢squez; D. Poshyvanyk,2018
+Behavioral Log Analysis with Statistical Guarantees,N. Busany; S. Maoz,2016
+Traceability in the Wild: Automatically Augmenting Incomplete Trace Links,M. Rath; J. Rendall; J. L. C. Guo; J. Cleland-Huang; P. M?der,2018
+Symbolic Verification of Regular Properties,H. Yu; Z. Chen; J. Wang; Z. Su; W. Dong,2018
+Disseminating Architectural Knowledge on Open-Source Projects: A Case Study of the Book "Architecture of Open-Source Applications",M. P. Robillard; N. Medvidovic,2016
+Comparing White-Box and Black-Box Test Prioritization,C. Henard; M. Papadakis; M. Harman; Y. Jia; Y. Le Traon,2016
+Inferring and Asserting Distributed System Invariants,S. Grant; H. Cech; I. Beschastnikh,2018
+The Emerging Role of Data Scientists on Software Development Teams,M. Kim; T. Zimmermann; R. DeLine; A. Begel,2016
+Understanding Developers' Needs on Deprecation as a Language Feature,A. A. Sawant; M. Aniche; A. van Deursen; A. Bacchelli,2018
+Towards Optimal Concolic Testing,X. Wang; J. Sun; Z. Chen; P. Zhang; J. Wang; Y. Lin,2018
+Program Splicing,Y. Lu; S. Chaudhuri; C. Jermaine; D. Melski,2018
+Feedback-Directed Instrumentation for Deployed JavaScript Applications,M. Madsen; F. Tip; E. Andreasen; K. Sen; A. M?ller,2016
+Finding Security Bugs in Web Applications Using a Catalog of Access Control Patterns,J. P. Near; D. Jackson,2016
+Context-Aware Patch Generation for Better Automated Program Repair,M. Wen; J. Chen; R. Wu; D. Hao; S. Cheung,2018
+Decoupling Level: A New Metric for Architectural Maintenance Complexity,R. Mo; Y. Cai; R. Kazman; L. Xiao; Q. Feng,2016
+The Impact of Test Case Summaries on Bug Fixing Performance: An Empirical Investigation,S. Panichella; A. Panichella; M. Beller; A. Zaidman; H. C. Gall,2016
+Grounded Theory in Software Engineering Research: A Critical Review and Guidelines,K. Stol; P. Ralph; B. Fitzgerald,2016
+UFO: Predictive Concurrency Use-After-Free Detection,J. Huang,2018
+Perses: Syntax-Guided Program Reduction,C. Sun; Y. Li; Q. Zhang; T. Gu; Z. Su,2018
+Automated Partitioning of Android Applications for Trusted Execution Environments,K. Rubinov; L. Rosculete; T. Mitra; A. Roychoudhury,2016
+Building a Theory of Job Rotation in Software Engineering from an Instrumental Case Study,R. E. S. Santos; F. Q. B. da Silva; C. V. C. de Magalh?es; C. V. F. Monteiro,2016
+Synthesizing Framework Models for Symbolic Execution,J. Jeon; X. Qiu; J. Fetter-Degges; J. S. Foster; A. Solar-Lezama,2016
+MobiPlay: A Remote Execution Based Record-and-Replay Tool for Mobile Applications,Z. Qin; Y. Tang; E. Novak; Q. Li,2016
+Guiding Dynamic Symbolic Execution toward Unverified Program Executions,M. Christakis; P. M¨¹ller; V. W¨¹stholz,2016
+Dataflow Tunneling: Mining Inter-Request Data Dependencies for Request-Based Applications,X. Yu; G. Jin,2018
+Statistical Learning of API Fully Qualified Names in Code Snippets of Online Forums,H. Phan; H. A. Nguyen; N. M. Tran; L. H. Truong; A. T. Nguyen; T. N. Nguyen,2018
+StubDroid: Automatic Inference of Precise Data-Flow Summaries for the Android Framework,S. Arzt; E. Bodden,2016
+EnMobile: Entity-Based Characterization and Analysis of Mobile Malware,W. Yang; M. Prasad; T. Xie,2018
+The Sky Is Not the Limit: Multitasking Across GitHub Projects,B. Vasilescu; K. Blincoe; Q. Xuan; C. Casalnuovo; D. Damian; P. Devanbu; V. Filkov,2016
+An Empirical Comparison of Compiler Testing Techniques,J. Chen; W. Hu; D. Hao; Y. Xiong; H. Zhang; L. Zhang; B. Xie,2016
+Software Protection on the Go: A Large-Scale Empirical Study on Mobile App Obfuscation,P. Wang; Q. Bao; L. Wang; S. Wang; Z. Chen; T. Wei; D. Wu,2018
+Neuro-Symbolic Program Corrector for Introductory Programming Assignments,S. Bhatia; P. Kohli; R. Singh,2018
+Automated Test Suite Generation for Time-Continuous Simulink Models,R. Matinnejad; S. Nejati; L. C. Briand; T. Bruckmann,2016
+A Comparison of 10 Sampling Algorithms for Configurable Systems,F. Medeiros; C. K?stner; M. Ribeiro; R. Gheyi; S. Apel,2016
+Deuce: A Lightweight User Interface for Structured Editing,B. Hempel; J. Lubin; G. Lu; R. Chugh,2018
+Quality Experience: A Grounded Theory of Successful Agile Projects without Dedicated Testers,L. Prechelt; H. Schmeisky; F. Zieris,2016
+Big problems in industry (panel),J. Penix,2013
+Toward Practical Automatic Program Repair,A. Ghanbari,2019
+TsmartGP: A Tool for Finding Memory Defects with Pointer Analysis,Y. Wang; G. Chen; M. Zhou; M. Gu; J. Sun,2019
+Retrieve and Refine: Exemplar-Based Neural Comment Generation,B. Wei,2019
+Humanoid: A Deep Learning-Based Approach to Automated Black-box Android App Testing,Y. Li; Z. Yang; Y. Guo; X. Chen,2019
+A Machine Learning Based Approach to Identify SQL Injection Vulnerabilities,K. Zhang,2019
+Test Automation and Its Limitations: A Case Study,A. Sung; S. Kim; Y. Kim; Y. Jang; J. Kim,2019
+PHANTA: Diversified Test Code Quality Measurement for Modern Software Development,S. Tokumoto; K. Takayama,2019
+Enabling Continuous Improvement of a Continuous Integration Process,C. Vassallo,2019
+Better Development of Safety Critical Systems: Chinese High Speed Railway System Development Experience Report,Z. Wu; J. Liu; X. Chen,2019
+User Preference Aware Multimedia Pricing Model using Game Theory and Prospect Theory for Wireless Communications,K. M. Kattiyan Ramamoorthy,2019
+Ares: Inferring Error Specifications through Static Analysis,C. Li; M. Zhou; Z. Gu; M. Gu; H. Zhang,2019
+Empirical Study of Python Call Graph,L. Yu,2019
+Verifying Determinism in Sequential Programs,R. Mudduluru,2019
+Grading-Based Test Suite Augmentation,J. Osei-Owusu; A. Astorga; L. Butler; T. Xie; G. Challen,2019
+Crowdsourced Report Generation via Bug Screenshot Understanding,S. Yu,2019
+How Do API Selections Affect the Runtime Performance of Data Analytics Tasks?,Y. Tao; S. Tang; Y. Liu; Z. Xu; S. Qin,2019
+mCUTE: A Model-Level Concolic Unit Testing Engine for UML State Machines,R. Ahmadi; K. Jahed; J. Dingel,2019
+LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform,S. Yu; C. Fang; Y. Feng; W. Zhao; Z. Chen,2019
+Automatic Generation of Graphical User Interface Prototypes from Unrestricted Natural Language Requirements,K. Kolthoff,2019
+SPrinter: A Static Checker for Finding Smart Pointer Errors in C++ Programs,X. Ma; J. Yan; Y. Li; J. Yan; J. Zhang,2019
+PMExec: An Execution Engine of Partial UML-RT Models,M. Bagherzadeh; K. Jahed; N. Kahani; J. Dingel,2019
+TestCov: Robust Test-Suite Execution and Coverage Measurement,D. Beyer; T. Lemberger,2019
+Improving Patch Quality by Enhancing Key Components of Automatic Program Repair,M. Soto,2019
+PTracer: A Linux Kernel Patch Trace Bot,Y. Wen; J. Cao; S. Cheng,2019
+AutoFocus: Interpreting Attention-Based Neural Networks by Code Perturbation,N. D. Q. Bui; Y. Yu; L. Jiang,2019
+VeriAbs : Verification by Abstraction and Test Generation,M. Afzal; A. Asia; A. Chauhan; B. Chimdyalwar; P. Darke; A. Datar; S. Kumar; R. Venkatesh,2019
+Trusted Software Supply Chain,K. Singi; J. C. B. R P; S. Podder; A. P. Burden,2019
+"BuRRiTo: A Framework to Extract, Specify, Verify and Analyze Business Rules",P. K. Chittimalli; K. Anand; S. Pradhan; S. Mitra; C. Prakash; R. Shere; R. Naik,2019
+"Prema: A Tool for Precise Requirements Editing, Modeling and Analysis",Y. Huang; J. Feng; H. Zheng; J. Zhu; S. Wang; S. Jiang; W. Miao; G. Pu,2019
+Demystifying Application Performance Management Libraries for Android,Y. Tang; X. Zhan; H. Zhou; X. Luo; Z. Xu; Y. Zhou; Q. Yan,2019
+Generating Tests to Analyse Dynamically-Typed Programs,S. Lukasczyk,2019
+DeepMutation++: A Mutation Testing Framework for Deep Learning Systems,Q. Hu; L. Ma; X. Xie; B. Yu; Y. Liu; J. Zhao,2019
+NeuralVis: Visualizing and Interpreting Deep Learning Models,X. Zhang; Z. Yin; Y. Feng; Q. Shi; J. Liu; Z. Chen,2019
+Improving Collaboration Efficiency in Fork-Based Development,S. Zhou,2019
+An Approach for Investigating Emotion Dynamics in Software Development,K. Neupane,2019
+Inference of Properties from Requirements and Automation of Their Formal Verification,M. Reich,2019
+Compile-Time Detection of Machine Image Sniping,M. Kellogg,2019
+Boosting Neural Commit Message Generation with Code Semantic Analysis,S. Jiang,2019
+FPChecker: Detecting Floating-Point Exceptions in GPU Applications,I. Laguna,2019
+A Journey Towards Providing Intelligence and Actionable Insights to Development Teams in Software Delivery,V. S. Sharma; R. Mehra; S. Podder; A. P. Burden,2019
+Pangolin: An SFL-Based Toolset for Feature Localization,B. Castro; A. Perez; R. Abreu,2019
+"SWAN_ASSIST: Semi-Automated Detection of Code-Specific, Security-Relevant Methods",G. Piskachev; L. Nguyen Quang Do; O. Johnson; E. Bodden,2019
+Kotless: A Serverless Framework for Kotlin,V. Tankov; Y. Golubev; T. Bryksin,2019
+Towards Comprehensible Representation of Controllers using Machine Learning,G. Balasubramaniam,2019
+FogWorkflowSim: An Automated Simulation Toolkit for Workflow Performance Evaluation in Fog Computing,X. Liu; L. Fan; J. Xu; X. Li; L. Gong; J. Grundy; Y. Yang,2019
+An Image-Inspired and CNN-Based Android Malware Detection Approach,X. Xiao,2019
+CONVUL: An Effective Tool for Detecting Concurrency Vulnerabilities,R. Meng; B. Zhu; H. Yun; H. Li; Y. Cai; Z. Yang,2019
+Automatically Repairing Binary Programs Using Adapter Synthesis,V. Sharma,2019
+Visual Analytics for Concurrent Java Executions,C. Artho; M. Pande; Q. Tang,2019
+Tackling Build Failures in Continuous Integration,F. Hassan,2019
+API Design Implications of Boilerplate Client Code,D. Nam,2019
+Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts,M. Mossberg; F. Manzano; E. Hennenfent; A. Groce; G. Grieco; J. Feist; T. Brunson; A. Dinaburg,2019
+Lancer: Your Code Tell Me What You Need,S. Zhou; B. Shen; H. Zhong,2019
+MutAPK: Source-Codeless Mutant Generation for Android Apps,C. Escobar-Vel¨¢squez; M. Osorio-Ria?o; M. Linares-V¨¢squez,2019
+Developer Reputation Estimator (DRE),S. Amreen; A. Karnauch; A. Mockus,2019
+CocoQa: Question Answering for Coding Conventions Over Knowledge Graphs,T. Du; J. Cao; Q. Wu; W. Li; B. Shen; Y. Chen,2019
+MuSC: A Tool for Mutation Testing of Ethereum Smart Contract,Z. Li; H. Wu; J. Xu; X. Wang; L. Zhang; Z. Chen,2019
+SiMPOSE - Configurable N-Way Program Merging Strategies for Superimposition-Based Analysis of Variant-Rich Software,D. Reuling; U. Kelter; S. Ruland; M. Lochau,2019
+Towards search-based modelling and analysis of requirements and architecture decisions,S. A. Busari,2017
+Tool Support for Analyzing Mobile App Reviews,P. M. Vu; H. V. Pham; T. T. Nguyen; T. T. Nguyen,2015
+The challenges of verification and validation of automated planning systems (keynote),J. Frank,2013
+LED: Tool for Synthesizing Web Element Locators,K. Bajaj; K. Pattabiraman; A. Mesbah,2015
+The bounded model checker LLBMC,S. Falke; F. Merz; C. Sinz,2013
+Cobra ¡ª An interactive static code analyzer,G. Holzmann,2017
+Measuring Object-Oriented Design Principles,J. Braeuer,2015
+Characterizing and taming non-deterministic bugs in Javascript applications,J. Wang,2017
+Software engineering without borders,A. van Deursen,2017
+MetaMod: A Modeling Formalism with Modularity at Its Core,A. ?ut?i,2015
+TRAM: A tool for transforming textual requirements into analysis models,K. J. Letsholo; L. Zhao; E. Chioasca,2013
+"Understanding, Refactoring, and Fixing Concurrency in C#",S. Okur,2015
+Privacy-aware data-intensive applications,M. Guerriero,2017
+Clone Merge -- An Eclipse Plugin to Abstract Near-Clone C++ Methods,K. Narasimhan,2015
+BOOM: Experiences in language and tool design for distributed systems (keynote),J. M. Hellerstein,2013
+Tool support for automatic model transformation specification using concrete visualisations,I. Avazpour; J. Grundy; L. Grunske,2013
+Mining structures from massive text data: Will it help software engineering?,J. Han,2017
+Crushinator: A framework towards game-independent testing,C. Schaefer; Hyunsook Do; B. M. Slator,2013
+Towards API-specific automatic program repair,S. Nielebock,2017
+Developing self-verifying service-based systems,R. Calinescu; K. Johnson; Y. Rafiq,2013
+A Generic Framework for Concept-Based Exploration of Semi-Structured Software Engineering Data,G. J. Greene,2015
+Automatic Self-Validation for Code Coverage Profilers,Y. Yang; Y. Jiang; Z. Zuo; Y. Wang; H. Sun; H. Lu; Y. Zhou; B. Xu,2019
+Machine Learning Based Recommendation of Method Names: How Far are We,L. Jiang; H. Liu; H. Jiang,2019
+Learning from Examples to Find Fully Qualified Names of API Elements in Code Snippets,C. M. K. Saifullah; M. Asaduzzaman; C. K. Roy,2019
+Accurate Modeling of Performance Histories for Evolving Software Systems,S. M¨¹hlbauer; S. Apel; N. Siegmund,2019
+Model Checking Embedded Control Software using OS-in-the-Loop CEGAR,D. Kim; Y. Choi,2019
+Improving the Decision-Making Process of Self-Adaptive Systems by Accounting for Tactic Volatility,J. Palmerino; Q. Yu; T. Desell; D. Krutz,2019
+Characterizing Android App Signing Issues,H. Wang; H. Liu; X. Xiao; G. Meng; Y. Guo,2019
+SCMiner: Localizing System-Level Concurrency Faults from Large System Call Traces,T. S. Zaman; X. Han; T. Yu,2019
+"Discovering, Explaining and Summarizing Controversial Discussions in Community Q&A Sites",X. Ren; Z. Xing; X. Xia; G. Li; J. Sun,2019
+Cautious Adaptation of Defiant Components,P. H. Maia; L. Vieira; M. Chagas; Y. Yu; A. Zisman; B. Nuseibeh,2019
+Goal-Driven Exploration for Android Applications,D. Lai; J. Rubin,2019
+InFix: Automatically Repairing Novice Program Inputs,M. Endres; G. Sakkas; B. Cosman; R. Jhala; W. Weimer,2019
+Automatic Generation of Pull Request Descriptions,Z. Liu; X. Xia; C. Treude; D. Lo; S. Li,2019
+An Empirical Study Towards Characterizing Deep Learning Development and Deployment Across Different Frameworks and Platforms,Q. Guo; S. Chen; X. Xie; L. Ma; Q. Hu; H. Liu; Y. Liu; J. Zhao; X. Li,2019
+RENN: Efficient Reverse Execution with Neural-Network-Assisted Alias Analysis,D. Mu; W. Guo; A. Cuevas; Y. Chen; J. Gai; X. Xing; B. Mao; C. Song,2019
+Experience Paper: Search-Based Testing in Automated Driving Control Applications,C. Gladisch; T. Heinz; C. Heinzemann; J. Oehlerking; A. von Vietinghoff; T. Pfitzer,2019
+Assessing the Generalizability of Code2vec Token Embeddings,H. J. Kang; T. F. Bissyand¨¦; D. Lo,2019
+MAP-Coverage: A Novel Coverage Criterion for Testing Thread-Safe Classes,Z. Wang; Y. Zhao; S. Liu; J. Sun; X. Chen; H. Lin,2019
+CodeKernel: A Graph Kernel Based Approach to the Selection of API Usage Examples,X. Gu; H. Zhang; S. Kim,2019
+Empirical Evaluation of the Impact of Class Overlap on Software Defect Prediction,L. Gong; S. Jiang; R. Wang; L. Jiang,2019
+SEGATE: Unveiling Semantic Inconsistencies between Code and Specification of String Inputs,D. Sondhi; R. Purandare,2019
+DaPanda: Detecting Aggressive Push Notifications in Android Apps,T. Liu; H. Wang; L. Li; G. Bai; Y. Guo; G. Xu,2019
+Efficient Test Generation Guided by Field Coverage Criteria,A. Godio; V. Bengolea; P. Ponzio; N. Aguirre; M. F. Frias,2019
+Fine-Grain Memory Object Representation in Symbolic Execution,M. Nowack,2019
+PeASS: A Tool for Identifying Performance Changes at Code Level,D. G. Reichelt; S. K¨¹hne; W. Hasselbring,2019
+The Impact of Structure on Software Merging: Semistructured Versus Structured Merge,G. Cavalcanti; P. Borba; G. Seibt; S. Apel,2019
+ReduKtor: How We Stopped Worrying About Bugs in Kotlin Compiler,D. Stepanov; M. Akhin; M. Belyaev,2019
+Continuous Incident Triage for Large-Scale Online Service Systems,J. Chen; X. He; Q. Lin; H. Zhang; D. Hao; F. Gao; Z. Xu; Y. Dang; D. Zhang,2019
+Test Transfer Across Mobile Apps Through Semantic Mapping,J. Lin; R. Jabbarvand; S. Malek,2019
+Root Cause Localization for Unreproducible Builds via Causality Analysis Over System Call Tracing,Z. Ren; C. Liu; X. Xiao; H. Jiang; T. Xie,2019
+Targeted Example Generation for Compilation Errors,U. Z. Ahmed; R. Sindhgatta; N. Srivastava; A. Karkare,2019
+Semistructured Merge in JavaScript Systems,A. Trindade Tavares; P. Borba; G. Cavalcanti; S. Soares,2019
+Detecting Error-Handling Bugs without Error Specification Input,Z. Jia; S. Li; T. Yu; X. Liao; J. Wang; X. Liu; Y. Liu,2019
+CoRA: Decomposing and Describing Tangled Code Changes for Reviewer,M. Wang; Z. Lin; Y. Zou; B. Xie,2019
+B2SFinder: Detecting Open-Source Software Reuse in COTS Software,Z. Yuan; M. Feng; F. Li; G. Ban; Y. Xiao; S. Wang; Q. Tang; H. Su; C. Yu; J. Xu; A. Piao; J. Xuey; W. Huo,2019
+Property Inference for Deep Neural Networks,D. Gopinath; H. Converse; C. Pasareanu; A. Taly,2019
+Combining Spectrum-Based Fault Localization and Statistical Debugging: An Empirical Study,J. Jiang; R. Wang; Y. Xiong; X. Chen; L. Zhang,2019
+SGUARD: A Feature-Based Clustering Tool for Effective Spreadsheet Defect Detection,D. Li; H. Wang; C. Xu; R. Zhang; S. Cheung; X. Ma,2019
+RANDR: Record and Replay for Android Applications via Targeted Runtime Instrumentation,O. Sahin; A. Aliyeva; H. Mathavan; A. Coskun; M. Egele,2019
+Performance-Boosting Sparsification of the IFDS Algorithm with Applications to Taint Analysis,D. He; H. Li; L. Wang; H. Meng; H. Zheng; J. Liu; S. Hu; L. Li; J. Xue,2019
+Empirical Study of Programming to an Interface,B. Verhaeghe; C. Fuhrman; L. Guerrouj; N. Anquetil; S. Ducasse,2019
+Mutation Analysis for Coq,A. Celik; K. Palmskog; M. Parovic; E. Jes¨²s Gallego Arias; M. Gligoric,2019
+ACTGAN: Automatic Configuration Tuning for Software Systems with Generative Adversarial Networks,L. Bao; X. Liu; F. Wang; B. Fang,2019
+Statistical Log Differencing,L. Bao; N. Busany; D. Lo; S. Maoz,2019
+VeriSmart 2.0: Swarm-Based Bug-Finding for Multi-threaded Programs with Lazy-CSeq,B. Fischer; S. La Torre; G. Parlato,2019
+Automated Trainability Evaluation for Smart Software Functions,I. Gerostathopoulos; S. Kugele; C. Segler; T. Bures; A. Knoll,2019
+VisFuzz: Understanding and Intervening Fuzzing with Interactive Visualization,C. Zhou; M. Wang; J. Liang; Z. Liu; C. Sun; Y. Jiang,2019
+Systematically Covering Input Structure,N. Havrikov; A. Zeller,2019
+Test Migration Between Mobile Apps with Similar Functionality,F. Behrang; A. Orso,2019
+Coverage-Guided Fuzzing for Feedforward Neural Networks,X. Xie; H. Chen; Y. Li; L. Ma; Y. Liu; J. Zhao,2019
+A Study of Oracle Approximations in Testing Deep Learning Libraries,M. Nejadgholi; J. Yang,2019
+Automating CUDA Synchronization via Program Transformation,M. Wu; L. Zhang; C. Liu; S. H. Tan; Y. Zhang,2019
+History-Guided Configuration Diversification for Compiler Test-Program Generation,J. Chen; G. Wang; D. Hao; Y. Xiong; H. Zhang; L. Zhang,2019
+An Industrial Experience Report on Performance-Aware Refactoring on a Database-Centric Web Application,B. Chen; Z. M. Jiang; P. Matos; M. Lacaria,2019
+Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs,E. Pobee; X. Mei; W. K. Chan,2019
+Debreach: Mitigating Compression Side Channels via Static Analysis and Transformation,B. Paulsen; C. Sung; P. A.H. Peterson; C. Wang,2019
+"Regexes are Hard: Decision-Making, Difficulties, and Risks in Programming Regular Expressions",L. G. Michael; J. Donohue; J. C. Davis; D. Lee; F. Servant,2019
+A Qualitative Analysis of Android Taint-Analysis Results,L. Luo; E. Bodden; J. Sp?th,2019
+RefBot: Intelligent Software Refactoring Bot,V. Alizadeh; M. A. Ouali; M. Kessentini; M. Chater,2019
+Understanding Exception-Related Bugs in Large-Scale Cloud Systems,H. Chen; W. Dou; Y. Jiang; F. Qin,2019
+Accurate String Constraints Solution Counting with Weighted Automata,E. Sherman; A. Harris,2019
+Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning,Y. Zheng; X. Xie; T. Su; L. Ma; J. Hao; Z. Meng; Y. Liu; R. Shen; Y. Chen; C. Fan,2019
+Verifying Arithmetic in Cryptographic C Programs,J. Liu; X. Shi; M. Tsai; B. Wang; B. Yang,2019
+Understanding Automatically-Generated Patches Through Symbolic Invariant Differences,P. Cashin; C. Martinez; W. Weimer; S. Forrest,2019
+Get Rid of Inline Assembly through Verification-Oriented Lifting,F. Recoules; S. Bardin; R. Bonichon; L. Mounier; M. Potet,2019
+Emotions Extracted from Text vs. True Emotions¨CAn Empirical Evaluation in SE Context,Y. Wang,2019
+V2: Fast Detection of Configuration Drift in Python,E. Horton; C. Parnin,2019
+Automated Refactoring to Reactive Programming,M. K?hler; G. Salvaneschi,2019
+Active Hotspot: An Issue-Oriented Model to Monitor Software Evolution and Degradation,Q. Feng; Y. Cai; R. Kazman; D. Cui; T. Liu; H. Fang,2019
+Automating App Review Response Generation,C. Gao; J. Zeng; X. Xia; D. Lo; M. R. Lyu; I. King,2019
+DIRE: A Neural Approach to Decompiled Identifier Naming,J. Lacomis; P. Yin; E. Schwartz; M. Allamanis; C. Le Goues; G. Neubig; B. Vasilescu,2019
+CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation,K. W. Nafi; T. S. Kar; B. Roy; C. K. Roy; K. A. Schneider,2019
+Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences,Y. Chen; C. M. Poskitt; J. Sun; S. Adepu; F. Zhang,2019
+Subformula Caching for Model Counting and Quantitative Program Analysis,W. Eiers; S. Saha; T. Brennan; T. Bultan,2019
+Testing Regex Generalizability And Its Implications: A Large-Scale Many-Language Measurement Study,J. C. Davis; D. Moyer; A. M. Kazerouni; D. Lee,2019
+Size and Accuracy in Model Inference,N. Busany; S. Maoz; Y. Yulazari,2019
+Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression,J. Liu; J. Zhu; S. He; P. He; Z. Zheng; M. R. Lyu,2019
+An Experience Report of Generating Load Tests Using Log-Recovered Workloads at Varying Granularities of User Behaviour,J. Chen; W. Shang; A. E. Hassan; Y. Wang; J. Lin,2019
+Automating Non-Blocking Synchronization In Concurrent Data Abstractions,J. Zhang; Q. Yi; D. Dechev,2019
+Multi-modal Attention Network Learning for Semantic Source Code Retrieval,Y. Wan; J. Shu; Y. Sui; G. Xu; Z. Zhao; J. Wu; P. Yu,2019
+iFeedback: Exploiting User Feedback for Real-Time Issue Detection in Large-Scale Online Service Systems,W. Zheng; H. Lu; Y. Zhou; J. Liang; H. Zheng; Y. Deng,2019
+Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models,H. Zhang; W. K. Chan,2019
+OAUTHLINT: An Empirical Study on OAuth Bugs in Android Applications,T. A. Rahat; Y. Feng; Y. Tian,2019
+Predicting Licenses for Changed Source Code,X. Liu; L. Huang; J. Ge; V. Ng,2019
+Re-Factoring Based Program Repair Applied to Programming Assignments,Y. Hu; U. Z. Ahmed; S. Mechtaev; B. Leong; A. Roychoudhury,2019
+PraPR: Practical Program Repair via Bytecode Mutation,A. Ghanbari; L. Zhang,2019
+Combining Program Analysis and Statistical Language Model for Code Statement Completion,S. Nguyen; T. Nguyen; Y. Li; S. Wang,2019
+MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis,Y. Wu; X. Li; D. Zou; W. Yang; X. Zhang; H. Jin,2019
+Sip4J: Statically Inferring Access Permission Contracts for Parallelising Sequential Java Programs,A. Sadiq; L. Li; Y. Li; I. Ahmed; S. Ling,2019
+XRaSE: Towards Virtually Tangible Software using Augmented Reality,R. Mehra; V. S. Sharma; V. Kaulgud; S. Podder,2019
+Code-First Model-Driven Engineering: On the Agile Adoption of MDE Tooling,A. Boronat,2019
+MARBLE: Mining for Boilerplate Code to Identify API Usability Problems,D. Nam; A. Horvath; A. Macvean; B. Myers; B. Vasilescu,2019
+Feature-Interaction Aware Configuration Prioritization for Configurable Code,S. Nguyen; H. Nguyen; N. Tran; H. Tran; T. Nguyen,2019
+A Quantitative Analysis Framework for Recurrent Neural Network,X. Du; X. Xie; Y. Li; L. Ma; Y. Liu; J. Zhao,2019
+Batch Alias Analysis,J. Vedurada; V. K. Nandivada,2019
+Inferring Program Transformations From Singular Examples via Big Code,J. Jiang; L. Ren; Y. Xiong; L. Zhang,2019
+SpyREST: Automated RESTful API Documentation Using an HTTP Proxy Server (N),S. M. Sohan; C. Anslow; F. Maurer,2015
+Testing intermediate representations for binary analysis,S. Kim; M. Faerevaag; M. Jung; S. Jung; D. Oh; J. Lee; S. K. Cha,2017
+Have We Seen Enough Traces? (T),H. Cohen; S. Maoz,2015
+Mining implicit design templates for actionable code reuse,Y. Lin; G. Meng; Y. Xue; Z. Xing; J. Sun; X. Peng; Y. Liu; W. Zhao; J. Dong,2017
+The potential of polyhedral optimization: An empirical study,A. Simb¨¹rger; S. Apel; A. Gr??linger; C. Lengauer,2013
+Automated verification of interactive rule-based configuration systems,D. Dhungana; C. H. Tang; C. Weidenbach; P. Wischnewski,2013
+Static Analysis of Implicit Control Flow: Resolving Java Reflection and Android Intents (T),P. Barros; R. Just; S. Millstein; P. Vines; W. Dietl; M. dAmorim; M. D. Ernst,2015
+Learning effective changes for software projects,R. Krishna,2017
+Towards the automatic classification of traceability links,C. Mills,2017
+Automated verification of pattern-based interaction invariants in Ajax applications,Y. Maezawa; H. Washizaki; Y. Tanabe; S. Honiden,2013
+JFlow: Practical refactorings for flow-based parallelism,N. Chen; R. E. Johnson,2013
+Understanding and overcoming parallelism bottlenecks in ForkJoin applications,G. Pinto; A. Canino; F. Castor; G. Xu; Y. D. Liu,2017
+Symlnfer: Inferring program invariants using symbolic states,T. Nguyen; M. B. Dwyer; W. Visser,2017
+EHBDroid: Beyond GUI testing for Android applications,W. Song; X. Qian; J. Huang,2017
+iProbe: A lightweight user-level dynamic instrumentation tool,N. Arora; Hui Zhang; Junghwan Rhee; K. Yoshihira; Guofei Jiang,2013
+Context-aware task allocation for distributed agile team,J. Lin,2013
+A Message-Passing Architecture without Public Ids Using Send-to-Behavior,E. S. Wang; Z. Dang,2015
+An Automated Framework for Recommending Program Elements to Novices (N),K. Zimmerman; C. R. Rupakheti,2015
+Search-Based Synthesis of Probabilistic Models for Quality-of-Service Software Engineering (T),S. Gerasimou; G. Tamburrelli; R. Calinescu,2015
+Automatically assessing code understandability: How far are we?,S. Scalabrino; G. Bavota; C. Vendome; M. Linares-V¨¢squez; D. Poshyvanyk; R. Oliveto,2017
+Detecting system use cases and validations from documents,S. Ghaisas; M. Motwani; P. R. Anish,2013
+Semantic Slicing of Software Version Histories (T),Y. Li; J. Rubin; M. Chechik,2015
+Developing a DSL-Based Approach for Event-Based Monitoring of Systems of Systems: Experiences and Lessons Learned (E),M. Vierhauser; R. Rabiser; P. Gr¨¹nbacher; A. Egyed,2015
+A study of repetitiveness of code changes in software evolution,H. A. Nguyen; A. T. Nguyen; T. T. Nguyen; T. N. Nguyen; H. Rajan,2013
+Automatically synthesizing SQL queries from input-output examples,S. Zhang; Y. Sun,2013
+Automatic loop-invariant generation anc refinement through selective sampling,J. Li; J. Sun; L. Li; Q. L. Le; S. Lin,2017
+Mining constraints for event-based monitoring in systems of systems,T. Krismayer; R. Rabiser; P. GrUnbacher,2017
+Saying ¡®Hi!¡¯ is not enough: Mining inputs for effective test generation,L. D. Toffola; C. Staicu; M. Pradel,2017
+Synthesizing fault-tolerant programs from deontic logic specifications,R. Demasi,2013
+Can automated pull requests encourage software developers to upgrade out-of-date dependencies?,S. Mirhosseini; C. Parnin,2017
+Repairing Programs with Semantic Code Search (T),Y. Ke; K. T. Stolee; C. L. Goues; Y. Brun,2015
+Cost-Efficient Sampling for Performance Prediction of Configurable Systems (T),A. Sarkar; J. Guo; N. Siegmund; S. Apel; K. Czarnecki,2015
+Understanding feature requests by leveraging fuzzy method and linguistic analysis,L. Shi; C. Chen; Q. Wang; S. Li; B. Boehm,2017
+Software performance self-adaptation through efficient model predictive control,E. Incerto; M. Tribastone; C. Trubiani,2017
+From comparison matrix to Variability Model: The Wikipedia case study,N. Sannier; M. Acher; B. Baudry,2013
+SBFR: A search based approach for reproducing failures of programs with grammar based input,F. M. Kifetew; W. Jin; R. Tiella; A. Orso; P. Tonella,2013
+Quantification of Software Changes through Probabilistic Symbolic Execution (N),A. Filieri; C. S. Pasareanu; G. Yang,2015
+How Verified is My Code? Falsification-Driven Verification (T),A. Groce; I. Ahmed; C. Jensen; P. E. McKenney,2015
+Characteristic studies of loop problems for structural test generation via symbolic execution,X. Xiao; S. Li; T. Xie; N. Tillmann,2013
+Test suite parallelization in open-source projects: A study on its usage and impact,J. Candido; L. Melo; M. d'Amorim,2017
+The impact of continuous integration on other software development practices: A large-scale empirical study,Y. Zhao; A. Serebrenik; Y. Zhou; V. Filkov; B. Vasilescu,2017
+SentiCR: A customized sentiment analysis tool for code review interactions,T. Ahmed; A. Bosu; A. Iqbal; S. Rahimi,2017
+Performance Prediction of Configurable Software Systems by Fourier Learning (T),Y. Zhang; J. Guo; E. Blais; K. Czarnecki,2015
+Gremlin-ATL: A scalable model transformation framework,G. Daniel; F. Jouault; G. Suny¨¦; J. Cabot,2017
+A comprehensive study of real-world numerical bug characteristics,A. Di Franco; H. Guo; C. Rubio-Gonz¨¢lez,2017
+Environment rematching: Toward dependability improvement for self-adaptive applications,C. Xu; Wenhua Yang; X. Ma; C. Cao; J. L¨¹,2013
+Randomizing regression tests using game theory,N. Kukreja; W. G. J. Halfond; M. Tambe,2013
+"""What Parts of Your Apps are Loved by Users?"" (T)",X. Gu; S. Kim,2015
+Detecting bad smells in source code using change history information,F. Palomba; G. Bavota; M. Di Penta; R. Oliveto; A. De Lucia; D. Poshyvanyk,2013
+A scalable approach for malware detection through bounded feature space behavior modeling,M. Chandramohan; H. B. K. Tan; L. C. Briand; L. K. Shar; B. M. Padmanabhuni,2013
+Automatically reducing tree-structured test inputs,S. Herfert; J. Patra; M. Pradel,2017
+Improving software text retrieval using conceptual knowledge in source code,Z. Lin; Y. Zou; J. Zhao; B. Xie,2017
+Configuration-Aware Change Impact Analysis (T),F. Angerer; A. Grimmer; H. Pr?hofer; P. Gr¨¹nbacher,2015
+Automated Test Input Generation for Android: Are We There Yet? (E),S. R. Choudhary; A. Gorla; A. Orso,2015
+Visualization support for requirements monitoring in systems of systems,L. M. Kritzinger; T. Krismayer; M. Vierhauser; R. Rabiser; P. Gr¨¹nbacher,2017
+Generating simpler AST edit scripts by considering copy-and-paste,Y. Higo; A. Ohtani; S. Kusumoto,2017
+Adding context to fault localization with integration coverage,H. A. de Souza; M. L. Chaim,2013
+The ReMinds Tool Suite for Runtime Monitoring of Systems of Systems,M. Vierhauser; R. Rabiser; P. Gr¨¹nbacher; J. Thanhofer-Pilisch,2015
+FLYAQ: Enabling Non-expert Users to Specify and Generate Missions of Autonomous Multicopters,D. Bozhinoski; D. D. Ruscio; I. Malavolta; P. Pelliccione; M. Tivoli,2015
+Automatic recommendation of API methods from feature requests,F. Thung; S. Wang; D. Lo; J. Lawall,2013
+Finding architectural flaws using constraints,R. Vanciu; M. Abi-Antoun,2013
+SEALANT: A detection and visualization tool for inter-app security vulnerabilities in androic,Y. K. Lee; P. Yoodee; A. Shahbazian; D. Nam; N. Medvidovic,2017
+Improving missing issue-commit link recovery using positive and unlabeled data,Y. Sun; C. Chen; Q. Wang; B. Boehm,2017
+More effective interpolations in software model checking,C. Tian; Z. Duan; Z. Duan; C. -. L. Ong,2017
+Scaling Size and Parameter Spaces in Variability-Aware Software Performance Models (T),M. Kowal; M. Tschaikowski; M. Tribastone; I. Schaefer,2015
+CLAMI: Defect Prediction on Unlabeled Datasets (T),J. Nam; S. Kim,2015
+TREM: A tool for mining timed regular specifications from system traces,L. Schmidt; A. Narayan; S. Fischmeister,2017
+Semantics-assisted code review: An efficient tool chain and a user study,M. Menarini; Y. Yan; W. G. Griswold,2017
+Floating-point symbolic execution: A case study in N-version programming,D. Liew; D. Schemmel; C. Cadar; A. F. Donaldson; R. Zahl; K. Wehrle,2017
+Class level fault prediction using software clustering,G. Scanniello; C. Gravino; A. Marcus; T. Menzies,2013
+Semi-automatic generation of metamodels from model sketches,D. W¨¹est; N. Seyff; M. Glinz,2013
+SpyREST in Action: An Automated RESTful API Documentation Tool,S. M. Sohan; C. Anslow; F. Maurer,2015
+Leveraging program equivalence for adaptive program repair: Models and first results,W. Weimer; Z. P. Fry; S. Forrest,2013
+Extracting Visual Contracts from Java Programs (T),A. Alshanqiti; R. Heckel,2015
+Automatic summarization of API reviews,G. Uddin; F. Khomh,2017
+Model checker execution reports,R. Casta?o; V. Braberman; D. Garbervetsky; S. Uchitel,2017
+Combining Deep Learning with Information Retrieval to Localize Buggy Files for Bug Reports (N),A. N. Lam; A. T. Nguyen; H. A. Nguyen; T. N. Nguyen,2015
+Incrementally slicing editable submodels,C. Pietsch; M. Ohrndorf; U. Kelter; T. Kehrer,2017
+Round-up: Runtime checking quasi linearizability of concurrent data structures,Lu Zhang; A. Chattopadhyay; C. Wang,2013
+Why and how JavaScript developers use linters,K. F. T¨®masd¨®ttir; M. Aniche; A. van Deursen,2017
+Leveraging abstract interpretation for efficient dynamic symbolic execution,E. Alatawi; H. S?ndergaard; T. Miller,2017
+Flow Permissions for Android,S. Holavanalli; D. Manuel; V. Nanjundaswamy; B. Rosenberg; F. Shen; S. Y. Ko; L. Ziarek,2013
+Natural language requirements quality analysis based on business domain models,K. M. Annervaz; V. Kaulgud; S. Sengupta; M. Savagaonkar,2013
+Pseudogen: A Tool to Automatically Generate Pseudo-Code from Source Code,H. Fudaba; Y. Oda; K. Akabe; G. Neubig; H. Hata; S. Sakti; T. Toda; S. Nakamura,2015
+Lightweight control-flow instrumentation and postmortem analysis in support of debugging,P. Ohmann; B. Liblit,2013
+Evolutionary Robustness Testing of Data Processing Systems Using Models and Data Mutation (T),D. D. Nardo; F. Pastore; A. Arcuri; L. Briand,2015
+BProVe: A formal verification framework for business process models,F. Corradini; F. Fornari; A. Polini; B. Re; F. Tiezzi; A. Vandin,2017
+Learning to Rank for Question-Oriented Software Text Retrieval (T),Y. Zou; T. Ye; Y. Lu; J. Mylopoulos; L. Zhang,2015
+TCA: An Efficient Two-Mode Meta-Heuristic Algorithm for Combinatorial Test Generation (T),J. Lin; C. Luo; S. Cai; K. Su; D. Hao; L. Zhang,2015
+Model Checking Task Parallel Programs Using Gradual Permissions (N),E. G. Mercer; P. Anderson; N. Vrvilo; V. Sarkar,2015
+A static analysis tool with optimizations for reachability determination,Y. Wang; M. Zhou; Y. Jiang; X. Song; M. Gu; J. Sun,2017
+STARTS: STAtic regression test selection,O. Legunsen; A. Shi; D. Marinov,2017
+Proving MCAPI executions are correct using SMT,Y. Huang; E. Mercer; J. McCarthy,2013
+Contract-based program repair without the contracts,L. Chen; Y. Pei; C. A. Furia,2017
+Recovering model transformation traces using multi-objective optimization,H. Saada; M. Huchard; C. Nebut; H. Sahraoui,2013
+Refactorings for Android Asynchronous Programming,Y. Lin; D. Dig,2015
+Model-Based Testing of Stateful APIs with Modbat,C. Artho; M. Seidl; Q. Gros; E. Choi; T. Kitamura; A. Mori; R. Ramler; Y. Yamagata,2015
+Dangling references in multi-configuration and dynamic PHP-based Web applications,H. V. Nguyen; H. A. Nguyen; T. T. Nguyen; A. T. Nguyen; T. N. Nguyen,2013
+Test Analysis: Searching for Faults in Tests (N),M. Waterloo; S. Person; S. Elbaum,2015
+PAD: Programming third-party web advertisement censorship,W. Wang; Y. Kwon; Y. Zheng; Y. Aafer; I. Kim; W. Lee; Y. Liu; W. Meng; X. Zhang; P. Eugster,2017
+Learning to share: Engineering adaptive decision-support for online social networks,Y. Rafiq; L. Dickens; A. Russo; A. K. Bandara; M. Yang; A. Stuart; M. Levine; G. Calikli; B. A. Price; B. Nuseibeh,2017
+CodeExchange: Supporting Reformulation of Internet-Scale Code Queries in Context (T),L. Martie; T. D. LaToza; A. v. d. Hoek,2015
+TzuYu: Learning stateful typestates,H. Xiao; J. Sun; Y. Liu; S. Lin; C. Sun,2013
+Region and Effect Inference for Safe Parallelism (T),A. Tzannes; S. T. Heumann; L. Eloussi; M. Vakilian; V. S. Adve; M. Han,2015
+Static Analysis of JavaScript Web Applications in the Wild via Practical DOM Modeling (T),C. Park; S. Won; J. Jin; S. Ryu,2015
+BProVe: Tool support for business process verification,F. Corradini; F. Fornari; A. Polini; B. Re; F. Tiezzi; A. Vandin,2017
+ANDROFLEET: Testing WiFi peer-to-peer mobile apps in the large,L. Meftah; M. Gomez; R. Rouvoy; I. Chrisment,2017
+PIEtrace: Platform independent executable trace,Y. Kwon; X. Zhang; D. Xu,2013
+Leveraging syntax-related code for automated program repair,Q. Xin; S. P. Reiss,2017
+Predicting relevance of change recommendations,T. Rolfsnes; L. Moonen; D. Binkley,2017
+Smart Cloud Broker: Finding your home in the clouds,M. Baruwal Chhetri; S. Chichin; Q. Bao Vo; R. Kowalczyk,2013
+Automated testing of cloud-based elastic systems with AUToCLES,A. Gambi; W. Hummer; S. Dustdar,2013
+Investigating Program Behavior Using the Texada LTL Specifications Miner,C. Lemieux; I. Beschastnikh,2015
+Fast and Precise Symbolic Analysis of Concurrency Bugs in Device Drivers (T),P. Deligiannis; A. F. Donaldson; Z. Rakamaric,2015
+GRT: Program-Analysis-Guided Random Testing (T),L. Ma; C. Artho; C. Zhang; H. Sato; J. Gmeiner; R. Ramler,2015
+Detecting information flow by mutating input data,B. Mathis; V. Avdiienko; E. O. Soremekun; M. B?hme; A. Zeller,2017
+SimplyDroid: Efficient event sequence simplification for android application,B. Jiang; Y. Wu; T. Li; W. K. Chan,2017
+Efficient Data Model Verification with Many-Sorted Logic (T),I. Bocic; T. Bultan,2015
+Measuring the structural complexity of feature models,R. Pohl; V. Stricker; K. Pohl,2013
+Learning to Generate Pseudo-Code from Source Code Using Statistical Machine Translation (T),Y. Oda; H. Fudaba; G. Neubig; H. Hata; S. Sakti; T. Toda; S. Nakamura,2015
+TiQi: A natural language interface for querying software project data,J. Lin; Y. Liu; J. Guo; J. Cleland-Huang; W. Goss; W. Liu; S. Lohar; N. Monaikul; A. Rasin,2017
+Efficient parametric runtime verification with deterministic string rewriting,P. Meredith; G. Ro?u,2013
+Testing properties of dataflow program operators,Z. Xu; M. Hirzel; G. Rothermel; K. Wu,2013
+A language model for statements of software code,Y. Yang; Y. Jiang; M. Gu; J. Sun; J. Gao; H. Liu,2017
+Recommending crowdsourced software developers in consideration of skill improvement,Z. Wang; H. Sun; Y. Fu; L. Ye,2017
+CCmutator: A mutation generator for concurrency constructs in multithreaded C/C++ applications,M. Kusano; Chao Wang,2013
+Generating Fixtures for JavaScript Unit Testing (T),A. M. Fard; A. Mesbah; E. Wohlstadter,2015
+Tracking the Software Quality of Android Applications Along Their Evolution (T),G. Hecht; O. Benomar; R. Rouvoy; N. Moha; L. Duchien,2015
+In-memory fuzzing for binary code similarity analysis,S. Wang; D. Wu,2017
+Interpolation Guided Compositional Verification (T),S. Lin; J. Sun; T. K. Nguyen; Y. Liu; J. S. Dong,2015
+Software analytics for incident management of online services: An experience report,J. Lou; Q. Lin; R. Ding; Q. Fu; D. Zhang; T. Xie,2013
+Experiences from Designing and Validating a Software Modernization Transformation (E),A. F. Iosif-Lazar; A. S. Al-Sibahi; A. S. Dimovski; J. E. Savolainen; K. Sierszecki; A. Wasowski,2015
+Detecting Broken Pointcuts Using Structural Commonality and Degree of Interest (N),R. Khatchadourian; A. Rashid; H. Masuhara; T. Watanabe,2015
+Defaultification refactoring: A tool for automatically converting Java methods to default,R. Khatchadourian; H. Masuhara,2017
+Identifying execution points for dynamic analyses,W. N. Sumner; X. Zhang,2013
+SABRINE: State-based robustness testing of operating systems,D. Cotroneo; D. Di Leo; F. Fucci; R. Natella,2013
+UNDEAD: Detecting and preventing deadlocks in production software,J. Zhou; S. Silvestro; H. Liu; Y. Cai; T. Liu,2017
+Pex4Fun: A web-based environment for educational gaming via automated test generation,N. Tillmann; J. de Halleux; T. Xie; J. Bishop,2013
+CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model (E),F. Lv; H. Zhang; J. Lou; S. Wang; D. Zhang; J. Zhao,2015
+Towards robust instruction-level trace alignment of binary code,U. Karg¨¦n; N. Shahmehri,2017
+General LTL Specification Mining (T),C. Lemieux; D. Park; I. Beschastnikh,2015
+RuntimeSearch: Ctrl+F for a running program,M. Sul¨ªr; J. Porub?n,2017
+Towards contextual and on-demand code clone management by continuous monitoring,G. Zhang; X. Peng; Z. Xing; Shihai Jiang; Hai Wang; W. Zhao,2013
+Model based test validation and oracles for data acquisition systems,D. Di Nardo; N. Alshahwan; L. C. Briand; E. Fourneret; T. Naki?-Alfirevi?; V. Masquelier,2013
+Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T),J. Lerch; J. Sp?th; E. Bodden; M. Mezini,2015
+Static Window Transition Graphs for Android (T),S. Yang; H. Zhang; H. Wu; Y. Wang; D. Yan; A. Rountev,2015
+IntPTI: Automatic integer error repair with proper-type inference,X. Cheng; M. Zhou; X. Song; M. Gu; J. Sun,2017
+Managing software evolution through semantic history slicing,Y. Li,2017
+Ranger: Parallel analysis of alloy models by range partitioning,N. Rosner; J. H. Siddiqui; N. Aguirre; S. Khurshid; M. F. Frias,2013
+Parallel bug-finding in concurrent programs via reduced interleaving instances,T. L. Nguyen; P. Schrammel; B. Fischer; S. L. Torre; G. Parlato,2017
+FiB: Squeezing loop invariants by interpolation between forward/backward predicate transformers,S. Lin; J. Sun; H. Xiao; Y. Liu; D. San¨¢n; H. Hansen,2017
+Crowd intelligence enhances automated mobile testing,K. Mao; M. Harman; Y. Jia,2017
+Supporting bug investigation using history analysis,F. Servant,2013
+Tracking and Analyzing Cross-Cutting Activities in Developers' Daily Work (N),L. Bao; Z. Xing; X. Wang; B. Zhou,2015
+Fixing Recurring Crash Bugs via Analyzing Q&A Sites (T),Q. Gao; H. Zhang; J. Wang; Y. Xiong; L. Zhang; H. Mei,2015
+Comprehensive failure characterization,M. J. Gerrard; M. B. Dwyer,2017
+Exploring regular expression comprehension,C. Chapman; P. Wang; K. T. Stolee,2017
+Automated unit testing of large industrial embedded software using concolic testing,Y. Kim; Y. Kim; Taeksu Kim; Gunwoo Lee; Y. Jang; M. Kim,2013
+AutoComment: Mining question and answer sites for automatic comment generation,E. Wong; Jinqiu Yang; Lin Tan,2013
+String Analysis of Android Applications (N),J. D. Vecchio; F. Shen; K. M. Yee; B. Wang; S. Y. Ko; L. Ziarek,2015
+Towards a software vulnerability prediction model using traceable code patterns and software metrics,K. Z. Sultana,2017
+"Software model checking for distributed systems with selector-based, non-blocking communication",C. Artho; M. Hagiya; R. Potter; Y. Tanabe; F. Weitl; M. Yamamoto,2013
+Automated planning for software architecture evolution,J. M. Barnes; A. Pandey; D. Garlan,2013
+Quick verification of concurrent programs by iteratively relaxed scheduling,P. Metzler; H. Saissi; P. Bokor; N. Suri,2017
+Parsimony: An IDE for example-guided synthesis of lexers and parsers,A. Leung; S. Lerner,2017
+Sketch-guided GUI test generation for mobile applications,C. Zhang; H. Cheng; E. Tang; X. Chen; L. Bu; X. Li,2017
+Detecting and fixing emergent behaviors in Distributed Software Systems using a message content independent method,F. Hendijani Fard,2013
+Perceived language complexity in GitHub issue discussions and their effect on issue resolution,D. Kavaler; S. Sirovica; V. Hellendoorn; R. Aranovich; V. Filkov,2017
+"Preventing erosion of architectural tactics through their strategic implementation, preservation, and visualization",M. Mirakhorli,2013
+Automated Tagging of Software Projects Using Bytecode and Dependencies (N),S. Vargas-Baldrich; M. Linares-V¨¢squez; D. Poshyvanyk,2015
+Synthesizing Web Element Locators (T),K. Bajaj; K. Pattabiraman; A. Mesbah,2015
+Improved query reformulation for concept location using CodeRank and document structures,M. M. Rahman; C. K. Roy,2017
+Multi-user variability configuration: A game theoretic approach,J. Garc¨ªa-Gal¨¢n; P. Trinidad; A. Ruiz-Cort¨¦s,2013
+Development History Granularity Transformations (N),K. Muslu; L. Swart; Y. Brun; M. D. Ernst,2015
+Generating Qualifiable Avionics Software: An Experience Report (E),A. W?lfl; N. Siegmund; S. Apel; H. Kosch; J. Krautlager; G. Weber-Urbina,2015
+Consistency-preserving edit scripts in model versioning,T. Kehrer; U. Kelter; G. Taentzer,2013
+SEDGE: Symbolic example data generation for dataflow programs,K. Li; C. Reichenbach; Y. Smaragdakis; Y. Diao; C. Csallner,2013
+Programming bots by synthesizing natural language expressions into API invocations,S. Zamanirad; B. Benatallah; M. C. Barukh; F. Casati; C. Rodriguez,2017
+Learn&Fuzz: Machine learning for input fuzzing,P. Godefroid; H. Peleg; R. Singh,2017
+Are developers aware of the architectural impact of their changes?,M. Paixao; J. Krinke; D. Han; C. Ragkhitwetsagul; M. Harman,2017
+Predicting Delays in Software Projects Using Networked Classification (T),M. Choetkiertikul; H. K. Dam; T. Tran; A. Ghose,2015
+O2O service composition with social collaboration,W. Qian; X. Peng; J. Sun; Y. Yu; B. Nuseibeh; W. Zhao,2017
+Transfer learning for performance modeling of configurable systems: An exploratory analysis,P. Jamshidi; N. Siegmund; M. Velez; C. K?stner; A. Patel; Y. Agarwal,2017
+Learning effective query transformations for enhanced requirements trace retrieval,T. Dietrich; J. Cleland-Huang; Y. Shin,2013
+PYTHIA: Generating test cases with oracles for JavaScript applications,S. Mirshokraie; A. Mesbah; K. Pattabiraman,2013
+Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages (N),T. A. Walsh; P. McMinn; G. M. Kapfhammer,2015
+Mining User Opinions in Mobile App Reviews: A Keyword-Based Approach (T),P. M. Vu; T. T. Nguyen; H. V. Pham; T. T. Nguyen,2015
+Entropy-based test generation for improved fault localization,J. Campos; R. Abreu; G. Fraser; M. d'Amorim,2013
+Systematic reduction of GUI test sequences,L. Cheng; Z. Yang; C. Wang,2017
+Detecting fragile comments,I. K. Ratol; M. P. Robillard,2017
+Model-Driven Allocation Engineering (T),U. Pohlmann; M. H¨¹we,2015
+Executing Model-Based Tests on Platform-Specific Implementations (T),D. You; S. Rayadurgam; M. P. E. Heimdahl; J. Komp; B. Kim; O. Sokolsky,2015
+Diagnosing assumption problems in safety-critical products,M. Rahimi; W. Xiong; J. Cleland-Huang; R. Lutz,2017
+A comprehensive study on real world concurrency bugs in Node.js,J. Wang; W. Dou; Y. Gao; C. Gao; F. Qin; K. Yin; J. Wei,2017
+Cloud Twin: Native execution of android applications on the Windows Phone,E. Holder; E. Shah; M. Davoodi; E. Tilevich,2013
+Automated inference of classifications and dependencies for combinatorial testing,Cu Duy Nguyen; P. Tonella,2013
+Ensemble Methods for App Review Classification: An Approach for Software Evolution (N),E. Guzman; M. El-Haliby; B. Bruegge,2015
+Personalized defect prediction,T. Jiang; L. Tan; S. Kim,2013
+Automatically partition software into least privilege components using dynamic data dependency analysis,Y. Wu; J. Sun; Y. Liu; J. S. Dong,2013
+Synthetic data generation for statistical testing,G. Soltana; M. Sabetzadeh; L. C. Briand,2017
+Automatically generating commit messages from diffs using neural machine translation,S. Jiang; A. Armaly; C. McMillan,2017
+ICoq: Regression proof selection for large-scale verification projects,A. Celik; K. Palmskog; M. Gligoric,2017
+Automating the Extraction of Model-Based Software Product Lines from Model Variants (T),J. Martinez; T. Ziadi; T. F. Bissyand¨¦; J. Klein; Y. l. Traon,2015
+Testing Cross-Platform Mobile App Development Frameworks (T),N. Boushehrinejadmoradi; V. Ganapathy; S. Nagarakatte; L. Iftode,2015
+A demonstration of simultaneous execution and editing in a development environment,S. P. Reiss; Q. Xin,2017
+Renaming and shifted code in structured merging: Looking ahead for precision and performance,O. Le?enich; S. Apel; C. K?stner; G. Seibt; J. Siegmund,2017
+Using automatically generated invariants for regression testing and bug localization,P. Sagdeo; N. Ewalt; D. Pal; S. Vasudevan,2013
+DRIVER -- A Platform for Collaborative Framework Understanding,N. Flores; A. Aguiar,2015
+Lazy-CSeq: A Context-Bounded Model Checking Tool for Multi-threaded C-Programs,O. Inverso; T. L. Nguyen; B. Fischer; S. L. Torre; G. Parlato,2015
+Variability-aware performance prediction: A statistical learning approach,J. Guo; K. Czarnecki; S. Apel; N. Siegmund; A. W?sowski,2013
+Improving bug localization using structured information retrieval,R. K. Saha; M. Lease; S. Khurshid; D. E. Perry,2013
+APIBot: Question answering bot for API documentation,Y. Tian; F. Thung; A. Sharma; D. Lo,2017
+Proof-based coverage metrics for formal verification,E. Ghassabani; A. Gacek; M. W. Whalen; M. P. E. Heimdahl; L. Wagner,2017
+Mutation-Based Fault Localization for Real-World Multilingual Programs (T),S. Hong; B. Lee; T. Kwak; Y. Jeon; B. Ko; Y. Kim; M. Kim,2015
+ModelWriter: Text and model-synchronized document engineering platform,F. Erata; C. Gardent; B. Gyawali; A. Shimorina; Y. Lussaud; B. Tekinerdogan; G. Kardas; A. Monceaux,2017
+Detecting unknown inconsistencies in web applications,F. S. Ocariza; K. Pattabiraman; A. Mesbah,2017
+Rethinking pointer reasoning in symbolic execution,E. Coppa; D. C. D'Elia; C. Demetrescu,2017
+ExPort: Detecting and visualizing API usages in large source code repositories,E. Moritz; M. Linares-V¨¢squez; D. Poshyvanyk; M. Grechanik; C. McMillan; M. Gethers,2013
+Assessing the maturity of requirements through argumentation: A good enough approach,V. Veerappa; R. Harrison,2013
+Recommending API Usages for Mobile Apps with Hidden Markov Model,T. T. Nguyen; H. V. Pham; P. M. Vu; T. T. Nguyen,2015
+Detecting and characterizing semantic inconsistencies in ported code,B. Ray; M. Kim; S. Person; N. Rungta,2013
+Synergizing Specification Miners through Model Fissions and Fusions (T),T. B. Le; X. D. Le; D. Lo; I. Beschastnikh,2015
+Modular verification of interrupt-driven software,C. Sung; M. Kusano; C. Wang,2017
+Fuzzing the Rust Typechecker Using CLP (T),K. Dewey; J. Roesch; B. Hardekopf,2015
+Optimistic Shared Memory Dependence Tracing (T),Y. Jiang; D. Li; C. Xu; X. Ma; J. Lu,2015
+DSSynth: An automated digital controller synthesis tool for physical plants,A. Abate; I. Bessa; D. Cattaruzza; L. Chaves; L. Cordeiro; C. David; P. Kesseli; D. Kroening; E. Polgreen,2017
+Constraint-based automatic symmetry detection,S. J. Zhang; J. Sun; C. Sun; Y. Liu; J. Ma; J. S. Dong,2013
+Automatic testing of symbolic execution engines via program generation and differential testing,T. Kapus; C. Cadar,2017
+Tortoise: Interactive system configuration repair,A. Weiss; A. Guha; Y. Brun,2017
+A pattern-based approach to parametric specification mining,G. Reger; H. Barringer; D. Rydeheard,2013
+Model/code co-refactoring: An MDE approach,J. von Pilgrim; B. Ulke; A. Thies; F. Steimann,2013
+CIVL: Formal Verification of Parallel Programs,M. Zheng; M. S. Rogers; Z. Luo; M. B. Dwyer; S. F. Siegel,2015
+Characterizing and detecting resource leaks in Android applications,C. Guo; J. Zhang; J. Yan; Z. Zhang; Y. Zhang,2013
+Dynamically Testing GUIs Using Ant Colony Optimization (T),S. Carino; J. H. Andrews,2015
+Static detection of asymptotic resource side-channel vulnerabilities in web applications,J. Chen; O. Olivo; I. Dillig; C. Lin,2017
+Automatically assessing crashes from heap overflows,L. He; Y. Cai; H. Hu; P. Su; Z. Liang; Y. Yang; H. Huang; J. Yan; X. Jia; D. Feng,2017
+Development Emails Content Analyzer: Intention Mining in Developer Discussions (T),A. D. Sorbo; S. Panichella; C. A. Visaggio; M. D. Penta; G. Canfora; H. C. Gall,2015
+Towards precise metrics for predicting graph query performance,B. Izs¨®; Z. Szatm¨¢ri; G. Bergmann; ¨¢. Horv¨¢th; I. R¨¢th,2013
+Automatically Generating Test Templates from Test Names (N),B. Zhang; E. Hill; J. Clause,2015
+Practically Tunable Static Analysis Framework for Large-Scale JavaScript Applications (T),Y. Ko; H. Lee; J. Dolby; S. Ryu,2015
+CogniCrypt: Supporting developers in using cryptography,S. Kr¨¹ger; S. Nadi; M. Reif; K. Ali; M. Mezini; E. Bodden; F. G?pfert; F. G¨¹nther; C. Weinert; D. Demmler; R. Kamath,2017
+EventFlowSlicer: A tool for generating realistic goal-driven GUI tests,J. A. Saddler; M. B. Cohen,2017
+Efficient data race prediction with incremental reasoning on time-stamped lock history,M. K. Ganai,2013
+Elixir: Effective object-oriented program repair,R. K. Saha; Y. Lyu; H. Yoshida; M. R. Prasad,2017
+Model repair and transformation with Echo,N. Macedo; T. Guimar?es; A. Cunha,2013
+GRT: An Automated Test Generator Using Orchestrated Program Analysis,L. Ma; C. Artho; C. Zhang; H. Sato; J. Gmeiner; R. Ramler,2015
+ActivitySpace: A Remembrance Framework to Support Interapplication Information Needs,L. Bao; D. Ye; Z. Xing; X. Xia; X. Wang,2015
+Dynamically transforming data structures,E. ?sterlund; W. L?we,2013
+Array Shadow State Compression for Precise Dynamic Race Detection (T),J. R. Wilcox; P. Finch; C. Flanagan; S. N. Freund,2015
+"All about activity injection: Threats, semantics, and detection",S. Lee; S. Hwang; S. Ryu,2017
+UI driven Android application reduction,J. Huang; Y. Aafer; D. Perry; X. Zhang; C. Tian,2017
+How do Developers Document Database Usages in Source Code? (N),M. Linares-V¨¢squez; B. Li; C. Vendome; D. Poshyvanyk,2015
+Mining branching-time scenarios,D. Fahland; D. Lo; S. Maoz,2013
+Variable Feature Usage Patterns in PHP (T),M. Hills,2015
+Taco: A tool to generate tensor algebra kernels,F. Kjolstad; S. Chou; D. Lugato; S. Kamil; S. Amarasinghe,2017
+FEMIR: A tool for recommending framework extension examples,M. Asaduzzaman; C. K. Roy; K. A. Schneider; D. Hou,2017
+Improving efficiency of dynamic analysis with dynamic dependence summaries,V. K. Palepu; G. Xu; J. A. Jones,2013
+Operator-based and random mutant selection: Better together,L. Zhang; M. Gligoric; D. Marinov; S. Khurshid,2013
+Boosting complete-code tool for partial program,H. Zhong; X. Wang,2017
+AnswerBot: Automated generation of answer summary to developers' technical questions,B. Xu; Z. Xing; X. Xia; D. Lo,2017
+OCRA: A tool for checking the refinement of temporal contracts,A. Cimatti; M. Dorigatti; S. Tonetta,2013
+SiPL -- A Delta-Based Modeling Framework for Software Product Line Engineering,C. Pietsch; T. Kehrer; U. Kelter; D. Reuling; M. Ohrndorf,2015
+The iMPAcT Tool: Testing UI Patterns on Mobile Applications,I. C. Morgado; A. C. R. Paiva,2015
+JaConTeBe: A Benchmark Suite of Real-World Java Concurrency Bugs (T),Z. Lin; D. Marinov; H. Zhong; Y. Chen; J. Zhao,2015
+Study and Refactoring of Android Asynchronous Programming (T),Y. Lin; S. Okur; D. Dig,2015
+Automated cross-platform inconsistency detection for mobile apps,M. Fazzini; A. Orso,2017
+Synthesising Interprocedural Bit-Precise Termination Proofs (T),H. Chen; C. David; D. Kroening; P. Schrammel; B. Wachter,2015
+Scalable product line configuration: A straw to break the camel's back,A. S. Sayyad; J. Ingram; T. Menzies; H. Ammar,2013
+Divide-and-Conquer Approach for Multi-phase Statistical Migration for Source Code (T),A. T. Nguyen; T. T. Nguyen; T. N. Nguyen,2015
+Copy and Paste Redeemed (T),K. Narasimhan; C. Reichenbach,2015
+Opiner: An opinion search and summarization engine for APIs,G. Uddin; F. Khomh,2017
+"Bita: Coverage-guided, automatic testing of actor programs",S. Tasharofi; M. Pradel; Y. Lin; R. Johnson,2013
+Context-aware integrated development environment command recommender systems,M. Gasparic; T. Gurbanov; F. Ricci,2017
+The rise of the (modelling) bots: Towards assisted modelling via social networks,S. P¨¦rez-Soler; E. Guerra; J. de Lara; F. Jurado,2017
+CSeq: A concurrency pre-processor for sequential C verification tools,B. Fischer; O. Inverso; G. Parlato,2013
+Stability of Self-Adaptive Software Architectures,M. Salama,2015
+Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges (T),S. Shamshiri; R. Just; J. M. Rojas; G. Fraser; P. McMinn; A. Arcuri,2015
+Reverse Engineering Mobile Application User Interfaces with REMAUI (T),T. A. Nguyen; C. Csallner,2015
+DSIbin: Identifying dynamic data structures in C/C++ binaries,T. Rupprecht; X. Chen; D. H. White; J. H. Boockmann; G. L¨¹ttgen; H. Bos,2017
+Crust: A Bounded Verifier for Rust (N),J. Toman; S. Pernsteiner; E. Torlak,2015
+TrEKer: Tracing error propagation in operating system kernels,N. Coppik; O. Schwahn; S. Winter; N. Suri,2017
+A comparative analysis of software architecture recovery techniques,J. Garcia; I. Ivkovic; N. Medvidovic,2013
+Minimizing CPU time shortage risks in integrated embedded software,S. Nejati; M. Adedjouma; L. C. Briand; J. Hellebaut; J. Begey; Y. Clement,2013
+Exploiting Domain and Program Structure to Synthesize Efficient and Precise Data Flow Analyses (T),E. Sherman; M. B. Dwyer,2015
+Covert Communication in Mobile Applications (T),J. Rubin; M. I. Gordon; N. Nguyen; M. Rinard,2015
+Kobold: Web usability as a service,J. Grigera; A. Garrido; G. Rossi,2017
+BLITZ: Compositional bounded model checking for real-world programs,C. Y. Cho; V. D'Silva; D. Song,2013
+Promoting secondary orders of event pairs in randomized scheduling using a randomized stride,M. Abdelrasoul,2017
+Systematically testing background services of mobile apps,L. L. Zhang; C. M. Liang; Y. Liu; E. Chen,2017
+The interactive verification debugger: Effective understanding of interactive proof attempts,M. Hentschel; R. H?hnle; R. Bubel,2016
+Automated testing and notification of mobile app privacy leak-cause behaviours,J. C. J. Keng,2016
+Statistical analysis of large sets of models,?. Babur,2016
+API recommendation system for software development,F. Thung,2016
+Changing microsoft's build: Revolution or evolution,W. Schulte,2016
+AnModeler: A tool for generating domain models from textual specifications,J. S. Thakur; A. Gupta,2016
+Factoring requirement dependencies in software requirement selection using graphs and integer programming,D. Mougouei,2016
+Developer targeted analytics: Supporting software development decisions with runtime information,J. Cito,2016
+Program generation for performance,M. P¨¹schel,2016
+The power of probabilistic thinking,D. S. Rosenblum,2016
+SimilarTech: Automatically recommend analogical libraries across different programming languages,C. Chen; Z. Xing,2016
+Conc-iSE: Incremental symbolic execution of concurrent software,S. Guo; M. Kusano; C. Wang,2016
+Identifying domain elements from textual specifications,J. S. Thakur; A. Gupta,2016
+SOFIA: An automated security oracle for black-box testing of SQL-injection vulnerabilities,M. Ceccato; C. D. Nguyen; D. Appelt; L. C. Briand,2016
+An extensible framework for variable-precision data-flow analyses in MPS,T. Szab¨®; S. Alperovich; S. Erdweg; M. Voelter,2016
+Efficient detection of inconsistencies in a multi-developer engineering environment,A. Demuth; M. Riedl-Ehrenleitner; A. Egyed,2016
+Local-based active classification of test report to assist crowdsourced testing,J. Wang; S. Wang; Q. Cui; Q. Wang,2016
+Taming Android fragmentation: Characterizing and detecting compatibility issues for Android apps,L. Wei; Y. Liu; S. Cheung,2016
+GUICat: GUI testing as a service,L. Cheng; J. Chang; Z. Yang; C. Wang,2016
+Greedy combinatorial test case generation using unsatisfiable cores,A. Yamada; A. Biere; C. Artho; T. Kitamura; E. Choi,2016
+CrowdService: Serving the individuals through mobile crowdsourcing and service composition,X. Peng; J. Gu; T. H. Tan; J. Sun; Y. Yu; B. Nuseibeh; W. Zhao,2016
+HybriDroid: Static analysis framework for Android hybrid applications,S. Lee; J. Dolby; S. Ryu,2016
+Applying combinatorial test data generation to big data applications,N. Li; Y. Lei; H. R. Khan; J. Liu; Y. Guo,2016
+Move-optimized source code tree differencing,G. Dotzler; M. Philippsen,2016
+Fine-tuning spectrum based fault localisation with frequent method item sets,G. Laghari; A. Murgia; S. Demeyer,2016
+Automatic runtime recovery via error handler synthesis,T. Gu; C. Sun; X. Ma; J. L¨¹; Z. Su,2016
+An empirical study on dependence clusters for effort-aware fault-proneness prediction,Y. Yang; M. Harman; J. Krinke; S. Islam; D. Binkley; Y. Zhou; B. Xu,2016
+DistIA: A cost-effective dynamic impact analysis for distributed programs,H. Cai; D. Thain,2016
+Battery-aware transformations in mobile applications,J. Cito; J. Rubin; P. Stanley-Marbell; M. Rinard,2016
+IncA: A DSL for the definition of incremental program analyses,T. Szab¨®; S. Erdweg; M. Voelter,2016
+LockPeeker: Detecting latent locks in Java APIs,Z. Lin; H. Zhong; Y. Chen; J. Zhao,2016
+An empirical investigation into the nature of test smells,M. Tufano; F. Palomba; G. Bavota; M. Di Penta; R. Oliveto; A. De Lucia; D. Poshyvanyk,2016
+Mining input grammars from dynamic taints,M. H?schele; A. Zeller,2016
+Reflection-aware static analysis of Android apps,L. Li; T. F. Bissyand¨¦; D. Octeau; J. Klein,2016
+Static race detection for device drivers: The Goblint approach,V. Vojdani; K. Apinis; V. R?tov; H. Seidl; V. Vene; R. Vogler,2016
+Optimizing customized program coverage,P. Ohmann; D. B. Brown; N. Neelakandan; J. Linderoth; B. Liblit,2016
+Practical guidelines for change recommendation using association rule mining,L. Moonen; S. Di Alesio; D. Binkley; T. Rolfsnes,2016
+An end-user oriented tool suite for development of mobile applications,Z. Zhai; B. Cheng; M. Niu; Z. Wang; Y. Feng; J. Chen,2016
+Traceability maintenance: Factors and guidelines,S. Maro; A. Anjorin; R. Wohlrab; J. Stegh?fer,2016
+Inferring annotations for device drivers from verification histories,Z. Pavlinovic; A. Lal; R. Sharma,2016
+Test case permutation to improve execution time,P. Stratis; A. Rajan,2016
+MACKE: Compositional analysis of low-level vulnerabilities with symbolic execution,S. Ognawala; M. Ochoa; A. Pretschner; T. Limmer,2016
+DSL-maps: From requirements to design of domain-specific languages,A. Pescador; J. de Lara,2016
+APEx: Automated inference of error specifications for C APIs,Y. Kang; B. Ray; S. Jana,2016
+Testing advanced driver assistance systems using multi-objective search and neural networks,R. Ben Abdessalem; S. Nejati; L. C. Briand; T. Stifter,2016
+Evaluating the evaluations of code recommender systems: A reality check,S. Proksch; S. Amann; S. Nadi; M. Mezini,2016
+CORRECT: Code reviewer recommendation at GitHub for Vendasta technologies,M. M. Rahman; C. K. Roy; J. Redl; J. A. Collins,2016
+Visual contract extractor: A tool for reverse engineering visual contracts using dynamic analysis,A. Alshanqiti; R. Heckel; T. Kehrer,2016
+Precise semantic history slicing through dynamic delta refinement,Y. Li; C. Zhu; J. Rubin; M. Chechik,2016
+Deep learning code fragments for code clone detection,M. White; M. Tufano; C. Vendome; D. Poshyvanyk,2016
+Automatic microbenchmark generation to prevent dead code elimination and constant folding,M. Rodriguez-Cancio; B. Combemale; B. Baudry,2016
+CVExplorer: Identifying candidate developers by mining and exploring their open source contributions,G. J. Greene; B. Fischer,2016
+Symbolic execution of stored procedures in database management systems,M. S. Mahmood; M. A. Ghafoor; J. H. Siddiqui,2016
+Towards bounded model checking using nonlinear programming solver,M. Nishi,2016
+Finding access control bugs in web applications with CanCheck,I. Boci?; T. Bultan,2016
+TeeVML: Tool support for semi-automatic integration testing environment emulation,J. Liu; J. Grundy; I. Avazpour; M. Abdelrazek,2016
+Model-based whitebox fuzzing for program binaries,V. Pham; M. B?hme; A. Roychoudhury,2016
+Continuous detection of design flaws in evolving object-oriented programs using incremental multi-pattern matching,S. Peldszus; G. Kulcs¨¢r; M. Lochau; S. Schulze,2016
+Supporting oracle construction via static analysis,J. Chen; Y. Bai; D. Hao; L. Zhang; L. Zhang; B. Xie; H. Mei,2016
+QUICKAR: Automatic query reformulation for concept location using crowdsourced knowledge,M. M. Rahman; C. K. Roy,2016
+Verifying Simulink Stateflow model: Timed automata approach,Y. Yang; Y. Jiang; M. Gu; J. Sun,2016
+Towards efficient and effective automatic program repair,X. D. Le,2016
+How good are the specs? A study of the bug-finding effectiveness of existing Java API specifications,O. Legunsen; W. U. Hassan; X. Xu; G. Ro?u; D. Marinov,2016
+Multi-objective test report prioritization using image understanding,Y. Feng; J. A. Jones; Z. Chen; C. Fang,2016
+Automated model-based Android GUI testing using multi-level GUI comparison criteria,Y. Baek; D. Bae,2016
+An automated collaborative requirements engineering tool for better validation of requirements,N. A. Moketar; M. Kamalrudin; S. Sidek; M. Robinson; J. Grundy,2016
+Towards automatically generating descriptive names for unit tests,B. Zhang; E. Hill; J. Clause,2016
+Automatic test image generation using procedural noise,M. Patrick; M. D. Castle; R. O. J. H. Stutt; C. A. Gilligan,2016
+Locus: Locating bugs from software changes,M. Wen; R. Wu; S. Cheung,2016
+Generating test cases to expose concurrency bugs in android applications,H. Tang; G. Wu; J. Wei; H. Zhong,2016
+Migrating cascading style sheets to preprocessors by introducing mixins,D. Mazinanian; N. Tsantalis,2016
+Recommending relevant classes for bug reports using multi-objective search,R. Almhana; W. Mkaouer; M. Kessentini; A. Ouni,2016
+What developers want and need from program analysis: An empirical study,M. Christakis; C. Bird,2016
+Mining revision histories to detect cross-language clones without intermediates,X. Cheng; Z. Peng; L. Jiang; H. Zhong; H. Yu; J. Zhao,2016
+StraightTaint: Decoupled offline symbolic taint analysis,J. Ming; D. Wu; J. Wang; G. Xiao; P. Liu,2016
+Radius aware probabilistic testing of deadlocks with guarantees,Y. Cait; Z. Yang,2016
+Bugram: Bug detection with n-gram language models,S. Wang; D. Chollak; D. Movshovitz-Attias; L. Tan,2016
+Learning a dual-language vector space for domain-specific cross-lingual question retrieval,G. Chen; C. Chen; Z. Xing; B. Xu,2016
+Sound static deadlock analysis for C/Pthreads,D. Kroening; D. Poetzl; P. Schrammel; B. Wachter,2016
+Evaluating non-adequate test-case reduction,M. A. Alipour; A. Shi; R. Gopinath; D. Marinov; A. Groce,2016
+Phrase-based extraction of user opinions in mobile app reviews,P. M. Vu; H. V. Pham; T. T. Nguyen; T. T. Nguyen,2016
+Relda2: An effective static analysis tool for resource leak detection in Android apps,T. Wu; J. Liu; X. Deng; J. Yan; J. Zhang,2016
+An empirical evaluation of two user interfaces of an interactive program verifier,M. Hentschel; R. H?hnle; R. Bubel,2016
+The IDE as a scriptable information system,D. Asenov; P. M¨¹ller; L. Vogel,2016
+What makes killing a mutant hard,W. Visser,2016
+Model driven design of heterogeneous synchronous embedded systems,H. Zhang; Y. Jiang; H. Liu; H. Zhang; M. Gu; J. Sun,2016
+"Usage, costs, and benefits of continuous integration in open-source projects",M. Hilton; T. Tunnell; K. Huang; D. Marinov; D. Dig,2016
+Array length inference for C library bindings,A. J. Maas; H. Nazar¨¦; B. Liblit,2016
+Predicting semantically linkable knowledge in developer online forums via convolutional neural network,B. Xu; D. Ye; Z. Xing; X. Xia; G. Chen; S. Li,2016
+BovInspector: Automatic inspection and repair of buffer overflow vulnerabilities,F. Gao; L. Wang; X. Li,2016
+Lightweight collection and storage of software repository data with DataRover,T. Kowark; C. Matthies; M. Uflacker; H. P. H. Plattner,2016
+On essential configuration complexity: Measuring interactions in highly-configurable systems,J. Meinicke; C. Wong; C. K?stner; T. Th¨¹m; G. Saake,2016
+Privacy preserving via interval covering based subclass division and manifold learning based bi-directional obfuscation for effort estimation,F. Qi; X. Jing; X. Zhu; F. Wu; L. Cheng,2016
+Too much automation? The bellwether effect and its implications for transfer learning,R. Krishna; T. Menzies; W. Fu,2016
+ProcessPAIR: A tool for automated performance analysis and improvement recommendation in software development,M. Raza; J. P. Faria,2016
+SuperMod: Tool support for collaborative filtered model-driven software product line engineering,F. Schw?ger; B. Westfechtel,2016
+Goal-conflict detection based on temporal satisfiability checking,R. Degiovanni; N. Ricci; D. Alrajeh; P. Castro; N. Aguirre,2016
+Symbolic execution of complex program driven by machine learning based constraint solving,X. Li; Y. Liang; H. Qian; Y. Hu; L. Bu; Y. Yu; X. Chen; X. Li,2016
+Automatically recommending code reviewers based on their expertise: An empirical comparison,C. Hannebauer; M. Patalas; S. St¨¹nkelt; V. Gruhn,2016
+Visualization of combinatorial models and test plans,R. Tzoref-Brill; P. Wojciak; S. Maoz,2016

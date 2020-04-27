@@ -1,0 +1,71 @@
+body {
+    background-image: url(../img/background.jfif);
+    background-size: cover;
+    text-align: center;
+}
+
+/* -----------上方菜单css--------------- */
+#menu{
+	position: fixed;
+	background-color: rgba(16, 45, 103, 0.6);
+	top: 0rem;
+	left: 0rem;
+	width: 100%;
+	height: 4rem;
+}
+
+#menu h1{
+	position: absolute;
+	left: 2.5rem;
+	top: 0.8rem;
+	margin-top: 0rem;
+	margin-bottom: 0rem;
+	color: #FFFFFF;
+}
+
+#modeSelect{
+	position: absolute;
+	width: 10rem;
+	left: 10rem;
+	border-style: solid;
+	border: #FFFFFF;
+	border-left-color: #000000;
+	color: #FFFFFF;
+}
+/* --------------------------- */
+
+#filter{
+	position: fixed;
+	left: 0rem;
+	top: 4rem;
+	width: 100%;
+	height: 90%;
+	padding-top: 5rem;
+	padding-left: 5rem;
+	background-color: rgba(255,255,255,0.85);
+}
+
+#interestTable{
+	width: 80%;
+	height: 80%;
+	padding-left: 3rem;
+	padding-top: 2rem;
+	border: 12px outset rgba(141, 46, 22, 1);
+	border-radius: 6px;
+	background-color: rgba(0, 24, 3, 229);
+}
+
+#interestTable h1{
+	color: white;
+	text-align: left;
+}
+
+.intContent{
+	position: relative;
+	height: min-content;
+	width: min-content;
+	text-align: left;
+	padding-left: 3rem;
+	margin: 0;
+	color: white;
+}

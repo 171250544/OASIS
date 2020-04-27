@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	</head>
+	<body>
+		<div id="app">
+			<el-container id="container">
+			  <el-header id="header">
+				<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" 
+					id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+					<h1 id="titleOASIS">OASIS</h1>
+					<el-menu-item index="1">搜索中心</el-menu-item>
+					<el-menu-item index="2">关系图谱</el-menu-item>
+					<el-menu-item index="3">管理数据</el-menu-item>
+				</el-menu>
+			  </el-header>
+			  <el-main id="main">
+				  <div id="searchBoard">
+				  	<h1 id="ti">Online graph system for acdemics</h1>
+					<el-row :gutter="0">
+					  <el-col :span="5">
+						  <el-select v-model="value" placeholder="请选择" id="select">
+						  	<el-option
+						  	v-for="item in options"
+						  	:key="item.value"
+						  	:label="item.label"
+						  	:value="item.value">
+						  	</el-option>
+						  </el-select>
+					  </el-col>
+					  <el-col :span="15"><el-input v-model="input" placeholder="请输入内容" id="input" @keyup.enter.native = 'submit()' clearable></el-input></el-col>
+					  <el-col :span="4"><el-button type="primary" icon="el-icon-search" @click="submit()">搜索</el-button></el-col>
+					</el-row>
+					<el-button @click="drawer = true" type="primary" id="advancedSearch">高级搜索<i class="el-icon-arrow-right el-icon--right"></i></el-button>
+
+					<el-drawer
+					  title="我是标题"
+					  :visible.sync="drawer"
+					  :with-header="false"
+					  size="50%">
+					  <div id="AStable">
+					  	<h1>论文高级检索</h1>
+						<p>注：选项可不填，仅对填写的条件进行搜索</p>
+						<el-form label-position="right" label-width="80px" :model="formLabelAlign">
+						  <el-form-item label="作者" label-width="100px">
+						    <el-input v-model="formLabelAlign.author"></el-input>
+						  </el-form-item>
+						  <el-form-item label="机构" label-width="100px">
+						    <el-input v-model="formLabelAlign.affiliations"></el-input>
+						  </el-form-item>
+						  <el-form-item label="时间范围" label-width="100px">
+							<div id="timeRow">
+								<el-date-picker
+								  v-model="formLabelAlign.timeBegin"
+								  type="year"
+								  placeholder="从何时开始">
+								</el-date-picker>
+								<div>---</div>
+								<el-date-picker
+								  v-model="formLabelAlign.timeEnd"
+								  type="year"
+								  placeholder="到何时结束">
+								</el-date-picker>
+							</div>
+						  </el-form-item>
+						  <el-form-item label="研究关键词" label-width="100px">
+						    <el-input v-model="formLabelAlign.keyWord"></el-input>
+						  </el-form-item>
+						  <el-form-item label="会议" label-width="100px">
+						    <el-input v-model="formLabelAlign.meeting"></el-input>
+						  </el-form-item>
+						</el-form>
+						<el-button type="primary" icon="el-icon-search" id="ASBtn" @click="advanceSubmit()">搜索</el-button>
+					  </div>
+					</el-drawer>
+				  </div>
+
+			  </el-main>
+			</el-container>
+
+		</div>
+		<!-- import Vue before Element -->
+		<!-- <script src="https://unpkg.com/vue/dist/vue.js"></script> -->
+		<script src="js/vue.js"></script>
+		<!-- import JavaScript -->
+		<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+		<script src="js/main.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

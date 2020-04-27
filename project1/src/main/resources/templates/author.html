@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<link rel="stylesheet" type="text/css" href="css/partAll.css"/>
+		<link rel="stylesheet" type="text/css" href="css/author.css"/>
+	</head>
+	<body>
+		<div id="app">
+			<el-container id="container">
+				<el-header id="header">
+					<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" 
+						id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+						<h1 id="titleOASIS">OASIS</h1>
+						<el-menu-item index="1">搜索中心</el-menu-item>
+						<el-menu-item index="2">关系图谱</el-menu-item>
+						<el-menu-item index="3">管理数据</el-menu-item>
+					</el-menu>
+				</el-header>
+				<el-main>
+					<el-row :gutter="20">
+					  <el-col :span="18"><div class="leftTable">
+						  <el-container>
+							<el-aside width="150px">
+								<el-avatar shape="square" :size="150" :src="squareUrl"></el-avatar>
+							</el-aside>
+							<el-main id="photoRight">
+								<div id="bigName">
+									<span>{{authorName}}</span>
+								</div>
+								<el-link :underline="false" 
+									@click="checkAffiliation(affiliationId)"
+									id="sumAff">
+									机构：{{affiliation}}</el-link>
+							</el-main>
+						  </el-container>
+						<p class="attributes">活跃度：{{huoyuedu}}</p>
+						<div class="introTable">
+							<span class="introTitle">人物简介</span>
+							<el-divider></el-divider>
+							<span class="introContent">{{introduction}}</span>
+						</div>
+						<el-table
+						  v-loading="loading"
+						  :data="tableData"
+						  style="width: 100%"
+						  >
+						  <el-table-column
+							label="论文列表">
+							<template slot-scope="scope">
+								<div>
+									<el-link :underline="false" @click="checkDetails(scope.row.id)"><span class="talbeTitle">{{scope.row.title}}</span></el-link>
+								</div>
+								<div>
+									<el-link type="info" :underline="false" 
+									@click="checkAuthor(scope.row.affIds[index])" 
+									v-for="(item,index) in scope.row.affNames" 
+									:key="index">
+									<span>{{item}}，</span></el-link>
+								</div>
+							</template>
+						  </el-table-column>
+						  <el-table-column
+							prop="refCount"
+							label="引用数"
+							width="150">
+						  </el-table-column>
+						  <el-table-column
+							prop="year"
+							label="年份"
+							width="150">
+						  </el-table-column>
+						</el-table>
+					  </div></el-col>
+					  <el-col :span="6">
+						  <div class="rightAsideBox">
+							  <p class="BoxName">概况</p>
+							  <el-row class="summarizeRow">
+							    <el-col :span="8">
+									<p class="bigNums">{{ paperCount }}</p>
+									<p>论文数</p>
+								</el-col>
+							    <el-col :span="8">
+									<p class="bigNums">{{ ref }}</p>
+									<p>总引用数</p>
+								</el-col>
+								<el-col :span="8">
+									<p class="bigNums">{{ meetingCount }}</p>
+									<p>参加会议数</p>
+								</el-col>
+							  </el-row>
+						  </div>
+						  <div class="rightAsideBox">
+							  <p class="BoxName">相关研究方向</p>
+							  <el-table
+								:data="terms"
+								:show-header="false"
+								stripe
+								style="width: 100%">
+								<el-table-column
+									label="研究方向">
+									<template slot-scope="scope">
+										<el-link :underline="false" @click="checkTerm(scope.row.name)">{{scope.row.name}}</el-link>
+									</template>
+								</el-table-column>
+							  </el-table>
+						  </div>
+						  <div class="rightAsideBox">
+							  <p class="BoxName">相关作者(合作)</p>
+							  <el-table
+								:data="friendsName"
+								:show-header="false"
+								stripe
+								style="width: 100%">
+								<el-table-column
+									label="作者">
+									<template slot-scope="scope">
+										<el-link :underline="false" @click="checkAuthor(scope.row.id)">{{scope.row.name}}</el-link>
+									</template>
+								</el-table-column>
+							  </el-table>
+						  </div>
+					  </el-col>
+					</el-row>
+				</el-main>
+			</el-container>
+		</div>
+		
+		<script src="js/vue.js"></script>
+		<!-- import JavaScript -->
+		<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+		<script src="js/author.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

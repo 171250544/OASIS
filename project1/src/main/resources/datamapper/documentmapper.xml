@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.documentmapper">
+    <select id="search" resultType="com.example.demo.po.author_document">
+        select author_document.* from author_document inner join document_terms on author_document.id=document_terms.id  where author_document.authorname like #{authorname} or author_document.title like #{authorname} or author_document.authoraffiliations like #{authorname} or author_document.meeting like #{authorname} or author_document.year like #{authorname}or document_terms.authorkeywords like #{authorname}
+    </select>
+
+    <select id="searchbylist" resultType="com.example.demo.po.author_document">
+        select author_document.* from author_document inner join document_terms on author_document.id=document_terms.id  where author_document.authorname like #{author} and author_document.authoraffiliations like #{afflication} and author_document.meeting like #{meeting} and document_terms.authorkeywords like #{keyword} and author_document.year >= #{begin} and author_document.year &lt;= #{end}
+    </select>
+
+    <select id="searchasyears" resultType="com.example.demo.po.author_document">
+        select * from author_document where year &lt;= #{end} and year >= #{start}
+    </select>
+
+    <select id="searchDetailById" resultType="com.example.demo.po.document_detail">
+        select  * from contentofdocument where id =#{ID}
+    </select>
+
+    <select id="searchAll" resultType="com.example.demo.po.author_document">
+        select * from author_document
+    </select>
+
+    <insert id="insert_author_simple" parameterType="com.example.demo.po.author_simple">
+        insert into author_simple(name,affiliation,documentcount)
+        values (#{authorname},#{authoraffiliation},#{documentcount})
+    </insert>
+
+    <insert id="insert_affiliation_simple" parameterType="com.example.demo.po.affiliation_simple">
+        insert into affiliation_simple(name,documentcount)
+        values (#{affiliationname},#{documentcount})
+    </insert>
+
+    <insert id="insert_author_document" parameterType="com.example.demo.po.author_document">
+        insert into author_document(title,authorname,authoraffiliations,meeting,year)
+        values (#{title},#{authorname},#{authoraffiliations},#{publictitle},#{year})
+    </insert>
+
+    <insert id="insert_document_detail" parameterType="com.example.demo.po.document_detail">
+        insert into contentofdocument(title,authorname,authoraffiliations,meeting,year,abstracts,doi,link,authorkey,ieeeterms,citationcount,referencecount,publisher,identifier)
+        values (#{title},#{authorname},#{authoraffiliations},#{meeting},#{year},#{abstracts},#{doi},#{link},#{authorkey},#{ieeeterms},#{citationcount},#{referencecount},#{publisher},#{identifier})
+    </insert>
+
+    <insert id="insert_document_terms" parameterType="com.example.demo.po.document_terms">
+        insert into document_terms(title,authorkeywords,IEEEkeywords,INSPECControlledTerms,INSPECNonControlledTerms)
+        values (#{title},#{authorkeywords},#{IEEEkeywords},#{INSPECControlledTerms},#{INSPECNonControlledTerms})
+    </insert>
+
+    <insert id="insert_paperinformation" parameterType="com.example.demo.po.paperinformation">
+        insert into paperinformation(document_id,author_name,author_affname)
+        values (#{document_id},#{author_name},#{author_affname})
+    </insert>
+
+    <select id="countByAffiliation" resultType="java.lang.Integer">
+        select sum(documentcount) from affiliation_simple where name like #{name}
+    </select>
+
+    <select id="countByAffiliationByYear" resultType="java.lang.Integer">
+-- select count(*) from author_document where authoraffiliations like "%Nanjing University" and year=2019;
+        select count(*) from author_document where authoraffiliations like #{name} and year=#{year}
+    </select>
+
+    <select id="searchAllKeys" resultType="com.example.demo.po.document_detail">
+        select * from contentofdocument where authoraffiliations like #{name}
+    </select>
+
+    <select id="selectAuAffByDocId" resultType="com.example.demo.po.au_aff">
+        select a.id as authorId ,a.name as authorName,b.id as affiliationId, b.name as affiliationName
+          from author_simple a,affiliation_simple b ,paperinformation p
+            where a.name=p.author_name and a.affiliation = p.author_affname and p.document_id = #{id} and b.name=p.author_affname
+    </select>
+
+    <select id="searchbyieeeterm" resultType="com.example.demo.po.author_document">
+        select author_document.* from author_document inner join document_terms on author_document.id=document_terms.id  where document_terms.IEEEkeywords like #{ieee}
+    </select>
+
+
+    <select id="searchAffByAuthor" resultType="java.lang.String">
+         select affiliation from author_simple where name= #{name}
+    </select>
+
+    <select id="searchAuthotByAff" resultType="java.lang.String">
+         select distinct author_name from paperinformation where author_affname= #{affname}
+    </select>
+
+    <select id="getReferencecountbyid" resultType="java.lang.Integer">
+        select referencecount from contentofdocument where id =#{id}
+    </select>
+
+    <select id="getTitlesByAuthor" resultType="com.example.demo.po.aut_view">
+        select title,meeting,ieeeterms from contentofdocument inner join (select * from paperinformation where author_name
+        =#{authorname} and author_affname =#{affname})t on
+        contentofdocument.id=t.document_id order by referencecount desc;
+    </select>
+    
+    <select id="selectInfoById" resultType="com.example.demo.po.aut_view">
+        select name,affiliation,documentcount from author_simple where id=#{authorId};
+     </select>
+
+    <select id="getTitlesByAff" resultType="com.example.demo.po.aff_view">
+        select title,meeting,ieeeterms from contentofdocument inner join (select distinct document_id from paperinformation where author_affname=#{affname})t on
+        contentofdocument.id=t.document_id order by referencecount desc;
+     </select>
+
+    <select id="getAuthorByIeeeTerm" resultType="com.example.demo.po.author_simple">
+        select a.id as authorid,a.name as authorname,a.affiliation as authoraffiliation,count(*) as documentcount from author_simple a inner join paperinformation b on a.name=b.author_name and a.affiliation = b.author_affname where b.document_id in (select id from document_terms where IEEEkeywords like #{ieee}) group by authorid;
+    </select>
+
+    <select id="searchDetailByDocId" resultType="com.example.demo.po.document_detail">
+        select * from contentofdocument where id =#{id};
+     </select>
+
+    <select id="searchDocIDByAuthor" resultType="java.lang.Integer">
+        select document_id from paperinformation where author_name=#{authorName} and author_affname=#{affName};
+     </select>
+
+    <select id="getAuthorByAff" resultType="com.example.demo.po.author_simple">
+        select id as authorid,name as authorname,affiliation as authoraffiliation,documentcount from author_simple where affiliation=#{affname}
+    </select>
+
+    <select id="getAffNameByid" resultType="java.lang.String">
+        select name from affiliation_simple where id=#{affId}
+    </select>
+</mapper>

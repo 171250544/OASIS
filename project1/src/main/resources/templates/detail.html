@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<link rel="stylesheet" type="text/css" href="css/partAll.css"/>
+		<link rel="stylesheet" type="text/css" href="css/detail.css"/>
+	</head>
+	<body>
+		<div id="app">
+			<el-container id="container">
+				<el-header id="header">
+					<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" 
+						id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+						<h1 id="titleOASIS">OASIS</h1>
+						<el-menu-item index="1">搜索中心</el-menu-item>
+						<el-menu-item index="2">关系图谱</el-menu-item>
+						<el-menu-item index="3">管理数据</el-menu-item>
+					</el-menu>
+				</el-header>
+				<el-main id="main">
+					<el-row :gutter="20">
+					  <el-col :span="18"><div class="leftTable">
+						<div id="bigName">
+							<span>{{title}}</span>
+						</div>
+						<div class="attributeDiv">
+							<span class="attributes">作者：</span>
+							<el-link :underline="false"
+								@click="checkTerm(item.id)" 
+								v-for="(item, index) in authors" 
+								:key="index">
+								<span>{{item.name}}，</span></el-link>
+						</div>
+						<div class="attributeDiv">
+							<span class="attributes">机构：</span>
+							<el-link :underline="false"
+								@click="checkTerm(item.id)" 
+								v-for="(item, index) in affiliations" 
+								:key="index">
+								<span>{{item.name}}，</span></el-link>
+						</div>
+					  	<div class="attributeDiv">
+							<span class="attributes">会议：</span>
+						 	<el-link :underline="false"
+								   @click="checkMeeting(meeting)">
+							<span>{{meeting}}</span></el-link>
+					  	</div>
+						<p class="attributes">发表年份：{{year}}</p>
+						<p class="attributes">简要概括：{{abstracts}}</p>
+						<p class="attributes">DOI：{{doi}}</p>
+						<div class="attributeDiv">
+							<span class="attributes">全文链接：</span>
+							<el-link :underline="false" href="link">
+								<span>{{link}}</span></el-link>
+						</div>
+						<p class="attributes">关键词：{{authorkey}}</p>
+						<p class="attributes">出版商(机构)：{{publisher}}</p>
+						<p class="attributes">标识符：{{identifier}}</p>
+					  </div></el-col>
+					  <el-col :span="6">
+						  <div class="rightAsideBox">
+							  <p class="BoxName">概况</p>
+							  <el-row class="summarizeRow">
+							    <el-col :span="12">
+									<p class="bigNums">{{ referencecount }}</p>
+									<p>引用文章数</p>
+								</el-col>
+							    <el-col :span="12">
+									<p class="bigNums">{{ citationcount }}</p>
+									<p>被引用数</p>
+								</el-col>
+							  </el-row>
+						  </div>
+						  <div class="rightAsideBox">
+							  <p class="BoxName">相关研究方向</p>
+							  <el-table
+								:data="ieeeterms"
+								:show-header="false"
+								stripe
+								style="width: 100%">
+								<el-table-column
+									label="研究方向">
+									<template slot-scope="scope">
+										<el-link :underline="false" @click="checkTerm(scope.row.name)">{{scope.row.name}}</el-link>
+									</template>
+								</el-table-column>
+							  </el-table>
+						  </div>
+					  </el-col>
+					</el-row>
+				</el-main>
+			</el-container>
+		</div>
+		<script src="js/vue.js"></script>
+		<!-- import JavaScript -->
+		<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+		<script src="js/detail.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

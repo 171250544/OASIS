@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<link rel="stylesheet" type="text/css" href="css/manage_merge.css"/>
+		<link rel="stylesheet" type="text/css" href="css/manage.css"/>
+	</head>
+	<body>
+		<div id="app">
+			<el-container id="container">
+				<el-header id="header">
+					<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" 
+						id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+						<h1 id="titleOASIS">OASIS</h1>
+						<el-menu-item index="1">搜索中心</el-menu-item>
+						<el-menu-item index="2">关系图谱</el-menu-item>
+						<el-menu-item index="3">管理数据</el-menu-item>
+					</el-menu>
+				</el-header>
+				<el-container id="mainContainer">
+					<el-aside width="200px" id="aside">
+						<el-menu
+							default-active="1"
+							class="el-menu-vertical-demo"
+							@select="handleOpen">
+							<div id="userSymbol">
+								<i class="el-icon-user-solid"></i>
+								<span id="username">{{userName}}</span>
+							</div>
+							<el-divider></el-divider>
+							<el-menu-item index="1">
+							  <i class="el-icon-connection"></i>
+							  <span slot="title">同义词处理</span>
+							</el-menu-item>
+							<el-menu-item index="2">
+							  <i class="el-icon-circle-plus-outline"></i>
+							  <span slot="title">新增数据</span>
+							</el-menu-item>
+						</el-menu>
+					</el-aside>
+					<el-main>
+						<el-row :gutter="20">
+						  <el-col :span="12">
+							  <div id="searchDiv">
+							  	<el-row :gutter="0">
+							  	  <el-col :span="20"><el-input v-model="input" placeholder="请输入内容" id="input" @keyup.enter.native = 'submit()' clearable></el-input></el-col>
+							  	  <el-col :span="4"><el-button type="primary" icon="el-icon-search" @click="submit()">搜索</el-button></el-col>
+							  	</el-row>
+								<p>注：仅限定义机构间的同义词，即只能将机构的别称与正式称呼合并，其他属性不能合并(其他属性存在重名可能)</p>
+							  </div>
+							  <div id="ansDiv">
+								<h2>已定义的同义词表</h2>
+							  	<el-table
+								  v-loading="loading1"
+								  :data="synonymData"
+								  style="width: 100%">
+								  <el-table-column
+									prop="synonym"
+									label="同义词"
+									>
+								</el-table>
+							  </div>
+						  </el-col>
+						  <el-col :span="12">
+							<h2>相似词表</h2>
+							<el-table
+							  v-loading="loading2"
+							  :data="allSimilar"
+							  stripe
+							  style="width: 100%"
+							  @selection-change="handleSelectionChange">
+							  <el-table-column
+								type="selection"
+								width="55">
+							  </el-table-column>
+							  <el-table-column
+								prop="synonym"
+								label="相似词"
+								>
+							  </el-table-column>
+							</el-table>
+							<el-button type="primary" icon="el-icon-arrow-left" id="mergeSubmitBtn" @click="mergeSubmit">将选中项定义为同义词</el-button>
+						  </el-col>
+						</el-row>
+					</el-main>
+				</el-container>
+			</el-container>
+		</div>
+		<!-- import Vue before Element -->
+		<!-- <script src="https://unpkg.com/vue/dist/vue.js"></script> -->
+		<script src="js/vue.js"></script>
+		<!-- import JavaScript -->
+		<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+		<script src="js/manage_merge.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

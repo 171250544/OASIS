@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.termmapper">
+
+    <select id="getdocumentForTermActiceness" resultType="com.example.demo.po.documentForTermActiceness">
+        select detail.id as id,detail.year as year,detail.citationcount as citationcount,detail.referencecount
+         as referencecount,terms.IEEEkeywords as ieeeterms from contentofdocument detail
+         inner join document_terms terms on detail.id=terms.id where terms.IEEEkeywords like #{name};
+    </select>
+
+    <select id="getIeeeTermsByNmae" resultType="java.lang.String">
+        select IEEEkeywords from document_terms where document_terms.IEEEkeywords like #{name};
+    </select>
+</mapper>

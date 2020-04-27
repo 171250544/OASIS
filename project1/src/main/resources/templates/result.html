@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<link rel="stylesheet" type="text/css" href="css/result.css"/>
+	</head>
+	<body>
+		<div id="app">
+			<el-container id="container">
+				<el-header id="header">
+					<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect" 
+						id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+						<h1 id="titleOASIS">OASIS</h1>
+						<el-menu-item index="1">搜索中心</el-menu-item>
+						<el-menu-item index="2">关系图谱</el-menu-item>
+						<el-menu-item index="3">管理数据</el-menu-item>
+					</el-menu>
+				</el-header>
+				<el-container>
+			      <el-aside width="250px" id="aside">
+					  <div id="symbol">
+					  	<!-- 图标，暂无 -->
+					  </div>
+					  <el-collapse v-model="activeNames" @change="handleChange">
+					    <el-collapse-item title="作者" name="1">
+							<el-input v-model="formLabelAlign.author" @change="asideSubmit"></el-input>
+					    </el-collapse-item>
+					    <el-collapse-item title="机构" name="2">
+							<el-input v-model="formLabelAlign.affiliations" @change="asideSubmit"></el-input>
+					    </el-collapse-item>
+					    <el-collapse-item title="年份范围" name="3">
+							<el-date-picker
+							  v-model="formLabelAlign.timeBegin"
+							  type="year"
+							  placeholder="从何时开始"
+							  @change="asideSubmit">
+							</el-date-picker>
+							<el-date-picker
+							  v-model="formLabelAlign.timeEnd"
+							  type="year"
+							  placeholder="到何时结束"
+							  @change="asideSubmit">
+							</el-date-picker>
+					    </el-collapse-item>
+					    <el-collapse-item title="研究关键词" name="4">
+							<el-input v-model="formLabelAlign.keyWord" @change="asideSubmit"></el-input>
+					    </el-collapse-item>
+						<el-collapse-item title="会议" name="5">
+							<el-input v-model="formLabelAlign.meeting" @change="asideSubmit"></el-input>
+						</el-collapse-item>
+					  </el-collapse>
+				  </el-aside>
+			      <el-main>
+						<div id="resultSearch">
+						  <el-row :gutter="0">
+							<el-col :span="5">
+							  <el-select v-model="value" placeholder="请选择" id="select">
+								<el-option
+								v-for="item in options"
+								:key="item.value"
+								:label="item.label"
+								:value="item.value">
+								</el-option>
+							  </el-select>
+							</el-col>
+							<el-col :span="15"><el-input v-model="input" placeholder="请输入内容" id="input" @keyup.enter.native = 'submit()' clearable></el-input></el-col>
+							<el-col :span="4"><el-button type="primary" icon="el-icon-search" @click="submit()">搜索</el-button></el-col>
+						  </el-row>
+						</div>
+						<span>共找到{{ resultCount }}条记录，点击标题可查看详细信息</span>
+						<el-divider></el-divider>
+						<el-table
+						  v-loading="loading"
+						  :data="tableData"
+						  style="width: 100%"
+						  >
+						  <el-table-column
+							label="论文列表">
+							<template slot-scope="scope">
+								<div>
+									<el-link :underline="false" @click="checkDetails(scope.row.id)"><span class="talbeTitle">{{scope.row.title}}</span></el-link>
+								</div>
+								<div class="authors">
+									<el-link type="info" :underline="false" 
+									@click="checkAuthor(scope.row.authorIds[index])" 
+									v-for="(item,index) in scope.row.authorNames" 
+									:key="index">
+									<span>{{item}}，</span></el-link>
+								</div>
+							</template>
+						  </el-table-column>
+						  <el-table-column
+							prop="ref"
+							label="引用数"
+							width="150">
+						  </el-table-column>
+						  <el-table-column
+							prop="year"
+							label="年份"
+							width="150">
+						  </el-table-column>
+						  <el-table-column
+						    label="机构"
+							width="300">
+							<template slot-scope="scope">
+								<el-link :underline="false" 
+									@click="checkAffiliation(scope.row.affiliationIds[index])" 
+									v-for="(item,index) in scope.row.affiliationNames" 
+									:key="index">
+									<span>{{item}}，</span>
+								</el-link>
+							</template>
+						  </el-table-column>
+						</el-table>
+				  </el-main>
+			    </el-container>
+			</el-container>
+		</div>
+		
+		<!-- import Vue before Element -->
+		<!-- <script src="https://unpkg.com/vue/dist/vue.js"></script> -->
+		<script src="js/vue.js"></script>
+		<!-- import JavaScript -->
+		<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+		<script src="js/result.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+	<link rel="stylesheet" type="text/css" href="css/chart.css"/>
+</head>
+<body style="height: 100%; margin: 0">
+<div id="app">
+	<el-container id="container">
+		<el-header id="header">
+			<el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect"
+					 id="menu" text-color="#FFFFFF" active-text-color="#FFFFFF" background-color="#000030">
+				<h1 id="titleOASIS">OASIS</h1>
+				<el-menu-item index="1">搜索中心</el-menu-item>
+				<el-menu-item index="2">关系图谱</el-menu-item>
+				<el-menu-item index="3">管理数据</el-menu-item>
+			</el-menu>
+		</el-header>
+		<el-main id="main">
+			<el-row id="row">
+				<el-col :span="6">
+					<div id="searchBoard">
+						<el-row :gutter="0">
+							<el-col :span="5">
+								<el-select v-model="value" placeholder="请选择" id="select">
+									<el-option
+											v-for="item in options"
+											:key="item.value"
+											:label="item.label"
+											:value="item.value">
+									</el-option>
+								</el-select>
+							</el-col>
+							<el-col :span="15"><el-input v-model="input" placeholder="请输入内容" id="input" @keyup.enter.native = 'submit()' clearable></el-input></el-col>
+							<el-col :span="4"><el-button type="primary" icon="el-icon-search" @click="submit()"></el-button></el-col>
+						</el-row>
+					</div>
+					<el-divider></el-divider>
+					<el-table
+							:data="results"
+							style="width: 100%">
+						<el-table-column
+								label="搜索结果">
+							<template slot-scope="scope">
+								<el-link :underline="false" @click="getChart(scope.row.uri)">{{scope.row.name}}</el-link>
+							</template>
+						</el-table-column>
+						<el-table-column
+								prop="activeness"
+								label="活跃度"
+								width="70">
+						</el-table-column>
+					</el-table>
+				</el-col>
+				<el-col :span="14">
+					<div id="canvas">
+						<div id="chart" style="height: 100%"></div>
+					</div>
+				</el-col>
+				<el-col :span="4">
+					<el-table
+							:data="rank"
+							style="width: 100%">
+						<el-table-column
+								label="排行榜">
+							<template slot-scope="scope">
+								<el-link :underline="false" @click="getChart(scope.row.uri)">{{scope.row.name}}</el-link>
+							</template>
+						</el-table-column>
+						<el-table-column
+								prop="activeness"
+								label="活跃度"
+								width="70">
+						</el-table-column>
+					</el-table>
+				</el-col>
+			</el-row>
+		</el-main>
+	</el-container>
+</div>
+<script src="js/jquery-3.4.1.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/china.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/getscript?v=2.0&ak=3VqKzz7HoHABT88sMtsWGcGAwydkysVr"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/bmap.min.js"></script>
+<script src="js/vue.js"></script>
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<script src="js/chart.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
